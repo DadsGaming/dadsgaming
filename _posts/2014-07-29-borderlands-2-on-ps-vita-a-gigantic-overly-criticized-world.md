@@ -1,4 +1,9 @@
 ---
+owner:
+  name: Chemical Winter
+  avatar: bio-photo.jpg
+  email: you@email.com
+  twitter: ChemicalWinter
 layout: post
 title: "Borderlands 2 on PS Vita - A Gigantic, Overly Criticized World "
 modified: 2014-07-29 12:47:00 -0700
@@ -10,11 +15,7 @@ image:
   creditlink: 
 comments: false
 share: true
-owner:
-  name:           Chemical Winter
-  avatar:         bio-photo.jpg
-  email:          you@email.com
-  twitter:		ChemicalWinter
+
 ---
 
 <iframe src="https://www.flickr.com/photos/126304189@N08/14591071767/player/e9f541e6b7" height="195" width="500"  frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen oallowfullscreen msallowfullscreen></iframe>
