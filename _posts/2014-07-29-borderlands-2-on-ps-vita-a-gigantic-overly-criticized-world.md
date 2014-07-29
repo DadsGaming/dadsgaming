@@ -1,8 +1,9 @@
 ---
-owner.name: Chemical Winter
-owner.avatar: bio-photo.jpg
-owner.email: you@email.com
-owner.twitter: ChemicalWinter
+author:
+  name: Chemical Winter
+  avatar: bio-photo.jpg
+  email: you@email.com
+  twitter: ChemicalWinter
 layout: post
 title: "Borderlands 2 on PS Vita - A Gigantic, Overly Criticized World "
 modified: 2014-07-29 12:47:00 -0700

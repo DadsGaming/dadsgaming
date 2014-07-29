@@ -1,4 +1,9 @@
 ---
+author:
+  name: Renovatio 42
+  avatar: bio-photo.jpg
+  email: you@email.com
+  twitter: Renovatio42
 layout: post
 title: "August Update Xbox One"
 modified: 2014-07-28 12:47:00 -0700
