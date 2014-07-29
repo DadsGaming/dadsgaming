@@ -9,6 +9,7 @@ title: "Borderlands 2 on PS Vita - A Gigantic, Overly Criticized World "
 modified: 2014-07-29 12:47:00 -0700
 category: reviews
 tags: [PS Vita, Reviews]
+summary: "There aren’t many things I adore more in life than filling Bandits with so many bullets that they explode, hunting down rare loot chests, or taking down Raid Bosses.  Well... there is one thing I love more,  the ability to do this on my couch while my wife is trying to kill me by watching The Bachelorette for 3 hours.  Borderlands 2 on the PS Vita a little gift from above that helps me retain my sanity in these troubling times known as 'compromise'."
 image:
   feature: 
   credit: 
