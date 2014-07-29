@@ -1,5 +1,5 @@
 ---
-layout: review
+layout: page
 title: "Borderlands 2 on PS Vita - A Gigantic, Overly Criticized World "
 modified: 2014-07-29 12:47:00 -0700
 category: reviews
