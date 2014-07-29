@@ -1,0 +1,28 @@
+---
+layout: post
+title: "August Update Xbox One"
+modified: 2014-07-28 12:47:00 -0700
+category: articles
+tags: [XboxOne, Articles]
+image:
+  feature: 
+  credit: 
+  creditlink: 
+comments: 
+share: true
+---
+
+
+Here’s what’s coming in the August 2014 update:
+
+* Low Battery Notifications
+* Mobile purchase
+* Notifications
+* Last Time Seen Online
+* Your Friends screen will now show the games that are most popular amongst your friends right now
+* 3D Blu-Ray support
+* OneGuide (Microsoft’s live TV guide thing) support in Brazil, Mexico, Ireland, and Austria
+
+
+{% youtube ovHyso_jy24 560 315 %}
+
