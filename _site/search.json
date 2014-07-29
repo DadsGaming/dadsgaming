@@ -1,0 +1,11 @@
+[
+	
+		{
+		  "title"      : "My Awesome New Post",
+		  "category"   : "reviews",
+		  "url"        : "http://localhost:4000/reviews/my-awesome-new-post/",
+		  "date"       : "2014-07-28 00:00:00 -0700",
+		  "shortdate"  : "July 28, 2014"
+		} 
+	
+]
