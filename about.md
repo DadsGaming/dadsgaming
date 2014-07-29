@@ -7,6 +7,9 @@ modified: 2013-09-13
 ---
 
 
-## About Dads Gaming
+We are your one stop shop for all things video game reviews, industry reports, movie reports, and cool tech.
 
-We are Dads pasionate about Gaming
+
+## Renovatio 42
+
+Breakfast I can pass on, but coffee I won't EVER. I'm a bit a coffee and craft beer snob, my liquid joys. I also enjoy high-tech and low-tech things. 
