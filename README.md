@@ -1,4 +1,4 @@
-dads-gaming
+dadsgaming
 ===========
 
 A Website about Dads Gaming
