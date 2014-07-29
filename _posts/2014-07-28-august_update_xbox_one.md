@@ -24,5 +24,4 @@ Here’s what’s coming in the August 2014 update:
 * OneGuide (Microsoft’s live TV guide thing) support in Brazil, Mexico, Ireland, and Austria
 
 
-{% youtube ovHyso_jy24 560 315 %}
-
+<iframe width="560" height="315" src="//www.youtube.com/embed/ovHyso_jy24" frameborder="0" allowfullscreen></iframe>

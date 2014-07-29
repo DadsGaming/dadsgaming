@@ -9,7 +9,7 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml" />
 <link rel="alternate" type="text/html" href="http://localhost:4000/" />
-<updated>2014-07-29T09:48:39-07:00</updated>
+<updated>2014-07-29T10:17:48-07:00</updated>
 <id>http://localhost:4000/</id>
 <author>
   <name>Dads Gaming</name>
@@ -45,8 +45,7 @@
   &lt;li&gt;OneGuide (Microsoft’s live TV guide thing) support in Brazil, Mexico, Ireland, and Austria&lt;/li&gt;
 &lt;/ul&gt;
 
-&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;http://www.youtube.com/embed/ovHyso_jy24?color=white&amp;amp;theme=light&quot;&gt;&amp;nbsp;&lt;/iframe&gt;
-
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;//www.youtube.com/embed/ovHyso_jy24&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
   
   &lt;p&gt;&lt;a href=&quot;http://localhost:4000/articles/august_update_xbox_one/&quot;&gt;August Update Xbox One&lt;/a&gt; was originally published by Dads Gaming at &lt;a href=&quot;http://localhost:4000&quot;&gt;Dads Gaming&lt;/a&gt; on July 28, 2014.&lt;/p&gt;</content>
