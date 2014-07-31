@@ -9,13 +9,72 @@
 <generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://www.dadsgaming.com/feed.xml" />
 <link rel="alternate" type="text/html" href="http://www.dadsgaming.com/" />
-<updated>2014-07-30T22:41:34-07:00</updated>
+<updated>2014-07-31T09:18:56-07:00</updated>
 <id>http://www.dadsgaming.com/</id>
 <author>
   <name>Dads Gaming</name>
   <uri>http://www.dadsgaming.com/</uri>
   <email>you@email.com</email>
 </author>
+
+
+<entry>
+  <title type="html"><![CDATA[Titanfall's Title Update No. 5 is out now]]></title>
+  <link rel="alternate" type="text/html" href="http://www.dadsgaming.com/articles/titanfall-title-update-no5-is-out-now/"/>
+  <id>http://www.dadsgaming.com/articles/titanfall-title-update-no5-is-out-now</id>
+  <updated>2014-07-29 16:20:00 -0700T00:00:00-00:00</updated>
+  <published>2014-07-31T00:00:00-07:00</published>
+  
+  <author>
+    <name>Dads Gaming</name>
+    <uri>http://www.dadsgaming.com</uri>
+    <email>you@email.com</email>
+  </author>
+  <category scheme="http://www.dadsgaming.com/tags/#XboxOne" term="XboxOne" /><category scheme="http://www.dadsgaming.com/tags/#Titanfall" term="Titanfall" /><category scheme="http://www.dadsgaming.com/tags/#Articles" term="Articles" />
+  <content type="html">
+  
+    &lt;p&gt;Titanfall Title Update No. 5 is out now!&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Black Market is OPEN! (The Black Market unlocks at level 11 and allows players to purchase Burn Card packs and Insignia with in-game credits)&lt;/li&gt;
+  &lt;li&gt;120HZ fix (PC)&lt;/li&gt;
+  &lt;li&gt;Makes n00bs more pretty with a Gen 1 Emblem&lt;/li&gt;
+  &lt;li&gt;Daily Challenges added into the game -  Collect three new Daily Challenges every day. You can have a total of 9 active daily challenges at any one time.&lt;/li&gt;
+  &lt;li&gt;Frame Rate and Optimization, which will reduce screen tearing&lt;/li&gt;
+  &lt;li&gt;Added message when a friendly Pilot with the flag jumps on your Titan in CTF.&lt;/li&gt;
+  &lt;li&gt;Fixed Titan decal unlocks showing up repeatedly.&lt;/li&gt;
+  &lt;li&gt;Removed pre-lobby after selecting a game mode, now you will be taken directly to the game lobby.&lt;/li&gt;
+  &lt;li&gt;Made wi-fi hacking count towards Spectre leeching for stats / challenges / insignias.&lt;/li&gt;
+  &lt;li&gt;Fixed an issue where you could earn enough XP that it would appear to wrap around and reset your level.&lt;/li&gt;
+  &lt;li&gt;Nuclear Eject: fixed a rare bug where an invincible Titan would be left roaming around the level because the player died upon ejecting.&lt;/li&gt;
+  &lt;li&gt;Lots of yummy bandwidth optimizations as well as various delicious framerate optimizations have been lovingly hand-crafted and squeezed into the game.&lt;/li&gt;
+  &lt;li&gt;Fixed not being able to shoot at the Titan you are rodeoing when the Titan backs up against a wall and looks upwards.&lt;/li&gt;
+  &lt;li&gt;Fixed many cases of incorrect or missing impact sounds from explosions including Arc Cannon fire and Cluster Rockets.&lt;/li&gt;
+  &lt;li&gt;Fixed a server issue when players used the Rematch burn card in areas where they would get stuck.&lt;/li&gt;
+  &lt;li&gt;Fixed a case of getting a double lock-on with the Archer.&lt;/li&gt;
+  &lt;li&gt;Fixed an annoying case of the party chat icon not appearing.&lt;/li&gt;
+  &lt;li&gt;Fixed a case where parties could be split up.&lt;/li&gt;
+  &lt;li&gt;Fixed text overlap on controller layout menu.&lt;/li&gt;
+  &lt;li&gt;Fixed some kills/events not counting towards progress on challenges, achievements, or decals.&lt;/li&gt;
+  &lt;li&gt;Capture The Flag: fixed being able to call in your Titan as the sides were being switched.&lt;/li&gt;
+  &lt;li&gt;More robust multi-GPU support (PC)&lt;/li&gt;
+  &lt;li&gt;Added achievements for Frontier’s Edge DLC (Xbox One)&lt;/li&gt;
+  &lt;li&gt;Moved Campaign game mode in with the other existing game modes. It will rotate through all maps over and over and you can join at any point.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.titanfall.com/game-update-five?sf29094397=1&quot;&gt;Source&lt;/a&gt;&lt;/p&gt;
+
+&lt;script type=&quot;text/javascript&quot; src=&quot;http://wms-na.amazon-adsystem.com/20070822/US/js/link-enhancer-common.js?tag=dadgam-20&amp;amp;linkId=DDHN7VZYN7WGTFGG&quot;&gt;
+&lt;/script&gt;
+
+&lt;noscript&gt;
+    &lt;img src=&quot;http://wms-na.amazon-adsystem.com/20070822/US/img/noscript.gif?tag=dadgam-20&amp;amp;linkId=DDHN7VZYN7WGTFGG&quot; alt=&quot;&quot; /&gt;
+&lt;/noscript&gt;
+
+
+  
+  &lt;p&gt;&lt;a href=&quot;http://www.dadsgaming.com/articles/titanfall-title-update-no5-is-out-now/&quot;&gt;Titanfall's Title Update No. 5 is out now&lt;/a&gt; was originally published by Dads Gaming at &lt;a href=&quot;http://www.dadsgaming.com&quot;&gt;Dads Gaming&lt;/a&gt; on July 31, 2014.&lt;/p&gt;</content>
+</entry>
 
 
 <entry>
