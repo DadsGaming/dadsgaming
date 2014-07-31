@@ -23,6 +23,7 @@ Here’s our first look at the Call of Duty Advanced Warfare - Campaign and a sn
 Multiplayer Trailer scheduled debut: 8/11/2014
 Game releases: 11/4/14
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/pUysNWHffWg" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="//www.youtube.com/embed/pUysNWHffWg" frameborder="0" allowfullscreen></iframe>
 
-<a href="http://www.amazon.com/gp/product/B00K308KF4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00K308KF4&linkCode=as2&tag=dadgam-20&linkId=XYT3ZLPHH34ASTOR">Pre-Order Call of Duty: Advanced Warfare - Xbox One</a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=dadgam-20&l=as2&o=1&a=B00K308KF4" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=dadgam-20&marketplace=amazon&region=US&placement=B00K308KF4&asins=B00K308KF4&linkId=BONI6U6PUVKY5MKJ&show_border=true&link_opens_in_new_window=true">
+</iframe>
