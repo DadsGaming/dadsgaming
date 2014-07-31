@@ -22,6 +22,8 @@ share: true
 
 Titanfall Title Update No. 5 is out now!
 
+[Source](http://www.titanfall.com/game-update-five?sf29094397=1)
+
 * Black Market is OPEN! (The Black Market unlocks at level 11 and allows players to purchase Burn Card packs and Insignia with in-game credits)
 * 120HZ fix (PC)
 * Makes n00bs more pretty with a Gen 1 Emblem
@@ -47,7 +49,6 @@ Titanfall Title Update No. 5 is out now!
 * Added achievements for Frontier’s Edge DLC (Xbox One)
 * Moved Campaign game mode in with the other existing game modes. It will rotate through all maps over and over and you can join at any point.
 
-[Source](http://www.titanfall.com/game-update-five?sf29094397=1)
 
 <script type="text/javascript" src="http://wms-na.amazon-adsystem.com/20070822/US/js/link-enhancer-common.js?tag=dadgam-20&linkId=DDHN7VZYN7WGTFGG">
 </script>
