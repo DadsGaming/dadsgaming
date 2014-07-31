@@ -55,5 +55,3 @@ Titanfall Title Update No. 5 is out now!
 <noscript>
     <img src="http://wms-na.amazon-adsystem.com/20070822/US/img/noscript.gif?tag=dadgam-20&linkId=DDHN7VZYN7WGTFGG" alt="" />
 </noscript>
-
-
