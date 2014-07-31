@@ -49,6 +49,8 @@ Titanfall Title Update No. 5 is out now!
 * Added achievements for Frontier’s Edge DLC (Xbox One)
 * Moved Campaign game mode in with the other existing game modes. It will rotate through all maps over and over and you can join at any point.
 
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=R7nup3uRJIw" frameborder="0" allowfullscreen></iframe>
+
 
 <script type="text/javascript" src="http://wms-na.amazon-adsystem.com/20070822/US/js/link-enhancer-common.js?tag=dadgam-20&linkId=DDHN7VZYN7WGTFGG">
 </script>
