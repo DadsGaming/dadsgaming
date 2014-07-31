@@ -17,6 +17,7 @@ comments: true
 share: true
 ---
 
+[Source](http://youtu.be/C5gk1jTKDG4?list=PLZeek85Kuka0ca1mDCe9_NBjBtongDF6L)
 
 Get the first look at Nemesis, the fourth and final DLC Pack for Call of Duty: Ghosts. Nemesis includes four Multiplayer maps: Goldrush, Subzero, Dynasty, and Showtime, a reimagined version of the fan-favorite Shipment from Call of Duty 4: Modern Warfare.
 
