@@ -45,3 +45,7 @@ One of the major focal points of most reviews you read is the control set-up.  T
 Obviously, if you have played Borderlands 2 you know there is no way I have finished the game and all of its DLC on Vita yet, but I can tell you what I have experienced so far is a refreshing, nostalgic, and sometimes graphically challenged stroll down Xbox 360 memory lane.  Borderlands 2 on PS Vita is a technological feat, Its not a perfect game by any means but it does what games are supposed to do, entertain. 
 
 4 Chemical Vials Out of 5 
+
+
+<a href="http://www.amazon.com/gp/product/B00HLT0YT0/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00HLT0YT0&linkCode=as2&tag=dadgam-20&linkId=NRZJARDTA5GLMPID">Borderlands 2 - Limited Edition - PlayStation Vita Bundle</a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=dadgam-20&l=as2&o=1&a=B00HLT0YT0" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+

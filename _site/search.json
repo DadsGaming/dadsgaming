@@ -1,6 +1,14 @@
 [
 	
 		{
+		  "title"      : "Playstation Plus August 2014 Free Games",
+		  "category"   : "articles",
+		  "url"        : "http://www.dadsgaming.com/articles/playstation-plus-august-2014-free-games/",
+		  "date"       : "2014-07-31 00:00:00 -0700",
+		  "shortdate"  : "July 31, 2014"
+		} ,
+	
+		{
 		  "title"      : "Borderlands 2 on PS Vita - A Gigantic, Overly Criticized World ",
 		  "category"   : "reviews",
 		  "url"        : "http://www.dadsgaming.com/reviews/borderlands-2-on-ps-vita-a-gigantic-overly-criticized-world/",
@@ -14,6 +22,14 @@
 		  "url"        : "http://www.dadsgaming.com/articles/august_update_xbox_one/",
 		  "date"       : "2014-07-28 00:00:00 -0700",
 		  "shortdate"  : "July 28, 2014"
+		} ,
+	
+		{
+		  "title"      : "Living Without Destiny",
+		  "category"   : "articles",
+		  "url"        : "http://www.dadsgaming.com/articles/Living-Without-Destiny/",
+		  "date"       : "2014-07-10 00:00:00 -0700",
+		  "shortdate"  : "July 10, 2014"
 		} 
 	
 ]
