@@ -42,4 +42,4 @@ If you're intested in getting the game with the _Season Pass_, then get the [**_
 [Buy Call of Duty: Advanced Warfare Atlas Pro Edition - Xbox One](http://www.amazon.com/gp/product/B00K308KF4?ie=UTF8&camp=1789&creativeASIN=B00K308KF4&linkCode=xm2&tag=dadgam-20)<br />
 [Buy Call of Duty: Advanced Warfare Atlas Pro Edition - PlayStation 4](http://www.amazon.com/gp/product/B00K308KF4?ie=UTF8&camp=1789&creativeASIN=B00K308KF4&linkCode=xm2&tag=dadgam-20)
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/3bYrtw6KF78?list=UU9YydG57epLqxA9cTzZXSeQ" frameborder="0" allowfullscreen></iframe>
+<iframe width="560" height="315" src="//www.youtube.com/embed/3bYrtw6KF78" frameborder="0" allowfullscreen></iframe>
