@@ -3,7 +3,7 @@ author:
   name: Renovatio 42
   avatar: bio-photo.jpg
   email: you@email.com
-  twitter: Renovatio42
+  twitter: Renovatio_42
 layout: post
 title: "Call of Duty Advanced Warfare - Collector's Editions"
 modified: 2014-08-02 08:20:00 -0700
