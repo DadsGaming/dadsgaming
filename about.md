@@ -34,3 +34,5 @@ I'm an admitted Pop-Culture junkie that feeds on nostalgia. If I could only read
 
 Breakfast I can pass on, but coffee I won't EVER. I'm a bit a coffee and craft beer snob, my liquid joys. I also enjoy high-tech and low-tech things. 
 
+- [Renovatio 42's Twitch](http://www.twitch.tv/renovatio_42)
+- [Renovatio 42's YouTube](https://www.youtube.com/user/TheRenovatio42)
