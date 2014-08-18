@@ -6,7 +6,7 @@ author:
   twitter: Renovatio42
 layout: post
 title: "August Update Xbox One"
-modified: 2014-07-28 12:47:00 -0700
+modified: 2014-08-18 12:47:00 -0700
 category: articles
 tags: [XboxOne, Articles]
 image:
@@ -27,6 +27,8 @@ Here’s what’s coming in the August 2014 update:
 * Your Friends screen will now show the games that are most popular amongst your friends right now
 * 3D Blu-Ray support
 * OneGuide (Microsoft’s live TV guide thing) support in Brazil, Mexico, Ireland, and Austria
+
+<iframe width="560" height="315" src="//www.youtube.com/embed/QZbYi_2aB_g" frameborder="0" allowfullscreen></iframe>
 
 
 <iframe width="560" height="315" src="//www.youtube.com/embed/ovHyso_jy24" frameborder="0" allowfullscreen></iframe>
