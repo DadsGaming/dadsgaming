@@ -3,118 +3,117 @@
   
   
   <url>
-    <loc>http://www.dadsgaming.com/reviews/the-last-of-us-remastered-review-ps4/</loc>
+    <loc>http://localhost:4000/contests/destiny-giveaway/</loc>
+    <lastmod>2014-08-28T00:00:00-07:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://localhost:4000/reviews/the-last-of-us-remastered-review-ps4/</loc>
     <lastmod>2014-08-17T00:00:00-07:00</lastmod>
     <priority>0.8</priority>
   </url>
   
   <url>
-    <loc>http://www.dadsgaming.com/articles/waiting-to-unleash-the-kraken/</loc>
+    <loc>http://localhost:4000/articles/waiting-to-unleash-the-kraken/</loc>
     <lastmod>2014-08-05T00:00:00-07:00</lastmod>
     <priority>0.8</priority>
   </url>
   
   <url>
-    <loc>http://www.dadsgaming.com/articles/call-of-duty-advanced-warfare-collectors-editions/</loc>
+    <loc>http://localhost:4000/articles/call-of-duty-advanced-warfare-collectors-editions/</loc>
     <lastmod>2014-08-02T00:00:00-07:00</lastmod>
     <priority>0.8</priority>
   </url>
   
   <url>
-    <loc>http://www.dadsgaming.com/articles/titanfall-title-update-no5-is-out-now/</loc>
+    <loc>http://localhost:4000/articles/titanfall-title-update-no5-is-out-now/</loc>
     <lastmod>2014-07-31T00:00:00-07:00</lastmod>
     <priority>0.8</priority>
   </url>
   
   <url>
-    <loc>http://www.dadsgaming.com/articles/playstation-plus-august-2014-free-games/</loc>
+    <loc>http://localhost:4000/articles/playstation-plus-august-2014-free-games/</loc>
     <lastmod>2014-07-31T00:00:00-07:00</lastmod>
     <priority>0.8</priority>
   </url>
   
   <url>
-    <loc>http://www.dadsgaming.com/articles/call-of-duty-ghosts-nemesis-dlc-preview/</loc>
+    <loc>http://localhost:4000/articles/call-of-duty-ghosts-nemesis-dlc-preview/</loc>
     <lastmod>2014-07-31T00:00:00-07:00</lastmod>
     <priority>0.8</priority>
   </url>
   
   <url>
-    <loc>http://www.dadsgaming.com/articles/call-of-duty-advanced-warfare-campaign-trailer/</loc>
+    <loc>http://localhost:4000/articles/call-of-duty-advanced-warfare-campaign-trailer/</loc>
     <lastmod>2014-07-29T00:00:00-07:00</lastmod>
     <priority>0.8</priority>
   </url>
   
   <url>
-    <loc>http://www.dadsgaming.com/reviews/borderlands-2-on-ps-vita-a-gigantic-overly-criticized-world/</loc>
+    <loc>http://localhost:4000/reviews/borderlands-2-on-ps-vita-a-gigantic-overly-criticized-world/</loc>
     <lastmod>2014-07-29T00:00:00-07:00</lastmod>
     <priority>0.8</priority>
   </url>
   
   <url>
-    <loc>http://www.dadsgaming.com/articles/august_update_xbox_one/</loc>
+    <loc>http://localhost:4000/articles/august_update_xbox_one/</loc>
     <lastmod>2014-07-28T00:00:00-07:00</lastmod>
     <priority>0.8</priority>
   </url>
   
   <url>
-    <loc>http://www.dadsgaming.com/blogs/Living-Without-Destiny/</loc>
+    <loc>http://localhost:4000/blogs/Living-Without-Destiny/</loc>
     <lastmod>2014-07-10T00:00:00-07:00</lastmod>
     <priority>0.8</priority>
   </url>
   
   
   <url>
-    <loc>http://www.dadsgaming.com/contests/2014-08-27-destiny-giveaway.html</loc>
-    <lastmod>2014-08-28T07:55:06-07:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.dadsgaming.com/</loc>
-    <lastmod>2014-08-28T07:55:06-07:00</lastmod>
+    <loc>http://localhost:4000/</loc>
+    <lastmod>2014-08-28T08:58:55-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   
   <url>
-    <loc>http://www.dadsgaming.com/interviews/</loc>
-    <lastmod>2014-08-28T07:55:06-07:00</lastmod>
+    <loc>http://localhost:4000/blogs/</loc>
+    <lastmod>2014-08-28T08:58:55-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
-    <loc>http://www.dadsgaming.com/blogs/</loc>
-    <lastmod>2014-08-28T07:55:06-07:00</lastmod>
+    <loc>http://localhost:4000/interviews/</loc>
+    <lastmod>2014-08-28T08:58:55-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
-    <loc>http://www.dadsgaming.com/about/</loc>
-    <lastmod>2014-08-28T07:55:06-07:00</lastmod>
+    <loc>http://localhost:4000/about/</loc>
+    <lastmod>2014-08-28T08:58:55-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
-    <loc>http://www.dadsgaming.com/reviews/</loc>
-    <lastmod>2014-08-28T07:55:06-07:00</lastmod>
+    <loc>http://localhost:4000/reviews/</loc>
+    <lastmod>2014-08-28T08:58:55-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
-    <loc>http://www.dadsgaming.com/tags/</loc>
-    <lastmod>2014-08-28T07:55:06-07:00</lastmod>
+    <loc>http://localhost:4000/tags/</loc>
+    <lastmod>2014-08-28T08:58:55-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
-    <loc>http://www.dadsgaming.com/articles/</loc>
-    <lastmod>2014-08-28T07:55:06-07:00</lastmod>
+    <loc>http://localhost:4000/articles/</loc>
+    <lastmod>2014-08-28T08:58:55-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
