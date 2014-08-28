@@ -1,35 +1,18 @@
-<p>
 <!-- /.Amazon banner -->
-<iframe src="http://rcm-na.amazon-adsystem.com/e/cm?t=dadgam-20&o=1&p=21&l=ur1&category=videogames&banner=1GABKGN2JTXFD5ZD9302&f=ifr&linkID=FJ2KJ4IREMGFQ3HM" width="125" height="125" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
-<!-- /.Amazon banner -->
-<iframe src="http://rcm-na.amazon-adsystem.com/e/cm?t=dadgam-20&o=1&p=48&l=ur1&category=vdgtrade&banner=051SWRGN9P1MZR321RG2&f=ifr&linkID=IRUCSZVARNXT5HPU" width="728" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
-<!-- /.Amazon banner -->
-<iframe src="http://rcm-na.amazon-adsystem.com/e/cm?t=dadgam-20&o=1&p=21&l=ur1&category=videogames&banner=0SM30XHSDB19B2EGNW02&f=ifr&linkID=FEJYVZDVHFGZ7OJT" width="125" height="125" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
-</p>
-<p>
-	<!-- /.Google banner -->
-	<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-	<!-- ad_leaderboard -->
-	<ins class="adsbygoogle"
-	     style="display:inline-block;width:728px;height:90px"
-	     data-ad-client="ca-pub-8502566029375724"
-	     data-ad-slot="6819954694"></ins>
-	<script>
-	(adsbygoogle = window.adsbygoogle || []).push({});
-	</script>
-</p>
+<p><iframe src="http://rcm-na.amazon-adsystem.com/e/cm?t=dadgam-20&o=1&p=48&l=ur1&category=vdgtrade&banner=051SWRGN9P1MZR321RG2&f=ifr&linkID=IRUCSZVARNXT5HPU" width="728" height="90" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe></p>
+{% if site.owner.google.ad-client and site.owner.google.ad-slot %}{% include ad-footer.html %}{% endif %}
 
-
-<span>&copy; {{ site.time | date: '%Y' }} {{ site.owner.name }}
+<span>&copy; {{ site.time | date: '%Y' }} {{ site.owner.name }}.
 <div class="social-icons">
-	{% if site.owner.twitter %}<a href="http://twitter.com/{{ site.owner.twitter }}" title="{{ site.owner.name}} on Twitter" target="_blank"><i class="icon-twitter icon-2x"></i></a>{% endif %}
-	{% if site.owner.facebook %}<a href="http://facebook.com/{{ site.owner.facebook }}" title="{{ site.owner.name}} on Facebook" target="_blank"><i class="icon-facebook icon-2x"></i></a>{% endif %}
-	{% if site.owner.google_plus %}<a href="{{ site.owner.google_plus }}" title="{{ site.owner.name}} on Google+" target="_blank"><i class="icon-google-plus icon-2x"></i></a>{% endif %}
-	{% if site.owner.linkedin %}<a href="http://linkedin.com/in/{{ site.owner.linkedin }}" title="{{ site.owner.name}} on LinkedIn" target="_blank"><i class="icon-linkedin icon-2x"></i></a>{% endif %}
-	{% if site.owner.stackexchange %}<a href="{{ site.owner.stackexchange }}" title="{{ site.owner.name}} on StackExchange" target="_blank"><i class="icon-stackexchange icon-2x"></i></a>{% endif %}
-	{% if site.owner.instagram %}<a href="http://instagram.com/{{ site.owner.instagram }}" title="{{ site.owner.name}} on Instagram" target="_blank"><i class="icon-instagram icon-2x"></i></a>{% endif %}
-	{% if site.owner.flickr %}<a href="http://www.flickr.com/photos/{{ site.owner.flickr }}" title="{{ site.owner.name}} on Flickr" target="_blank"><i class="icon-flickr icon-2x"></i></a>{% endif %}
-	{% if site.owner.github %}<a href="http://github.com/{{ site.owner.github }}" title="{{ site.owner.name}} on Github" target="_blank"><i class="icon-github icon-2x"></i></a>{% endif %}
-	{% if site.owner.tumblr %}<a href="http://{{ site.owner.tumblr }}.tumblr.com" title="{{ site.owner.name}} on Tumblr" target="_blank"><i class="icon-tumblr icon-2x"></i></a>{% endif %}
+	{% if site.owner.twitter %}<a href="http://twitter.com/{{ site.owner.twitter }}" title="{{ site.owner.name}} on Twitter" target="_blank"><i class="fa fa-twitter-square fa-2x"></i></a>{% endif %}
+	{% if site.owner.facebook %}<a href="http://facebook.com/{{ site.owner.facebook }}" title="{{ site.owner.name}} on Facebook" target="_blank"><i class="fa fa-facebook-square fa-2x"></i></a>{% endif %}
+	{% if site.owner.google.plus %}<a href="http://plus.google.com/+{{ site.owner.google.plus }}" title="{{ site.owner.name}} on Google+" target="_blank"><i class="fa fa-google-plus-square fa-2x"></i></a>{% endif %}
+	{% if site.owner.linkedin %}<a href="http://linkedin.com/in/{{ site.owner.linkedin }}" title="{{ site.owner.name}} on LinkedIn" target="_blank"><i class="fa fa-linkedin-square fa-2x"></i></a>{% endif %}
+	{% if site.owner.stackexchange %}<a href="{{ site.owner.stackexchange }}" title="{{ site.owner.name}} on StackExchange" target="_blank"><i class="fa fa-stack-exchange fa-2x"></i></a>{% endif %}
+	{% if site.owner.instagram %}<a href="http://instagram.com/{{ site.owner.instagram }}" title="{{ site.owner.name}} on Instagram" target="_blank"><i class="fa fa-instagram fa-2x"></i></a>{% endif %}
+	{% if site.owner.flickr %}<a href="http://www.flickr.com/photos/{{ site.owner.flickr }}" title="{{ site.owner.name}} on Flickr" target="_blank"><i class="fa fa-flickr fa-2x"></i></a>{% endif %}
+	{% if site.owner.github %}<a href="http://github.com/{{ site.owner.github }}" title="{{ site.owner.name}} on Github" target="_blank"><i class="fa fa-github-square fa-2x"></i></a>{% endif %}
+	{% if site.owner.tumblr %}<a href="http://{{ site.owner.tumblr }}.tumblr.com" title="{{ site.owner.name}} on Tumblr" target="_blank"><i class="fa fa-tumblr-square fa-2x"></i></a>{% endif %}
+	{% if site.owner.reddit %}<a href="http://reddit.com/{{ site.owner.reddit }}" title="{{ site.owner.name}} on Tumblr" target="_blank"><i class="fa fa-reddit-square fa-2x"></i></a>{% endif %}
+  <a href="{{ site.url }}/feed.xml" title="Atom/RSS feed"><i class="fa fa-rss-square fa-2x"></i></a>
 </div><!-- /.social-icons -->
-</span>

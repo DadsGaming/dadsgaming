@@ -1,0 +1,25 @@
+# Site navigation links
+
+- title: About
+  url: /about/
+  
+- title: Blogs
+  url: /blogs/
+
+- title: Articles
+  url: /articles/
+
+- title: Reviews
+  url: /reviews/
+  
+- title: Interviews
+  url: /interviews/
+  
+- title: Watch our Twitch Stream!
+  url: http://www.twitch.tv/TheDadsGaming
+
+- title: Join Our reddit Community!
+  url: http://www.reddit.com/r/DadsGaming/
+  
+- title: Tags
+  url: /tags/

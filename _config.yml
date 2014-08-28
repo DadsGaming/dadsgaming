@@ -1,60 +1,31 @@
-title:            Dads Gaming
-description:      We are Dads sharing a passion for video games, movies, tech, and cool gadgets.
-logo:             dg_logo.png
-disqus_shortname: dadsgaming
-search:           true
-# Change url to your domain. Leave localhost server or blank when working locally.
-# You don't need to specify the protocol if you want it available on http and https. Example: //localhost:4000
-url:              http://www.dadsgaming.com
-summary: 
+# Site wide configuration
 
-# Owner/author information
-owner:
-  name:           Dads Gaming
-  avatar:         bio-photo.jpg
-  email:          you@email.com
-  # Social networking links used in footer. Update and remove as you like.
-  twitter:		DadGamers
-  facebook:
-  github:
-  stackexchange:
-  linkedin:
-  instagram:
-  flickr:
-  tumblr:
-  # For Google Authorship https://plus.google.com/authorship
-  google_plus:
+#title: Dads Gaming Dev
+locale: en_US
+description: "We are Dads sharing a passion for video games, movies, tech, and cool gadgets."
+logo: site-logo.png
+search: true
+# DEVELOPMENT
+#title: Dads Gaming Dev
+#url: http://localhost:4000
+# STAGING
+#title: Dads Gaming Staging
+#url: http://renovatio42.github.io/dadsgaming_staging
+# PRODUCTION
+title: Dads Gaming
+url: http://www.dadsgaming.com
 
-# Analytics and webmaster tools stuff goes here
-google_analytics: UA-53292793-1
-google_verify:
-# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify: 3E3E7FC8C2C49F679BEF15FE95EB2F1D
+# Jekyll configuration
 
-# Links to include in top navigation
-# For external links add external: true
-links:
-  - title: About
-    url: /about/
-  - title: Articles
-    url: /articles/
-  - title: Reviews
-    url: /reviews/
-  - title: Interviews
-    url: /interviews/
-  - title: Join Our reddit Community!
-    url: http://www.reddit.com/r/DadsGaming/
-    external: true
 
-# http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-timezone:    America/Los_Angeles 
-future:      true
-highlighter:    true
-#highlighter: pygments
-markdown:    kramdown
-
-# https://github.com/mojombo/jekyll/wiki/Permalinks
 permalink:   /:categories/:title/
+markdown:    kramdown
+highlighter: pygments
+sass:
+  sass_dir: _sass
+  style: compressed
+gems:
+  - jekyll-sitemap
 
 kramdown:
   auto_ids: true
@@ -63,12 +34,29 @@ kramdown:
   toc_levels: 1..6
   use_coderay: false
 
-  coderay:
-    coderay_line_numbers:
-    coderay_line_numbers_start: 1
-    coderay_tab_width: 4
-    coderay_bold_every: 10
-    coderay_css: class
-
 include: [".htaccess"]
-exclude: ["lib", "config.rb", "Gemfile", "Capfile", "README.md", "LICENSE", "Gemfile.lock", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md", "vendor"]
+
+
+# Site owner
+owner:
+  name: Dads Gaming
+  avatar: bio-photo.jpg
+  email: 
+  disqus-shortname: dadsgaming
+  twitter: DadGamers
+  reddit: r/DadsGaming/
+  facebook: TheDadsGaming
+  #github: mmistakes
+  #stackexchange:
+  #linkedin:
+  #instagram: mmistakes
+  #flickr:
+  #tumblr: mademistakes
+  google:
+    plus: #MichaelRoseDesign
+    analytics: UA-53292793-1
+    verify: #UQj93ERU9zgECodaaXgVpkjrFn9UrDMEzVamacSoQ8Y
+    ad-client: ca-pub-8502566029375724
+    ad-slot: #7855747535
+  bing-verify: 3E3E7FC8C2C49F679BEF15FE95EB2F1D

@@ -1,77 +1,33 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
-
+<title type="text">Dads Gaming Staging</title>
+<generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
+<link rel="self" type="application/atom+xml" href="http://renovatio42.github.io/dadsgaming_staging/feed.xml" />
+<link rel="alternate" type="text/html" href="http://renovatio42.github.io/dadsgaming_staging" />
+<updated>2014-08-27T23:16:42-07:00</updated>
+<id>http://renovatio42.github.io/dadsgaming_staging/</id>
+<author>
+  <name>Dads Gaming</name>
+  <uri>http://renovatio42.github.io/dadsgaming_staging/</uri>
+  
+</author>
 
 
   
 
-<title type="text">Dads Gaming</title>
-<generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
-<link rel="self" type="application/atom+xml" href="http://www.dadsgaming.com/feed.xml" />
-<link rel="alternate" type="text/html" href="http://www.dadsgaming.com/" />
-<updated>2014-08-21T07:13:57-07:00</updated>
-<id>http://www.dadsgaming.com/</id>
-<author>
-  <name>Dads Gaming</name>
-  <uri>http://www.dadsgaming.com/</uri>
-  <email>you@email.com</email>
-</author>
-
-
 <entry>
-  <title type="html"><![CDATA[The Last of Us-Remastered Beauty,Terror, and Heartbreak]]></title>
-  <link rel="alternate" type="text/html" href="http://www.dadsgaming.com/reviews/%20the-last-of-us-remastered-review-ps4/"/>
-  <id>http://www.dadsgaming.com/reviews/ the-last-of-us-remastered-review-ps4</id>
+  <title type="html"><![CDATA[The Last of Us-Remastered Beauty, Terror, and Heartbreak]]></title>
+  <link rel="alternate" type="text/html" href="http://renovatio42.github.io/dadsgaming_staging/reviews/the-last-of-us-remastered-review-ps4/" />
+  <id>http://renovatio42.github.io/dadsgaming_staging/reviews/the-last-of-us-remastered-review-ps4</id>
   <updated>2014-08-17 08:47:00 -0700T00:00:00-00:00</updated>
   <published>2014-08-17T00:00:00-07:00</published>
   
   <author>
-    <name>Dads Gaming</name>
-    <uri>http://www.dadsgaming.com</uri>
-    <email>you@email.com</email>
+    <name>Chemical Winter</name>
+    <uri>http://renovatio42.github.io/dadsgaming_staging</uri>
+    
   </author>
-  <category scheme="http://www.dadsgaming.com/tags/#PS4" term="PS4" /><category scheme="http://www.dadsgaming.com/tags/#Reviews" term="Reviews" /><category scheme="http://www.dadsgaming.com/tags/#Naught%20Dog" term="Naught Dog" /><category scheme="http://www.dadsgaming.com/tags/#The%20Last%20of%20Us" term="The Last of Us" /><category scheme="http://www.dadsgaming.com/tags/#TLOU" term="TLOU" />
-  <content type="html">
-  
-    &lt;!-- COLLAPSIBLE TEXT WITH OPEN ALL/CLOSE ALL LINK --&gt;
-
-&lt;!-- This goes into the HEAD of the html file --&gt;
-
-&lt;script language=&quot;JavaScript&quot; type=&quot;text/javascript&quot;&gt;
-&lt;!-- Copyright 2007, Sandeep Gangadharan --&gt;
-&lt;!-- For more free scripts go to http://www.sivamdesign.com/scripts/ --&gt;
-&lt;!--
-if (document.getElementById) {
- document.write(&#39;&lt;style type=&quot;text/css&quot;&gt;.texter {display:none; border-left:white 20px solid; color:#404040; font-family:verdana,arial,helvetica,sans-serif; font-size:9pt} @media print {.texter {display:block;}}&lt;/style&gt;&#39;) }
-
- var divNum = new Array(&quot;a1&quot;,&quot;a2&quot;,&quot;a3&quot;);  // at the left you should add a1, a2 etc. for each header you wish to include
-                                          // so if you want 4 headers you should add a1, a2, a3, a4 in the format shown
-                                          // enclosed in double quotes
-function openClose(theID) {
- for(var i=0; i &lt; divNum.length; i++) {
-  if (divNum[i] == theID) {
-   if (document.getElementById(divNum[i]).style.display == &quot;block&quot;) { document.getElementById(divNum[i]).style.display = &quot;none&quot; }
-   else { document.getElementById(divNum[i]).style.display = &quot;block&quot; }
-  }
-  else { document.getElementById(divNum[i]).style.display = &quot;none&quot;; }
- }
-}
-
-function openAll() {
- for(var i=0; i &lt; divNum.length; i++) {
-   document.getElementById(divNum[i]).style.display = &quot;block&quot;;
- }
-}
-
-function closeAll() {
- for(var i=0; i &lt; divNum.length; i++) {
-   document.getElementById(divNum[i]).style.display = &quot;none&quot;;
- }
-}
-// --&gt;
-&lt;/script&gt;
-
-&lt;h2 id=&quot;the-last-of-us-remastered---60-fps-of-beautiful-terror-and--heartbreak&quot;&gt;The Last of Us Remastered - 60 FPS of Beautiful Terror and  Heartbreak&lt;/h2&gt;
+  <content type="html">&lt;h2 id=&quot;the-last-of-us-remastered---60-fps-of-beautiful-terror-and--heartbreak&quot;&gt;The Last of Us Remastered - 60 FPS of Beautiful Terror and  Heartbreak&lt;/h2&gt;
 
 &lt;p&gt;&lt;img src=&quot;http://ireofpurgatory.com/wp-content/uploads/2014/01/The-Last-of-Us.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
@@ -85,20 +41,17 @@ function closeAll() {
 
 &lt;p&gt;The gameplay and story remain the same as the PS3 version minus the control scheme for aiming and shooting, Naughty Dog took advantage of the PS4’s redesigned Dual Shock controller’s new trigger buttons.  L2 now aims and R2 shoots, whereas on the PS3 version L1 Aimed and R1 shot.  Other than that the game remains largely unchanged, however the Remastered version does include the Ellie DLC &lt;strong&gt;Left Behind&lt;/strong&gt; and the multiplayer maps that the PS3 version received through updates throughout the year.&lt;/p&gt;
 
-&lt;p&gt;Now lets dive into exactly what makes &lt;strong&gt;The Last of Us Remastered&lt;/strong&gt; a must play game for every dad/gamer out there, the characters themselves.  A developer can make a game as beautiful as they want but if the characters aren’t driving the story, the game and its great graphics ultimately doesn’t mean jack shit. Fair warning to all, my Review does contain some spoilers, so read at your own risk. &lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;Now lets dive into exactly what makes &lt;strong&gt;The Last of Us Remastered&lt;/strong&gt; a must play game for every dad/gamer out there, the characters themselves.  A developer can make a game as beautiful as they want but if the characters aren’t driving the story, the game and its great graphics ultimately doesn’t mean jack shit. Fair warning to all, my Review does contain some spoilers, so read at your own risk.&lt;/p&gt;
 
 &lt;p&gt;I feel that I really need to detail the importance of the opening sequence in  &lt;strong&gt;The Last of Us&lt;/strong&gt;, as it really is the set piece to how you perceive the rest of the game. When you start the game off you are introduced to Joel and his daughter Sarah in their home in the suburbs.  Naughty dog does a really great job of showing the bond between Joel and Sarah, after some banter Sarah lays down next to Joel on the couch and falls asleep. In a display of normal fatherly acts of heroism, Joel carries Sarah up to bed. When you actually start to control the game you are playing as Sarah and awoken by Joel’s brother Tommy calling trying to hunt Joel down.  Naughty Dog sets the somber tone with this opening, Sarah stumbles groggily through her home which itself really gives you the feeling of living in a “just before the end of the world” type era.  The world is littered with all the items we take for granted today, televisions work, cell phones ringing, hell just electricity in general. &lt;/p&gt;
 
-&lt;p&gt;When Sarah wanders into her father’s home office he comes bursting through the sliding glass door searching for his gun yelling at Sarah to stay back.  Moments later you are introduced to one of the early infected next door neighbors, Jimmy, who begins to aggressively slam his body into the glass until it finally gives showering the room with shards of glass.  Joel instinctively then blows poor Jimmy’s brains all over their home office causing Sarah to question why her father had just shot the neighbor. Killing other people obviously isn’t the norm for Sarah at this point which is a drastic change from the main character, Ellie.  But more on Ellie later, Sarah and Joel meet up with Tommy parked out front waiting for them to make their escape from the area.  The ride is full of vibrant scenes that depict the panic and chaos that is going on in the world all of a sudden.  The opening is working towards its close which has one of the most dramatic and heart touching moments I have personally ever experienced in all my years of gaming.  If you are one of those unfortunate folks that never got to experience the game I wont spoil it for you here, unless you click below that is. &lt;br /&gt;&lt;/p&gt;
+&lt;p&gt;When Sarah wanders into her father’s home office he comes bursting through the sliding glass door searching for his gun yelling at Sarah to stay back.  Moments later you are introduced to one of the early infected next door neighbors, Jimmy, who begins to aggressively slam his body into the glass until it finally gives showering the room with shards of glass.  Joel instinctively then blows poor Jimmy’s brains all over their home office causing Sarah to question why her father had just shot the neighbor. Killing other people obviously isn’t the norm for Sarah at this point which is a drastic change from the main character, Ellie.  But more on Ellie later, Sarah and Joel meet up with Tommy parked out front waiting for them to make their escape from the area.  The ride is full of vibrant scenes that depict the panic and chaos that is going on in the world all of a sudden.  The opening is working towards its close which has one of the most dramatic and heart touching moments I have personally ever experienced in all my years of gaming.  If you are one of those unfortunate folks that never got to experience the game I wont spoil it for you here, unless you click below that is.&lt;/p&gt;
 
-&lt;div onclick=&quot;openClose(&#39;a1&#39;)&quot; style=&quot;cursor:hand; cursor:pointer; font-family:verdana,arial,helvetica,sans-serif; font-size:10pt&quot;&gt; &lt;b&gt;SPOILER&lt;/b&gt;&lt;/div&gt;
-&lt;div id=&quot;a1&quot; class=&quot;texter&quot;&gt;
-   Joel, Sarah, and Tommy are speeding down the street when unexpectedly they get t-boned by another vehicle trying to flee the city causing Tommy&#39;s Jeep to go tumbling. Once Joel emerges from the vehicle and reaches to get Sarah out we find out that Sarah has possibly broken her leg and can not walk on her own.  Joel scoops his daughter up and runs her through the city trying to escape the crazed infected until they finally reach the military blockade.  Get ready for some feels here,  the military opens fire on helpless father and wounded daughter.  The acting here was incredible all parts, really felt like you had lost your own daughter and could feel the pain that Joel was feeling holding his dying daughter. &lt;br /&gt;&lt;br /&gt;
- &lt;/div&gt;
+&lt;p&gt;&lt;a href=&quot;/spoiler&quot; title=&quot;The Last of Us Remastered&quot;&gt;Joel, Sarah, and Tommy are speeding down the street when unexpectedly they get t-boned by another vehicle trying to flee the city causing Tommy’s Jeep to go tumbling. Once Joel emerges from the vehicle and reaches to get Sarah out we find out that Sarah has possibly broken her leg and can not walk on her own.  Joel scoops his daughter up and runs her through the city trying to escape the crazed infected until they finally reach the military blockade.  Get ready for some feels here,  the military opens fire on helpless father and wounded daughter.  The acting here was incredible all parts, really felt like you had lost your own daughter and could feel the pain that Joel was feeling holding his dying daughter.&lt;/a&gt;&lt;/p&gt;
 
 &lt;h3 id=&quot;first-15-minutes-of-the-last-of-us-remastered&quot;&gt;First 15 minutes of The Last of Us Remastered&lt;/h3&gt;
 
-&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=vstfh651hqQ&quot;&gt;&lt;img src=&quot;https://i.ytimg.com/vi/vstfh651hqQ/3.jpg?time=1407117885909&quot; alt=&quot;Last of Us Remastered &quot; /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;//www.youtube.com/embed/vstfh651hqQ&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
 &lt;p&gt;I’m not going to go into a whole lot of detail on the rest of the game now, but considering I feel the beginning of the game really is the back-drop for who Joel really becomes and how he interacts with the people he comes across.  The rest of the game is set 20 years in the future in a completely desolated United States.  Think in terms of &lt;strong&gt;I am Legend&lt;/strong&gt; kind of environment…&lt;/p&gt;
 
@@ -115,27 +68,25 @@ function closeAll() {
 &lt;p&gt;&lt;img src=&quot;http://www.quickmeme.com/img/f1/f124ce8f239638b87b76b7a71c839e930d1ade13207411e592d15bc4e41dd6b2.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
 
 
-  
-  &lt;p&gt;&lt;a href=&quot;http://www.dadsgaming.com/reviews/%20the-last-of-us-remastered-review-ps4/&quot;&gt;The Last of Us-Remastered Beauty,Terror, and Heartbreak&lt;/a&gt; was originally published by Dads Gaming at &lt;a href=&quot;http://www.dadsgaming.com&quot;&gt;Dads Gaming&lt;/a&gt; on August 17, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://renovatio42.github.io/dadsgaming_staging/reviews/the-last-of-us-remastered-review-ps4/&quot;&gt;The Last of Us-Remastered Beauty, Terror, and Heartbreak&lt;/a&gt; was originally published by Chemical Winter at &lt;a href=&quot;http://renovatio42.github.io/dadsgaming_staging&quot;&gt;Dads Gaming Staging&lt;/a&gt; on August 17, 2014.&lt;/p&gt;</content>
 </entry>
 
 
+  
+
 <entry>
   <title type="html"><![CDATA[Waiting to Unleash the Kraken]]></title>
-  <link rel="alternate" type="text/html" href="http://www.dadsgaming.com/articles/waiting-to-unleash-the-kraken/"/>
-  <id>http://www.dadsgaming.com/articles/waiting-to-unleash-the-kraken</id>
+  <link rel="alternate" type="text/html" href="http://renovatio42.github.io/dadsgaming_staging/articles/waiting-to-unleash-the-kraken/" />
+  <id>http://renovatio42.github.io/dadsgaming_staging/articles/waiting-to-unleash-the-kraken</id>
   <updated>2014-08-05 02:20:00 -0700T00:00:00-00:00</updated>
   <published>2014-08-05T00:00:00-07:00</published>
   
   <author>
-    <name>Dads Gaming</name>
-    <uri>http://www.dadsgaming.com</uri>
-    <email>you@email.com</email>
+    <name>JCJesse</name>
+    <uri>http://renovatio42.github.io/dadsgaming_staging</uri>
+    
   </author>
-  <category scheme="http://www.dadsgaming.com/tags/#XboxOne" term="XboxOne" /><category scheme="http://www.dadsgaming.com/tags/#PS4" term="PS4" /><category scheme="http://www.dadsgaming.com/tags/#Video%20Games" term="Video Games" /><category scheme="http://www.dadsgaming.com/tags/#Evolve" term="Evolve" /><category scheme="http://www.dadsgaming.com/tags/#Articles" term="Articles" />
-  <content type="html">
-  
-    &lt;h2 id=&quot;waiting-to-unleash-the-kraken&quot;&gt;Waiting to Unleash the Kraken&lt;/h2&gt;
+  <content type="html">&lt;h2 id=&quot;waiting-to-unleash-the-kraken&quot;&gt;Waiting to Unleash the Kraken&lt;/h2&gt;
 
 &lt;p&gt;Well it looks like you’ll have to wait till February 10th 2015 to unleash the Kraken along with all the other monsters in Evolve. The news comes according to a financial statement from 2K that the Turtle Rock Studios developed game would be pushed back till early first quarter of 2015.&lt;/p&gt;
 
@@ -149,27 +100,25 @@ function closeAll() {
 
 &lt;p&gt;&lt;a href=&quot;http://www.amazon.com/gp/product/B00HKCIT40/ref=as_li_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=9325&amp;amp;creativeASIN=B00HKCIT40&amp;amp;linkCode=as2&amp;amp;tag=dadgam-20&amp;amp;linkId=RUIXDVQQMKOJ7J6V&quot;&gt;Buy Evolve - Xbox One&lt;/a&gt;&lt;img src=&quot;http://ir-na.amazon-adsystem.com/e/ir?t=dadgam-20&amp;amp;l=as2&amp;amp;o=1&amp;amp;a=B00HKCIT40&quot; width=&quot;1&quot; height=&quot;1&quot; border=&quot;0&quot; alt=&quot;&quot; style=&quot;border:none !important; margin:0px !important;&quot; /&gt;&lt;/p&gt;
 
-  
-  &lt;p&gt;&lt;a href=&quot;http://www.dadsgaming.com/articles/waiting-to-unleash-the-kraken/&quot;&gt;Waiting to Unleash the Kraken&lt;/a&gt; was originally published by Dads Gaming at &lt;a href=&quot;http://www.dadsgaming.com&quot;&gt;Dads Gaming&lt;/a&gt; on August 05, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://renovatio42.github.io/dadsgaming_staging/articles/waiting-to-unleash-the-kraken/&quot;&gt;Waiting to Unleash the Kraken&lt;/a&gt; was originally published by JCJesse at &lt;a href=&quot;http://renovatio42.github.io/dadsgaming_staging&quot;&gt;Dads Gaming Staging&lt;/a&gt; on August 05, 2014.&lt;/p&gt;</content>
 </entry>
 
 
+  
+
 <entry>
   <title type="html"><![CDATA[Call of Duty Advanced Warfare - Collector's Editions]]></title>
-  <link rel="alternate" type="text/html" href="http://www.dadsgaming.com/articles/call-of-duty-advanced-warfare-collectors-editions/"/>
-  <id>http://www.dadsgaming.com/articles/call-of-duty-advanced-warfare-collectors-editions</id>
+  <link rel="alternate" type="text/html" href="http://renovatio42.github.io/dadsgaming_staging/articles/call-of-duty-advanced-warfare-collectors-editions/" />
+  <id>http://renovatio42.github.io/dadsgaming_staging/articles/call-of-duty-advanced-warfare-collectors-editions</id>
   <updated>2014-08-02 08:20:00 -0700T00:00:00-00:00</updated>
   <published>2014-08-02T00:00:00-07:00</published>
   
   <author>
-    <name>Dads Gaming</name>
-    <uri>http://www.dadsgaming.com</uri>
-    <email>you@email.com</email>
+    <name>Renovatio 42</name>
+    <uri>http://renovatio42.github.io/dadsgaming_staging</uri>
+    
   </author>
-  <category scheme="http://www.dadsgaming.com/tags/#XboxOne" term="XboxOne" /><category scheme="http://www.dadsgaming.com/tags/#Call%20of%20Duty" term="Call of Duty" /><category scheme="http://www.dadsgaming.com/tags/#Articles" term="Articles" />
-  <content type="html">
-  
-    &lt;p&gt;Here’s your look inside the  Call of Duty Advanced Warfare Collector’s Editions.&lt;/p&gt;
+  <content type="html">&lt;p&gt;Here’s your look inside the  Call of Duty Advanced Warfare Collector’s Editions.&lt;/p&gt;
 
 &lt;p&gt;If you’re intested in getting the game with the &lt;em&gt;Season Pass&lt;/em&gt;, then get the &lt;a href=&quot;http://www.amazon.com/gp/product/B00K308KF4?ie=UTF8&amp;amp;camp=1789&amp;amp;creativeASIN=B00K308KF4&amp;amp;linkCode=xm2&amp;amp;tag=dadgam-20&quot;&gt;&lt;strong&gt;&lt;em&gt;Atlas Pro Edition&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt; or &lt;a href=&quot;http://www.amazon.com/gp/product/B00K308KF4?ie=UTF8&amp;amp;camp=1789&amp;amp;creativeASIN=B00K308KF4&amp;amp;linkCode=xm2&amp;amp;tag=dadgam-20&quot;&gt;&lt;strong&gt;&lt;em&gt;Digital Pro Edition&lt;/em&gt;&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
 
@@ -260,27 +209,25 @@ function closeAll() {
 
 &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;//www.youtube.com/embed/3bYrtw6KF78&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
-  
-  &lt;p&gt;&lt;a href=&quot;http://www.dadsgaming.com/articles/call-of-duty-advanced-warfare-collectors-editions/&quot;&gt;Call of Duty Advanced Warfare - Collector's Editions&lt;/a&gt; was originally published by Dads Gaming at &lt;a href=&quot;http://www.dadsgaming.com&quot;&gt;Dads Gaming&lt;/a&gt; on August 02, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://renovatio42.github.io/dadsgaming_staging/articles/call-of-duty-advanced-warfare-collectors-editions/&quot;&gt;Call of Duty Advanced Warfare - Collector's Editions&lt;/a&gt; was originally published by Renovatio 42 at &lt;a href=&quot;http://renovatio42.github.io/dadsgaming_staging&quot;&gt;Dads Gaming Staging&lt;/a&gt; on August 02, 2014.&lt;/p&gt;</content>
 </entry>
 
 
+  
+
 <entry>
   <title type="html"><![CDATA[Titanfall's Title Update No. 5 is out now]]></title>
-  <link rel="alternate" type="text/html" href="http://www.dadsgaming.com/articles/titanfall-title-update-no5-is-out-now/"/>
-  <id>http://www.dadsgaming.com/articles/titanfall-title-update-no5-is-out-now</id>
+  <link rel="alternate" type="text/html" href="http://renovatio42.github.io/dadsgaming_staging/articles/titanfall-title-update-no5-is-out-now/" />
+  <id>http://renovatio42.github.io/dadsgaming_staging/articles/titanfall-title-update-no5-is-out-now</id>
   <updated>2014-07-29 16:20:00 -0700T00:00:00-00:00</updated>
   <published>2014-07-31T00:00:00-07:00</published>
   
   <author>
-    <name>Dads Gaming</name>
-    <uri>http://www.dadsgaming.com</uri>
-    <email>you@email.com</email>
+    <name>Renovatio 42</name>
+    <uri>http://renovatio42.github.io/dadsgaming_staging</uri>
+    
   </author>
-  <category scheme="http://www.dadsgaming.com/tags/#XboxOne" term="XboxOne" /><category scheme="http://www.dadsgaming.com/tags/#Titanfall" term="Titanfall" /><category scheme="http://www.dadsgaming.com/tags/#Articles" term="Articles" />
-  <content type="html">
-  
-    &lt;p&gt;Titanfall Title Update No. 5 is out now!&lt;/p&gt;
+  <content type="html">&lt;p&gt;Titanfall Title Update No. 5 is out now!&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://www.titanfall.com/game-update-five?sf29094397=1&quot;&gt;Source&lt;/a&gt;&lt;/p&gt;
 
@@ -320,27 +267,25 @@ function closeAll() {
     &lt;img src=&quot;http://wms-na.amazon-adsystem.com/20070822/US/img/noscript.gif?tag=dadgam-20&amp;amp;linkId=DDHN7VZYN7WGTFGG&quot; alt=&quot;&quot; /&gt;
 &lt;/noscript&gt;
 
-  
-  &lt;p&gt;&lt;a href=&quot;http://www.dadsgaming.com/articles/titanfall-title-update-no5-is-out-now/&quot;&gt;Titanfall's Title Update No. 5 is out now&lt;/a&gt; was originally published by Dads Gaming at &lt;a href=&quot;http://www.dadsgaming.com&quot;&gt;Dads Gaming&lt;/a&gt; on July 31, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://renovatio42.github.io/dadsgaming_staging/articles/titanfall-title-update-no5-is-out-now/&quot;&gt;Titanfall's Title Update No. 5 is out now&lt;/a&gt; was originally published by Renovatio 42 at &lt;a href=&quot;http://renovatio42.github.io/dadsgaming_staging&quot;&gt;Dads Gaming Staging&lt;/a&gt; on July 31, 2014.&lt;/p&gt;</content>
 </entry>
 
 
+  
+
 <entry>
   <title type="html"><![CDATA[Playstation Plus August 2014 Free Games]]></title>
-  <link rel="alternate" type="text/html" href="http://www.dadsgaming.com/articles/playstation-plus-august-2014-free-games/"/>
-  <id>http://www.dadsgaming.com/articles/playstation-plus-august-2014-free-games</id>
+  <link rel="alternate" type="text/html" href="http://renovatio42.github.io/dadsgaming_staging/articles/playstation-plus-august-2014-free-games/" />
+  <id>http://renovatio42.github.io/dadsgaming_staging/articles/playstation-plus-august-2014-free-games</id>
   <updated>2014-07-31 12:47:00 -0700T00:00:00-00:00</updated>
   <published>2014-07-31T00:00:00-07:00</published>
   
   <author>
-    <name>Dads Gaming</name>
-    <uri>http://www.dadsgaming.com</uri>
-    <email>you@email.com</email>
+    <name>JCJesse</name>
+    <uri>http://renovatio42.github.io/dadsgaming_staging</uri>
+    
   </author>
-  <category scheme="http://www.dadsgaming.com/tags/#PlayStation" term="PlayStation" /><category scheme="http://www.dadsgaming.com/tags/#Articles" term="Articles" />
-  <content type="html">
-  
-    &lt;p&gt;The following games are available free starting August 5th to all Playstation Plus memebers&lt;/p&gt;
+  <content type="html">&lt;p&gt;The following games are available free starting August 5th to all Playstation Plus memebers&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Road Not Taken (PS4)&lt;/li&gt;
@@ -356,27 +301,25 @@ function closeAll() {
 &lt;p&gt;&lt;a href=&quot;http://www.amazon.com/gp/product/B004RMK5QG/ref=as_li_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=9325&amp;amp;creativeASIN=B004RMK5QG&amp;amp;linkCode=as2&amp;amp;tag=dadgam-20&amp;amp;linkId=TCXHOKJKUSXXH2YF&quot;&gt;1-Year PlayStation Plus Membership - PS3/ PS4/ PS Vita [Digital Code]&lt;/a&gt;&lt;img src=&quot;http://ir-na.amazon-adsystem.com/e/ir?t=dadgam-20&amp;amp;l=as2&amp;amp;o=1&amp;amp;a=B004RMK5QG&quot; width=&quot;1&quot; height=&quot;1&quot; border=&quot;0&quot; alt=&quot;&quot; style=&quot;border:none !important; margin:0px !important;&quot; /&gt;&lt;/p&gt;
 
 
-  
-  &lt;p&gt;&lt;a href=&quot;http://www.dadsgaming.com/articles/playstation-plus-august-2014-free-games/&quot;&gt;Playstation Plus August 2014 Free Games&lt;/a&gt; was originally published by Dads Gaming at &lt;a href=&quot;http://www.dadsgaming.com&quot;&gt;Dads Gaming&lt;/a&gt; on July 31, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://renovatio42.github.io/dadsgaming_staging/articles/playstation-plus-august-2014-free-games/&quot;&gt;Playstation Plus August 2014 Free Games&lt;/a&gt; was originally published by JCJesse at &lt;a href=&quot;http://renovatio42.github.io/dadsgaming_staging&quot;&gt;Dads Gaming Staging&lt;/a&gt; on July 31, 2014.&lt;/p&gt;</content>
 </entry>
 
 
+  
+
 <entry>
   <title type="html"><![CDATA[Call of Duty: Ghosts Nemesis DLC Pack Preview - Trailer]]></title>
-  <link rel="alternate" type="text/html" href="http://www.dadsgaming.com/articles/call-of-duty-ghosts-nemesis-dlc-preview/"/>
-  <id>http://www.dadsgaming.com/articles/call-of-duty-ghosts-nemesis-dlc-preview</id>
+  <link rel="alternate" type="text/html" href="http://renovatio42.github.io/dadsgaming_staging/articles/call-of-duty-ghosts-nemesis-dlc-preview/" />
+  <id>http://renovatio42.github.io/dadsgaming_staging/articles/call-of-duty-ghosts-nemesis-dlc-preview</id>
   <updated>2014-07-29 16:20:00 -0700T00:00:00-00:00</updated>
   <published>2014-07-31T00:00:00-07:00</published>
   
   <author>
-    <name>Dads Gaming</name>
-    <uri>http://www.dadsgaming.com</uri>
-    <email>you@email.com</email>
+    <name>Renovatio 42</name>
+    <uri>http://renovatio42.github.io/dadsgaming_staging</uri>
+    
   </author>
-  <category scheme="http://www.dadsgaming.com/tags/#XboxOne" term="XboxOne" /><category scheme="http://www.dadsgaming.com/tags/#Call%20of%20Duty" term="Call of Duty" /><category scheme="http://www.dadsgaming.com/tags/#Articles" term="Articles" />
-  <content type="html">
-  
-    &lt;p&gt;&lt;a href=&quot;http://youtu.be/C5gk1jTKDG4?list=PLZeek85Kuka0ca1mDCe9_NBjBtongDF6L&quot;&gt;Source&lt;/a&gt;&lt;/p&gt;
+  <content type="html">&lt;p&gt;&lt;a href=&quot;http://youtu.be/C5gk1jTKDG4?list=PLZeek85Kuka0ca1mDCe9_NBjBtongDF6L&quot;&gt;Source&lt;/a&gt;&lt;/p&gt;
 
 &lt;p&gt;Get the first look at Nemesis, the fourth and final DLC Pack for Call of Duty: Ghosts. Nemesis includes four Multiplayer maps: Goldrush, Subzero, Dynasty, and Showtime, a reimagined version of the fan-favorite Shipment from Call of Duty 4: Modern Warfare.&lt;/p&gt;
 
@@ -388,27 +331,25 @@ function closeAll() {
 
 &lt;p&gt;&lt;a href=&quot;http://www.amazon.com/gp/product/B00K308KF4/ref=as_li_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=9325&amp;amp;creativeASIN=B00K308KF4&amp;amp;linkCode=as2&amp;amp;tag=dadgam-20&amp;amp;linkId=XYT3ZLPHH34ASTOR&quot;&gt;Pre-Order Call of Duty: Advanced Warfare - Xbox One&lt;/a&gt;&lt;img src=&quot;http://ir-na.amazon-adsystem.com/e/ir?t=dadgam-20&amp;amp;l=as2&amp;amp;o=1&amp;amp;a=B00K308KF4&quot; width=&quot;1&quot; height=&quot;1&quot; border=&quot;0&quot; alt=&quot;&quot; style=&quot;border:none !important; margin:0px !important;&quot; /&gt;&lt;/p&gt;
 
-  
-  &lt;p&gt;&lt;a href=&quot;http://www.dadsgaming.com/articles/call-of-duty-ghosts-nemesis-dlc-preview/&quot;&gt;Call of Duty: Ghosts Nemesis DLC Pack Preview - Trailer&lt;/a&gt; was originally published by Dads Gaming at &lt;a href=&quot;http://www.dadsgaming.com&quot;&gt;Dads Gaming&lt;/a&gt; on July 31, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://renovatio42.github.io/dadsgaming_staging/articles/call-of-duty-ghosts-nemesis-dlc-preview/&quot;&gt;Call of Duty: Ghosts Nemesis DLC Pack Preview - Trailer&lt;/a&gt; was originally published by Renovatio 42 at &lt;a href=&quot;http://renovatio42.github.io/dadsgaming_staging&quot;&gt;Dads Gaming Staging&lt;/a&gt; on July 31, 2014.&lt;/p&gt;</content>
 </entry>
 
 
+  
+
 <entry>
   <title type="html"><![CDATA[Call of Duty Advanced Warfare - Trailer]]></title>
-  <link rel="alternate" type="text/html" href="http://www.dadsgaming.com/articles/call-of-duty-advanced-warfare-campaign-trailer/"/>
-  <id>http://www.dadsgaming.com/articles/call-of-duty-advanced-warfare-campaign-trailer</id>
+  <link rel="alternate" type="text/html" href="http://renovatio42.github.io/dadsgaming_staging/articles/call-of-duty-advanced-warfare-campaign-trailer/" />
+  <id>http://renovatio42.github.io/dadsgaming_staging/articles/call-of-duty-advanced-warfare-campaign-trailer</id>
   <updated>2014-07-29 16:20:00 -0700T00:00:00-00:00</updated>
   <published>2014-07-29T00:00:00-07:00</published>
   
   <author>
-    <name>Dads Gaming</name>
-    <uri>http://www.dadsgaming.com</uri>
-    <email>you@email.com</email>
+    <name>Renovatio 42</name>
+    <uri>http://renovatio42.github.io/dadsgaming_staging</uri>
+    
   </author>
-  <category scheme="http://www.dadsgaming.com/tags/#XboxOne" term="XboxOne" /><category scheme="http://www.dadsgaming.com/tags/#Call%20of%20Duty" term="Call of Duty" /><category scheme="http://www.dadsgaming.com/tags/#Articles" term="Articles" />
-  <content type="html">
-  
-    &lt;p&gt;Here’s our first look at the Call of Duty Advanced Warfare - Campaign and a sneak at Multiplayer gameplay! (at the end of the video)&lt;/p&gt;
+  <content type="html">&lt;p&gt;Here’s our first look at the Call of Duty Advanced Warfare - Campaign and a sneak at Multiplayer gameplay! (at the end of the video)&lt;/p&gt;
 
 &lt;p&gt;Multiplayer Trailer scheduled debut: 8/11/2014
 Game releases: 11/4/14&lt;/p&gt;
@@ -418,27 +359,25 @@ Game releases: 11/4/14&lt;/p&gt;
 &lt;iframe style=&quot;width:120px;height:240px;&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; src=&quot;//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&amp;amp;OneJS=1&amp;amp;Operation=GetAdHtml&amp;amp;MarketPlace=US&amp;amp;source=ac&amp;amp;ref=tf_til&amp;amp;ad_type=product_link&amp;amp;tracking_id=dadgam-20&amp;amp;marketplace=amazon&amp;amp;region=US&amp;amp;placement=B00K308KF4&amp;amp;asins=B00K308KF4&amp;amp;linkId=BONI6U6PUVKY5MKJ&amp;amp;show_border=true&amp;amp;link_opens_in_new_window=true&quot;&gt;
 &lt;/iframe&gt;
 
-  
-  &lt;p&gt;&lt;a href=&quot;http://www.dadsgaming.com/articles/call-of-duty-advanced-warfare-campaign-trailer/&quot;&gt;Call of Duty Advanced Warfare - Trailer&lt;/a&gt; was originally published by Dads Gaming at &lt;a href=&quot;http://www.dadsgaming.com&quot;&gt;Dads Gaming&lt;/a&gt; on July 29, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://renovatio42.github.io/dadsgaming_staging/articles/call-of-duty-advanced-warfare-campaign-trailer/&quot;&gt;Call of Duty Advanced Warfare - Trailer&lt;/a&gt; was originally published by Renovatio 42 at &lt;a href=&quot;http://renovatio42.github.io/dadsgaming_staging&quot;&gt;Dads Gaming Staging&lt;/a&gt; on July 29, 2014.&lt;/p&gt;</content>
 </entry>
 
 
+  
+
 <entry>
-  <title type="html"><![CDATA[Borderlands 2 on PS Vita - A Gigantic, Overly Criticized World ]]></title>
-  <link rel="alternate" type="text/html" href="http://www.dadsgaming.com/reviews/borderlands-2-on-ps-vita-a-gigantic-overly-criticized-world/"/>
-  <id>http://www.dadsgaming.com/reviews/borderlands-2-on-ps-vita-a-gigantic-overly-criticized-world</id>
+  <title type="html"><![CDATA[Borderlands 2 on PS Vita - A Gigantic, Overly Criticized World]]></title>
+  <link rel="alternate" type="text/html" href="http://renovatio42.github.io/dadsgaming_staging/reviews/borderlands-2-on-ps-vita-a-gigantic-overly-criticized-world/" />
+  <id>http://renovatio42.github.io/dadsgaming_staging/reviews/borderlands-2-on-ps-vita-a-gigantic-overly-criticized-world</id>
   <updated>2014-07-29 12:47:00 -0700T00:00:00-00:00</updated>
   <published>2014-07-29T00:00:00-07:00</published>
   
   <author>
-    <name>Dads Gaming</name>
-    <uri>http://www.dadsgaming.com</uri>
-    <email>you@email.com</email>
+    <name>Chemical Winter</name>
+    <uri>http://renovatio42.github.io/dadsgaming_staging</uri>
+    
   </author>
-  <category scheme="http://www.dadsgaming.com/tags/#PS%20Vita" term="PS Vita" /><category scheme="http://www.dadsgaming.com/tags/#Reviews" term="Reviews" />
-  <content type="html">
-  
-    &lt;iframe src=&quot;https://www.flickr.com/photos/126304189@N08/14591071767/player/e9f541e6b7&quot; height=&quot;195&quot; width=&quot;500&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; oallowfullscreen=&quot;&quot; msallowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+  <content type="html">&lt;iframe src=&quot;https://www.flickr.com/photos/126304189@N08/14591071767/player/e9f541e6b7&quot; height=&quot;195&quot; width=&quot;500&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; oallowfullscreen=&quot;&quot; msallowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
 &lt;p&gt;There aren’t many things I adore more in life than filling Bandits with so many bullets that they explode, hunting down rare loot chests, or taking down Raid Bosses.  Well… there is one thing I love more,  the ability to do this on my couch while my wife is trying to kill me by watching The Bachelorette for 3 hours.  Borderlands 2 on the PS Vita a little gift from above that helps me retain my sanity in these troubling times known as “compromise”.&lt;/p&gt;
 
@@ -472,27 +411,25 @@ Game releases: 11/4/14&lt;/p&gt;
 &lt;p&gt;&lt;a href=&quot;http://www.amazon.com/gp/product/B00HLT0YT0/ref=as_li_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=9325&amp;amp;creativeASIN=B00HLT0YT0&amp;amp;linkCode=as2&amp;amp;tag=dadgam-20&amp;amp;linkId=NRZJARDTA5GLMPID&quot;&gt;Borderlands 2 - Limited Edition - PlayStation Vita Bundle&lt;/a&gt;&lt;img src=&quot;http://ir-na.amazon-adsystem.com/e/ir?t=dadgam-20&amp;amp;l=as2&amp;amp;o=1&amp;amp;a=B00HLT0YT0&quot; width=&quot;1&quot; height=&quot;1&quot; border=&quot;0&quot; alt=&quot;&quot; style=&quot;border:none !important; margin:0px !important;&quot; /&gt;&lt;/p&gt;
 
 
-  
-  &lt;p&gt;&lt;a href=&quot;http://www.dadsgaming.com/reviews/borderlands-2-on-ps-vita-a-gigantic-overly-criticized-world/&quot;&gt;Borderlands 2 on PS Vita - A Gigantic, Overly Criticized World &lt;/a&gt; was originally published by Dads Gaming at &lt;a href=&quot;http://www.dadsgaming.com&quot;&gt;Dads Gaming&lt;/a&gt; on July 29, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://renovatio42.github.io/dadsgaming_staging/reviews/borderlands-2-on-ps-vita-a-gigantic-overly-criticized-world/&quot;&gt;Borderlands 2 on PS Vita - A Gigantic, Overly Criticized World&lt;/a&gt; was originally published by Chemical Winter at &lt;a href=&quot;http://renovatio42.github.io/dadsgaming_staging&quot;&gt;Dads Gaming Staging&lt;/a&gt; on July 29, 2014.&lt;/p&gt;</content>
 </entry>
 
 
+  
+
 <entry>
   <title type="html"><![CDATA[August Update Xbox One]]></title>
-  <link rel="alternate" type="text/html" href="http://www.dadsgaming.com/articles/august_update_xbox_one/"/>
-  <id>http://www.dadsgaming.com/articles/august_update_xbox_one</id>
+  <link rel="alternate" type="text/html" href="http://renovatio42.github.io/dadsgaming_staging/articles/august_update_xbox_one/" />
+  <id>http://renovatio42.github.io/dadsgaming_staging/articles/august_update_xbox_one</id>
   <updated>2014-08-18 12:47:00 -0700T00:00:00-00:00</updated>
   <published>2014-07-28T00:00:00-07:00</published>
   
   <author>
-    <name>Dads Gaming</name>
-    <uri>http://www.dadsgaming.com</uri>
-    <email>you@email.com</email>
+    <name>Renovatio 42</name>
+    <uri>http://renovatio42.github.io/dadsgaming_staging</uri>
+    
   </author>
-  <category scheme="http://www.dadsgaming.com/tags/#XboxOne" term="XboxOne" /><category scheme="http://www.dadsgaming.com/tags/#Articles" term="Articles" />
-  <content type="html">
-  
-    &lt;p&gt;Here’s what’s coming in the August 2014 update:&lt;/p&gt;
+  <content type="html">&lt;p&gt;Here’s what’s coming in the August 2014 update:&lt;/p&gt;
 
 &lt;ul&gt;
   &lt;li&gt;Low Battery Notifications&lt;/li&gt;
@@ -510,27 +447,25 @@ Game releases: 11/4/14&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://www.amazon.com/gp/product/B00EQNP8F4/ref=as_li_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=9325&amp;amp;creativeASIN=B00EQNP8F4&amp;amp;linkCode=as2&amp;amp;tag=dadgam-20&amp;amp;linkId=FKDEETRJAKWSYKCJ&quot;&gt;Microsoft Xbox LIVE 12 Month Gold Card&lt;/a&gt;&lt;img src=&quot;http://ir-na.amazon-adsystem.com/e/ir?t=dadgam-20&amp;amp;l=as2&amp;amp;o=1&amp;amp;a=B00EQNP8F4&quot; width=&quot;1&quot; height=&quot;1&quot; border=&quot;0&quot; alt=&quot;&quot; style=&quot;border:none !important; margin:0px !important;&quot; /&gt;&lt;/p&gt;
 
-  
-  &lt;p&gt;&lt;a href=&quot;http://www.dadsgaming.com/articles/august_update_xbox_one/&quot;&gt;August Update Xbox One&lt;/a&gt; was originally published by Dads Gaming at &lt;a href=&quot;http://www.dadsgaming.com&quot;&gt;Dads Gaming&lt;/a&gt; on July 28, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://renovatio42.github.io/dadsgaming_staging/articles/august_update_xbox_one/&quot;&gt;August Update Xbox One&lt;/a&gt; was originally published by Renovatio 42 at &lt;a href=&quot;http://renovatio42.github.io/dadsgaming_staging&quot;&gt;Dads Gaming Staging&lt;/a&gt; on July 28, 2014.&lt;/p&gt;</content>
 </entry>
 
 
+  
+
 <entry>
   <title type="html"><![CDATA[Living Without Destiny]]></title>
-  <link rel="alternate" type="text/html" href="http://www.dadsgaming.com/articles/Living-Without-Destiny/"/>
-  <id>http://www.dadsgaming.com/articles/Living-Without-Destiny</id>
+  <link rel="alternate" type="text/html" href="http://renovatio42.github.io/dadsgaming_staging/blogs/Living-Without-Destiny/" />
+  <id>http://renovatio42.github.io/dadsgaming_staging/blogs/Living-Without-Destiny</id>
   <updated>2014-07-30 12:47:00 -0700T00:00:00-00:00</updated>
   <published>2014-07-10T00:00:00-07:00</published>
   
   <author>
-    <name>Dads Gaming</name>
-    <uri>http://www.dadsgaming.com</uri>
-    <email>you@email.com</email>
+    <name>Renovatio 42</name>
+    <uri>http://renovatio42.github.io/dadsgaming_staging</uri>
+    
   </author>
-  <category scheme="http://www.dadsgaming.com/tags/#XboxOne" term="XboxOne" /><category scheme="http://www.dadsgaming.com/tags/#PS4" term="PS4" /><category scheme="http://www.dadsgaming.com/tags/#Video%20Games" term="Video Games" /><category scheme="http://www.dadsgaming.com/tags/#Articles" term="Articles" />
-  <content type="html">
-  
-    &lt;p&gt;Here we are, day number two, and Destiny Beta is no more. I have gotten accustom to launching into orbit to find where my next adventure will be, or try my hand in the fast-pace action of the Cruciable, or perhaps take a casual stroll around the Tower browsing the different vendors’ wares or engaging in a spontanious (and highly addictive) mob dance. But I degress, the wonderful people at Bungie had their data and pulled the plug on the Beta so that they can work their wonders and make what seemed to be a complete game, even better. &lt;/p&gt;
+  <content type="html">&lt;p&gt;Here we are, day number two, and Destiny Beta is no more. I have gotten accustom to launching into orbit to find where my next adventure will be, or try my hand in the fast-pace action of the Cruciable, or perhaps take a casual stroll around the Tower browsing the different vendors’ wares or engaging in a spontanious (and highly addictive) mob dance. But I degress, the wonderful people at Bungie had their data and pulled the plug on the Beta so that they can work their wonders and make what seemed to be a complete game, even better. &lt;/p&gt;
 
 &lt;iframe style=&quot;width:120px;height:240px;&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; src=&quot;//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&amp;amp;OneJS=1&amp;amp;Operation=GetAdHtml&amp;amp;MarketPlace=US&amp;amp;source=ac&amp;amp;ref=qf_sp_asin_til&amp;amp;ad_type=product_link&amp;amp;tracking_id=dadgam-20&amp;amp;marketplace=amazon&amp;amp;region=US&amp;amp;placement=B00LH6C9WI&amp;amp;asins=B00LH6C9WI&amp;amp;linkId=RFZMAWW623JHMMBL&amp;amp;show_border=true&amp;amp;link_opens_in_new_window=true&quot;&gt;
 &lt;/iframe&gt;
@@ -538,8 +473,7 @@ Game releases: 11/4/14&lt;/p&gt;
 &lt;iframe style=&quot;width:120px;height:240px;&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; src=&quot;//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&amp;amp;OneJS=1&amp;amp;Operation=GetAdHtml&amp;amp;MarketPlace=US&amp;amp;source=ac&amp;amp;ref=tf_til&amp;amp;ad_type=product_link&amp;amp;tracking_id=dadgam-20&amp;amp;marketplace=amazon&amp;amp;region=US&amp;amp;placement=B00KVOVBGM&amp;amp;asins=B00KVOVBGM&amp;amp;linkId=HLPKKLKETGW4BXUK&amp;amp;show_border=true&amp;amp;link_opens_in_new_window=true&quot;&gt;
 &lt;/iframe&gt;
 
-  
-  &lt;p&gt;&lt;a href=&quot;http://www.dadsgaming.com/articles/Living-Without-Destiny/&quot;&gt;Living Without Destiny&lt;/a&gt; was originally published by Dads Gaming at &lt;a href=&quot;http://www.dadsgaming.com&quot;&gt;Dads Gaming&lt;/a&gt; on July 10, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://renovatio42.github.io/dadsgaming_staging/blogs/Living-Without-Destiny/&quot;&gt;Living Without Destiny&lt;/a&gt; was originally published by Renovatio 42 at &lt;a href=&quot;http://renovatio42.github.io/dadsgaming_staging&quot;&gt;Dads Gaming Staging&lt;/a&gt; on July 10, 2014.&lt;/p&gt;</content>
 </entry>
 
 </feed>

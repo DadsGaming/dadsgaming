@@ -1,13 +1,11 @@
 ---
 layout: page
 title: Latest Posts
-description: "A journey of Dads Gaming"
-tags: [Dads, Gaming, Xbox, PlayStation, Consoles, Xbox One, PS4]
+excerpt: "We are Dads sharing a passion for video games, movies, tech, and cool gadgets."
 ---
 
 <ul class="post-list">
 {% for post in site.posts limit:10 %} 
-  <li><article><a href="{{ site.url }}{{ post.url }}">{{ post.title }}<span class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time></span></a></article></li>
+  <li><article><a href="{{ site.url }}{{ post.url }}"><img class="zit" src="{{ post.thumbnail }}" /> {{ post.title }}<br/></span><span align="right" class="entry-date"><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}<br />[{{ post.category }}]</time></span><p><span class="entry-first_sentence">{{ post.first_sentence }}</span></p></a></article></li>
 {% endfor %}
 </ul>
-
