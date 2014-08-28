@@ -10,7 +10,7 @@ tags: [XboxOne, Xbox360, PS4, PS3, Giveaway, Destiny, Articles]
 
 ### We're Giveaway One Digital Copy of Destiny The Game!
 
-#### Winner chooses their copy: either Xbox 360, PS3, Xbox One, or PS4.
+#### Winner chooses their copy: either PS3, PS4, Xbox 360, or Xbox One
 
 *A huge thank you for southsideslide for supplying the prize!*
 
