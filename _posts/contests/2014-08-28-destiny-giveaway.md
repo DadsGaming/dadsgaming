@@ -8,7 +8,7 @@ thumbnail: https://farm4.staticflickr.com/3897/14877277370_2286529ab2_o.png
 tags: [XboxOne, Xbox360, PS4, PS3, Giveaway, Destiny, Articles]
 ---
 
-### We're Givea way One Digital Copy of Destiny The Game!
+### We're Give away One Digital Copy of Destiny The Game!
 
 #### Winner chooses their copy: either PS3, PS4, Xbox 360, or Xbox One
 
