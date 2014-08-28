@@ -1,6 +1,6 @@
 ---
 author: renovatio_42
-layout: page
+layout: post
 title: "DadsGaming is Giving Away Destiny!"
 modified: 2014-08-28 12:47:00 -0700
 category: contests
