@@ -10,9 +10,8 @@ tags: [XboxOne, Xbox360, PS4, PS3, Giveaway, Destiny, Articles]
 
 ### We're Giving Away One Digital Copy of Destiny The Game!
 
-
-### THE WINNER IS...
-> BaroqueReaper
+### AND THE WINNER IS...
+> BaroqueReaper 
 
 
 *A huge thank you for southsideslide for supplying the prize!*
