@@ -5,7 +5,7 @@ title: "DadsGaming is Giving Away Alpha Codes for Evolve!"
 modified: 2014-10-09 20:00:00 -0700
 category: contests
 thumbnail: https://farm6.staticflickr.com/5599/15301744798_a13e92c9fb_b.jpg
-tags: [XboxOne, Xbox360, PS4, PS3, Giveaway, Evolve, Articles]
+tags: [XboxOne, PS4, PC, Giveaway, Evolve, Articles]
 ---
 
 ### We're Giving Away Alpha Codes for Evolve's BigAlpha!
