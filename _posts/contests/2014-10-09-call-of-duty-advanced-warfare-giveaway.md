@@ -6,6 +6,7 @@ modified: 2014-10-09 20:00:00 -0700
 category: contests
 thumbnail: https://farm4.staticflickr.com/3937/15301388580_64b418e024_b.jpg
 tags: [XboxOne, Xbox360, PS4, PS3, Giveaway, CallofDuty, AdvancedWarfare, CODAW, Articles]
+share: true
 ---
 
 ### We're Giving Away One Digital Copy of Call of Duty Advanced Warfare!

@@ -6,6 +6,7 @@ modified: 2014-09-09 20:00:00 -0700
 category: contests
 thumbnail: https://farm4.staticflickr.com/3897/14877277370_2286529ab2_o.png
 tags: [XboxOne, Xbox360, PS4, PS3, Giveaway, Destiny, Articles]
+share: true
 ---
 
 ### We're Giving Away One Digital Copy of Destiny The Game!
