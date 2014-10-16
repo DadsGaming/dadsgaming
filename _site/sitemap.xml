@@ -3,6 +3,18 @@
   
   
   <url>
+    <loc>http://www.dadsgaming.com/contests/evolve-big-alpha-giveaway/</loc>
+    <lastmod>2014-10-09T00:00:00-07:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.dadsgaming.com/contests/call-of-duty-advanced-warfare-giveaway/</loc>
+    <lastmod>2014-10-09T00:00:00-07:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  
+  <url>
     <loc>http://www.dadsgaming.com/contests/destiny-giveaway/</loc>
     <lastmod>2014-08-28T00:00:00-07:00</lastmod>
     <priority>0.8</priority>
@@ -71,56 +83,63 @@
   
   <url>
     <loc>http://www.dadsgaming.com/</loc>
-    <lastmod>2014-09-09T21:16:46-07:00</lastmod>
+    <lastmod>2014-10-16T07:58:32-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   
   <url>
-    <loc>http://www.dadsgaming.com/blogs/</loc>
-    <lastmod>2014-09-09T21:16:46-07:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.dadsgaming.com/about/</loc>
-    <lastmod>2014-09-09T21:16:46-07:00</lastmod>
+    <loc>http://www.dadsgaming.com/events/</loc>
+    <lastmod>2014-10-16T07:58:32-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://www.dadsgaming.com/articles/</loc>
-    <lastmod>2014-09-09T21:16:46-07:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.dadsgaming.com/interviews/</loc>
-    <lastmod>2014-09-09T21:16:46-07:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.dadsgaming.com/reviews/</loc>
-    <lastmod>2014-09-09T21:16:46-07:00</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
-  </url>
-  
-  <url>
-    <loc>http://www.dadsgaming.com/tags/</loc>
-    <lastmod>2014-09-09T21:16:46-07:00</lastmod>
+    <lastmod>2014-10-16T07:58:32-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   
   <url>
     <loc>http://www.dadsgaming.com/contests/</loc>
-    <lastmod>2014-09-09T21:16:46-07:00</lastmod>
+    <lastmod>2014-10-16T07:58:32-07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.dadsgaming.com/interviews/</loc>
+    <lastmod>2014-10-16T07:58:32-07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.dadsgaming.com/reviews/</loc>
+    <lastmod>2014-10-16T07:58:32-07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.dadsgaming.com/tags/</loc>
+    <lastmod>2014-10-16T07:58:32-07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.dadsgaming.com/about/</loc>
+    <lastmod>2014-10-16T07:58:32-07:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  
+  <url>
+    <loc>http://www.dadsgaming.com/blogs/</loc>
+    <lastmod>2014-10-16T07:58:32-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
