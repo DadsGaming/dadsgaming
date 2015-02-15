@@ -1,0 +1,62 @@
+# Site wide configuration
+
+#title: Dads Gaming Dev
+locale: en_US
+description: "We are Dads sharing a passion for video games, movies, tech, and cool gadgets."
+logo: site-logo.png
+search: true
+# DEVELOPMENT
+#title: Dads Gaming Dev
+#url: http://localhost:4000
+# STAGING
+title: Dads Gaming Staging
+url: http://renovatio42.github.io/dadsgaming_staging
+# PRODUCTION
+#title: Dads Gaming
+#url: http://www.dadsgaming.com
+
+# Jekyll configuration
+
+
+permalink:   /:categories/:title/
+markdown:    kramdown
+highlighter: pygments
+sass:
+  sass_dir: _sass
+  style: compressed
+gems:
+  - jekyll-sitemap
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  use_coderay: false
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md", "vendor"]
+
+
+# Site owner
+owner:
+  name: Dads Gaming
+  avatar: bio-photo.jpg
+  email: 
+  disqus-shortname: dadsgaming
+  twitter: DadGamers
+  reddit: r/DadsGaming/
+  facebook: TheDadsGaming
+  #github: mmistakes
+  #stackexchange:
+  #linkedin:
+  #instagram: mmistakes
+  #flickr:
+  #tumblr: mademistakes
+  google:
+    plus: #MichaelRoseDesign
+    analytics: UA-53292793-1
+    verify: #UQj93ERU9zgECodaaXgVpkjrFn9UrDMEzVamacSoQ8Y
+    ad-client: ca-pub-8502566029375724
+    ad-slot: #7855747535
+  bing-verify: 3E3E7FC8C2C49F679BEF15FE95EB2F1D
