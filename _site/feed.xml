@@ -2,13 +2,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
 <title type="text">Dads Gaming</title>
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
-<link rel="self" type="application/atom+xml" href="http://www.dadsgaming.com/feed.xml" />
-<link rel="alternate" type="text/html" href="http://www.dadsgaming.com" />
-<updated>2015-04-20T12:13:23-07:00</updated>
-<id>http://www.dadsgaming.com/</id>
+<link rel="self" type="application/atom+xml" href="http://dadsgaming.com/feed.xml" />
+<link rel="alternate" type="text/html" href="http://dadsgaming.com" />
+<updated>2015-05-05T08:34:06-07:00</updated>
+<id>http://dadsgaming.com/</id>
 <author>
   <name>Dads Gaming</name>
-  <uri>http://www.dadsgaming.com/</uri>
+  <uri>http://dadsgaming.com/</uri>
   
 </author>
 
@@ -16,22 +16,49 @@
   
 
 <entry>
+  <title type="html"><![CDATA[DadsGaming is Giving Away Destiny House of Wolves DLC!]]></title>
+  <link rel="alternate" type="text/html" href="http://dadsgaming.com/contests/destiny-how-giveaway/" />
+  <id>http://dadsgaming.com/contests/destiny-how-giveaway</id>
+  <updated>2015-05-05 08:00:00 -0700T00:00:00-00:00</updated>
+  <published>2015-05-25T00:00:00-07:00</published>
+  
+  <author>
+    <name>Renovatio 42</name>
+    <uri>http://dadsgaming.com</uri>
+    
+  </author>
+  <content type="html">&lt;h3 id=&quot;were-giving-away-one-digital-copy-of-destinys-house-of-wolves-dlc&quot;&gt;We’re Giving Away One Digital Copy of Destiny’s House of Wolves DLC!&lt;/h3&gt;
+
+&lt;p&gt;&lt;em&gt;A huge thank you for IndioTechKnow for supplying the prize!&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://farm8.staticflickr.com/7733/16760124773_3656801755_o.png&quot; width=&quot;1440&quot; height=&quot;599&quot; alt=&quot;Destiny-House-of-Wolves-4&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a class=&quot;rcptr&quot; href=&quot;http://www.rafflecopter.com/rafl/display/5407d0de6/&quot; rel=&quot;nofollow&quot; data-raflid=&quot;5407d0de6&quot; data-theme=&quot;classic&quot; data-template=&quot;&quot; id=&quot;rcwidget_cskyhp4n&quot;&gt;a Rafflecopter giveaway&lt;/a&gt;
+&lt;script src=&quot;//widget-prime.rafflecopter.com/launch.js&quot;&gt;&lt;/script&gt;&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://dadsgaming.com/contests/destiny-how-giveaway/&quot;&gt;DadsGaming is Giving Away Destiny House of Wolves DLC!&lt;/a&gt; was originally published by Renovatio 42 at &lt;a href=&quot;http://dadsgaming.com&quot;&gt;Dads Gaming&lt;/a&gt; on May 25, 2015.&lt;/p&gt;</content>
+</entry>
+
+
+  
+
+<entry>
   <title type="html"><![CDATA[Sign-ups for the DadsGaming Vault of Glass Speed Run]]></title>
-  <link rel="alternate" type="text/html" href="http://www.dadsgaming.com/articles/dadsgaming-vault-of-glass-speed-run-sign-ups/" />
-  <id>http://www.dadsgaming.com/articles/dadsgaming-vault-of-glass-speed-run-sign-ups</id>
+  <link rel="alternate" type="text/html" href="http://dadsgaming.com/articles/dadsgaming-vault-of-glass-speed-run-sign-ups/" />
+  <id>http://dadsgaming.com/articles/dadsgaming-vault-of-glass-speed-run-sign-ups</id>
   <updated>2015-04-20 12:47:00 -0700T00:00:00-00:00</updated>
   <published>2015-04-20T00:00:00-07:00</published>
   
   <author>
     <name>Renovatio 42</name>
-    <uri>http://www.dadsgaming.com</uri>
+    <uri>http://dadsgaming.com</uri>
     
   </author>
   <content type="html">&lt;center&gt;&lt;img src=&quot;https://farm9.staticflickr.com/8765/17027471358_da7eb35b5c_z.jpg&quot; width=&quot;640&quot; height=&quot;245&quot; alt=&quot;dadsgaming-vog-speed-run&quot; /&gt;&lt;/center&gt;
 
 &lt;iframe src=&quot;https://docs.google.com/forms/d/1aB3348ElW9pz3t0ko9ZPKjmn0nto-nXxsI9PzTDwP30/viewform?embedded=true&quot; width=&quot;760&quot; height=&quot;850&quot; frameborder=&quot;0&quot; marginheight=&quot;0&quot; marginwidth=&quot;0&quot;&gt;Loading...&lt;/iframe&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://www.dadsgaming.com/articles/dadsgaming-vault-of-glass-speed-run-sign-ups/&quot;&gt;Sign-ups for the DadsGaming Vault of Glass Speed Run&lt;/a&gt; was originally published by Renovatio 42 at &lt;a href=&quot;http://www.dadsgaming.com&quot;&gt;Dads Gaming&lt;/a&gt; on April 20, 2015.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://dadsgaming.com/articles/dadsgaming-vault-of-glass-speed-run-sign-ups/&quot;&gt;Sign-ups for the DadsGaming Vault of Glass Speed Run&lt;/a&gt; was originally published by Renovatio 42 at &lt;a href=&quot;http://dadsgaming.com&quot;&gt;Dads Gaming&lt;/a&gt; on April 20, 2015.&lt;/p&gt;</content>
 </entry>
 
 
@@ -39,14 +66,14 @@
 
 <entry>
   <title type="html"><![CDATA[DadsGaming is Giving Away Battlefield Hardline!]]></title>
-  <link rel="alternate" type="text/html" href="http://www.dadsgaming.com/contests/battlefield-hardline-giveaway/" />
-  <id>http://www.dadsgaming.com/contests/battlefield-hardline-giveaway</id>
+  <link rel="alternate" type="text/html" href="http://dadsgaming.com/contests/battlefield-hardline-giveaway/" />
+  <id>http://dadsgaming.com/contests/battlefield-hardline-giveaway</id>
   <updated>2015-02-27 13:00:00 -0800T00:00:00-00:00</updated>
   <published>2015-02-27T00:00:00-08:00</published>
   
   <author>
     <name>Renovatio 42</name>
-    <uri>http://www.dadsgaming.com</uri>
+    <uri>http://dadsgaming.com</uri>
     
   </author>
   <content type="html">&lt;h3 id=&quot;were-giving-away-one-digital-copy-of-battlefield-hardline-the-game&quot;&gt;We’re Giving Away One Digital Copy of Battlefield Hardline The Game!&lt;/h3&gt;
@@ -58,7 +85,7 @@
 &lt;p&gt;&lt;a class=&quot;rcptr&quot; href=&quot;http://www.rafflecopter.com/rafl/display/5407d0de5/&quot; rel=&quot;nofollow&quot; data-raflid=&quot;5407d0de5&quot; data-theme=&quot;classic&quot; data-template=&quot;&quot; id=&quot;rcwidget_nykblgba&quot;&gt;a Rafflecopter giveaway&lt;/a&gt;
 &lt;script src=&quot;//widget-prime.rafflecopter.com/launch.js&quot;&gt;&lt;/script&gt;&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://www.dadsgaming.com/contests/battlefield-hardline-giveaway/&quot;&gt;DadsGaming is Giving Away Battlefield Hardline!&lt;/a&gt; was originally published by Renovatio 42 at &lt;a href=&quot;http://www.dadsgaming.com&quot;&gt;Dads Gaming&lt;/a&gt; on February 27, 2015.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://dadsgaming.com/contests/battlefield-hardline-giveaway/&quot;&gt;DadsGaming is Giving Away Battlefield Hardline!&lt;/a&gt; was originally published by Renovatio 42 at &lt;a href=&quot;http://dadsgaming.com&quot;&gt;Dads Gaming&lt;/a&gt; on February 27, 2015.&lt;/p&gt;</content>
 </entry>
 
 
@@ -66,14 +93,14 @@
 
 <entry>
   <title type="html"><![CDATA[DadsGaming is Giving Away Alpha Codes for Evolve!]]></title>
-  <link rel="alternate" type="text/html" href="http://www.dadsgaming.com/contests/evolve-big-alpha-giveaway/" />
-  <id>http://www.dadsgaming.com/contests/evolve-big-alpha-giveaway</id>
+  <link rel="alternate" type="text/html" href="http://dadsgaming.com/contests/evolve-big-alpha-giveaway/" />
+  <id>http://dadsgaming.com/contests/evolve-big-alpha-giveaway</id>
   <updated>2014-10-09 20:00:00 -0700T00:00:00-00:00</updated>
   <published>2014-10-09T00:00:00-07:00</published>
   
   <author>
     <name>Renovatio 42</name>
-    <uri>http://www.dadsgaming.com</uri>
+    <uri>http://dadsgaming.com</uri>
     
   </author>
   <content type="html">&lt;h3 id=&quot;were-giving-away-alpha-codes-for-evolves-bigalpha&quot;&gt;We’re Giving Away Alpha Codes for Evolve’s BigAlpha!&lt;/h3&gt;
@@ -87,7 +114,7 @@
 &lt;p&gt;&lt;a id=&quot;rc-5407d0de4&quot; class=&quot;rafl&quot; href=&quot;http://www.rafflecopter.com/rafl/display/5407d0de4/&quot; rel=&quot;nofollow&quot;&gt;a Rafflecopter giveaway&lt;/a&gt;
 &lt;script src=&quot;//widget.rafflecopter.com/load.js&quot;&gt;&lt;/script&gt;&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://www.dadsgaming.com/contests/evolve-big-alpha-giveaway/&quot;&gt;DadsGaming is Giving Away Alpha Codes for Evolve!&lt;/a&gt; was originally published by Renovatio 42 at &lt;a href=&quot;http://www.dadsgaming.com&quot;&gt;Dads Gaming&lt;/a&gt; on October 09, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://dadsgaming.com/contests/evolve-big-alpha-giveaway/&quot;&gt;DadsGaming is Giving Away Alpha Codes for Evolve!&lt;/a&gt; was originally published by Renovatio 42 at &lt;a href=&quot;http://dadsgaming.com&quot;&gt;Dads Gaming&lt;/a&gt; on October 09, 2014.&lt;/p&gt;</content>
 </entry>
 
 
@@ -95,14 +122,14 @@
 
 <entry>
   <title type="html"><![CDATA[DadsGaming is Giving Away Call of Duty Advanced Warfare!]]></title>
-  <link rel="alternate" type="text/html" href="http://www.dadsgaming.com/contests/call-of-duty-advanced-warfare-giveaway/" />
-  <id>http://www.dadsgaming.com/contests/call-of-duty-advanced-warfare-giveaway</id>
+  <link rel="alternate" type="text/html" href="http://dadsgaming.com/contests/call-of-duty-advanced-warfare-giveaway/" />
+  <id>http://dadsgaming.com/contests/call-of-duty-advanced-warfare-giveaway</id>
   <updated>2014-10-09 20:00:00 -0700T00:00:00-00:00</updated>
   <published>2014-10-09T00:00:00-07:00</published>
   
   <author>
     <name>Renovatio 42</name>
-    <uri>http://www.dadsgaming.com</uri>
+    <uri>http://dadsgaming.com</uri>
     
   </author>
   <content type="html">&lt;h3 id=&quot;were-giving-away-one-digital-copy-of-call-of-duty-advanced-warfare&quot;&gt;We’re Giving Away One Digital Copy of Call of Duty Advanced Warfare!&lt;/h3&gt;
@@ -116,7 +143,7 @@
 &lt;p&gt;&lt;a id=&quot;rc-5407d0de3&quot; class=&quot;rafl&quot; href=&quot;http://www.rafflecopter.com/rafl/display/5407d0de3/&quot; rel=&quot;nofollow&quot;&gt;a Rafflecopter giveaway&lt;/a&gt;
 &lt;script src=&quot;//widget.rafflecopter.com/load.js&quot;&gt;&lt;/script&gt;&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://www.dadsgaming.com/contests/call-of-duty-advanced-warfare-giveaway/&quot;&gt;DadsGaming is Giving Away Call of Duty Advanced Warfare!&lt;/a&gt; was originally published by Renovatio 42 at &lt;a href=&quot;http://www.dadsgaming.com&quot;&gt;Dads Gaming&lt;/a&gt; on October 09, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://dadsgaming.com/contests/call-of-duty-advanced-warfare-giveaway/&quot;&gt;DadsGaming is Giving Away Call of Duty Advanced Warfare!&lt;/a&gt; was originally published by Renovatio 42 at &lt;a href=&quot;http://dadsgaming.com&quot;&gt;Dads Gaming&lt;/a&gt; on October 09, 2014.&lt;/p&gt;</content>
 </entry>
 
 
@@ -124,14 +151,14 @@
 
 <entry>
   <title type="html"><![CDATA[DadsGaming is Giving Away Destiny!]]></title>
-  <link rel="alternate" type="text/html" href="http://www.dadsgaming.com/contests/destiny-giveaway/" />
-  <id>http://www.dadsgaming.com/contests/destiny-giveaway</id>
+  <link rel="alternate" type="text/html" href="http://dadsgaming.com/contests/destiny-giveaway/" />
+  <id>http://dadsgaming.com/contests/destiny-giveaway</id>
   <updated>2014-09-09 20:00:00 -0700T00:00:00-00:00</updated>
   <published>2014-08-28T00:00:00-07:00</published>
   
   <author>
     <name>Renovatio 42</name>
-    <uri>http://www.dadsgaming.com</uri>
+    <uri>http://dadsgaming.com</uri>
     
   </author>
   <content type="html">&lt;h3 id=&quot;were-giving-away-one-digital-copy-of-destiny-the-game&quot;&gt;We’re Giving Away One Digital Copy of Destiny The Game!&lt;/h3&gt;
@@ -143,7 +170,7 @@
 &lt;p&gt;&lt;a id=&quot;rc-5407d0de2&quot; class=&quot;rafl&quot; href=&quot;http://www.rafflecopter.com/rafl/display/5407d0de2/&quot; rel=&quot;nofollow&quot;&gt;a Rafflecopter giveaway&lt;/a&gt;
 &lt;script src=&quot;//widget.rafflecopter.com/load.js&quot;&gt;&lt;/script&gt;&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://www.dadsgaming.com/contests/destiny-giveaway/&quot;&gt;DadsGaming is Giving Away Destiny!&lt;/a&gt; was originally published by Renovatio 42 at &lt;a href=&quot;http://www.dadsgaming.com&quot;&gt;Dads Gaming&lt;/a&gt; on August 28, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://dadsgaming.com/contests/destiny-giveaway/&quot;&gt;DadsGaming is Giving Away Destiny!&lt;/a&gt; was originally published by Renovatio 42 at &lt;a href=&quot;http://dadsgaming.com&quot;&gt;Dads Gaming&lt;/a&gt; on August 28, 2014.&lt;/p&gt;</content>
 </entry>
 
 
@@ -151,14 +178,14 @@
 
 <entry>
   <title type="html"><![CDATA[Waiting to Unleash the Kraken]]></title>
-  <link rel="alternate" type="text/html" href="http://www.dadsgaming.com/articles/waiting-to-unleash-the-kraken/" />
-  <id>http://www.dadsgaming.com/articles/waiting-to-unleash-the-kraken</id>
+  <link rel="alternate" type="text/html" href="http://dadsgaming.com/articles/waiting-to-unleash-the-kraken/" />
+  <id>http://dadsgaming.com/articles/waiting-to-unleash-the-kraken</id>
   <updated>2014-08-05 02:20:00 -0700T00:00:00-00:00</updated>
   <published>2014-08-05T00:00:00-07:00</published>
   
   <author>
     <name>JCJesse</name>
-    <uri>http://www.dadsgaming.com</uri>
+    <uri>http://dadsgaming.com</uri>
     
   </author>
   <content type="html">&lt;h2 id=&quot;waiting-to-unleash-the-kraken&quot;&gt;Waiting to Unleash the Kraken&lt;/h2&gt;
@@ -175,7 +202,7 @@
 
 &lt;p&gt;&lt;a href=&quot;http://www.amazon.com/gp/product/B00HKCIT40/ref=as_li_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=9325&amp;amp;creativeASIN=B00HKCIT40&amp;amp;linkCode=as2&amp;amp;tag=dadgam-20&amp;amp;linkId=RUIXDVQQMKOJ7J6V&quot;&gt;Buy Evolve - Xbox One&lt;/a&gt;&lt;img src=&quot;http://ir-na.amazon-adsystem.com/e/ir?t=dadgam-20&amp;amp;l=as2&amp;amp;o=1&amp;amp;a=B00HKCIT40&quot; width=&quot;1&quot; height=&quot;1&quot; border=&quot;0&quot; alt=&quot;&quot; style=&quot;border:none !important; margin:0px !important;&quot; /&gt;&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://www.dadsgaming.com/articles/waiting-to-unleash-the-kraken/&quot;&gt;Waiting to Unleash the Kraken&lt;/a&gt; was originally published by JCJesse at &lt;a href=&quot;http://www.dadsgaming.com&quot;&gt;Dads Gaming&lt;/a&gt; on August 05, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://dadsgaming.com/articles/waiting-to-unleash-the-kraken/&quot;&gt;Waiting to Unleash the Kraken&lt;/a&gt; was originally published by JCJesse at &lt;a href=&quot;http://dadsgaming.com&quot;&gt;Dads Gaming&lt;/a&gt; on August 05, 2014.&lt;/p&gt;</content>
 </entry>
 
 
@@ -183,14 +210,14 @@
 
 <entry>
   <title type="html"><![CDATA[Call of Duty Advanced Warfare - Collector's Editions]]></title>
-  <link rel="alternate" type="text/html" href="http://www.dadsgaming.com/articles/call-of-duty-advanced-warfare-collectors-editions/" />
-  <id>http://www.dadsgaming.com/articles/call-of-duty-advanced-warfare-collectors-editions</id>
+  <link rel="alternate" type="text/html" href="http://dadsgaming.com/articles/call-of-duty-advanced-warfare-collectors-editions/" />
+  <id>http://dadsgaming.com/articles/call-of-duty-advanced-warfare-collectors-editions</id>
   <updated>2014-08-02 08:20:00 -0700T00:00:00-00:00</updated>
   <published>2014-08-02T00:00:00-07:00</published>
   
   <author>
     <name>Renovatio 42</name>
-    <uri>http://www.dadsgaming.com</uri>
+    <uri>http://dadsgaming.com</uri>
     
   </author>
   <content type="html">&lt;p&gt;Here’s your look inside the  Call of Duty Advanced Warfare Collector’s Editions.&lt;/p&gt;
@@ -284,7 +311,7 @@
 
 &lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;//www.youtube.com/embed/3bYrtw6KF78&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://www.dadsgaming.com/articles/call-of-duty-advanced-warfare-collectors-editions/&quot;&gt;Call of Duty Advanced Warfare - Collector's Editions&lt;/a&gt; was originally published by Renovatio 42 at &lt;a href=&quot;http://www.dadsgaming.com&quot;&gt;Dads Gaming&lt;/a&gt; on August 02, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://dadsgaming.com/articles/call-of-duty-advanced-warfare-collectors-editions/&quot;&gt;Call of Duty Advanced Warfare - Collector's Editions&lt;/a&gt; was originally published by Renovatio 42 at &lt;a href=&quot;http://dadsgaming.com&quot;&gt;Dads Gaming&lt;/a&gt; on August 02, 2014.&lt;/p&gt;</content>
 </entry>
 
 
@@ -292,14 +319,14 @@
 
 <entry>
   <title type="html"><![CDATA[Titanfall's Title Update No. 5 is out now]]></title>
-  <link rel="alternate" type="text/html" href="http://www.dadsgaming.com/articles/titanfall-title-update-no5-is-out-now/" />
-  <id>http://www.dadsgaming.com/articles/titanfall-title-update-no5-is-out-now</id>
+  <link rel="alternate" type="text/html" href="http://dadsgaming.com/articles/titanfall-title-update-no5-is-out-now/" />
+  <id>http://dadsgaming.com/articles/titanfall-title-update-no5-is-out-now</id>
   <updated>2014-07-29 16:20:00 -0700T00:00:00-00:00</updated>
   <published>2014-07-31T00:00:00-07:00</published>
   
   <author>
     <name>Renovatio 42</name>
-    <uri>http://www.dadsgaming.com</uri>
+    <uri>http://dadsgaming.com</uri>
     
   </author>
   <content type="html">&lt;p&gt;Titanfall Title Update No. 5 is out now!&lt;/p&gt;
@@ -342,7 +369,7 @@
     &lt;img src=&quot;http://wms-na.amazon-adsystem.com/20070822/US/img/noscript.gif?tag=dadgam-20&amp;amp;linkId=DDHN7VZYN7WGTFGG&quot; alt=&quot;&quot; /&gt;
 &lt;/noscript&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://www.dadsgaming.com/articles/titanfall-title-update-no5-is-out-now/&quot;&gt;Titanfall's Title Update No. 5 is out now&lt;/a&gt; was originally published by Renovatio 42 at &lt;a href=&quot;http://www.dadsgaming.com&quot;&gt;Dads Gaming&lt;/a&gt; on July 31, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://dadsgaming.com/articles/titanfall-title-update-no5-is-out-now/&quot;&gt;Titanfall's Title Update No. 5 is out now&lt;/a&gt; was originally published by Renovatio 42 at &lt;a href=&quot;http://dadsgaming.com&quot;&gt;Dads Gaming&lt;/a&gt; on July 31, 2014.&lt;/p&gt;</content>
 </entry>
 
 
@@ -350,14 +377,14 @@
 
 <entry>
   <title type="html"><![CDATA[Playstation Plus August 2014 Free Games]]></title>
-  <link rel="alternate" type="text/html" href="http://www.dadsgaming.com/articles/playstation-plus-august-2014-free-games/" />
-  <id>http://www.dadsgaming.com/articles/playstation-plus-august-2014-free-games</id>
+  <link rel="alternate" type="text/html" href="http://dadsgaming.com/articles/playstation-plus-august-2014-free-games/" />
+  <id>http://dadsgaming.com/articles/playstation-plus-august-2014-free-games</id>
   <updated>2014-07-31 12:47:00 -0700T00:00:00-00:00</updated>
   <published>2014-07-31T00:00:00-07:00</published>
   
   <author>
     <name>JCJesse</name>
-    <uri>http://www.dadsgaming.com</uri>
+    <uri>http://dadsgaming.com</uri>
     
   </author>
   <content type="html">&lt;p&gt;The following games are available free starting August 5th to all Playstation Plus memebers&lt;/p&gt;
@@ -376,7 +403,7 @@
 &lt;p&gt;&lt;a href=&quot;http://www.amazon.com/gp/product/B004RMK5QG/ref=as_li_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=9325&amp;amp;creativeASIN=B004RMK5QG&amp;amp;linkCode=as2&amp;amp;tag=dadgam-20&amp;amp;linkId=TCXHOKJKUSXXH2YF&quot;&gt;1-Year PlayStation Plus Membership - PS3/ PS4/ PS Vita [Digital Code]&lt;/a&gt;&lt;img src=&quot;http://ir-na.amazon-adsystem.com/e/ir?t=dadgam-20&amp;amp;l=as2&amp;amp;o=1&amp;amp;a=B004RMK5QG&quot; width=&quot;1&quot; height=&quot;1&quot; border=&quot;0&quot; alt=&quot;&quot; style=&quot;border:none !important; margin:0px !important;&quot; /&gt;&lt;/p&gt;
 
 
-  &lt;p&gt;&lt;a href=&quot;http://www.dadsgaming.com/articles/playstation-plus-august-2014-free-games/&quot;&gt;Playstation Plus August 2014 Free Games&lt;/a&gt; was originally published by JCJesse at &lt;a href=&quot;http://www.dadsgaming.com&quot;&gt;Dads Gaming&lt;/a&gt; on July 31, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://dadsgaming.com/articles/playstation-plus-august-2014-free-games/&quot;&gt;Playstation Plus August 2014 Free Games&lt;/a&gt; was originally published by JCJesse at &lt;a href=&quot;http://dadsgaming.com&quot;&gt;Dads Gaming&lt;/a&gt; on July 31, 2014.&lt;/p&gt;</content>
 </entry>
 
 
@@ -384,14 +411,14 @@
 
 <entry>
   <title type="html"><![CDATA[Call of Duty: Ghosts Nemesis DLC Pack Preview - Trailer]]></title>
-  <link rel="alternate" type="text/html" href="http://www.dadsgaming.com/articles/call-of-duty-ghosts-nemesis-dlc-preview/" />
-  <id>http://www.dadsgaming.com/articles/call-of-duty-ghosts-nemesis-dlc-preview</id>
+  <link rel="alternate" type="text/html" href="http://dadsgaming.com/articles/call-of-duty-ghosts-nemesis-dlc-preview/" />
+  <id>http://dadsgaming.com/articles/call-of-duty-ghosts-nemesis-dlc-preview</id>
   <updated>2014-07-29 16:20:00 -0700T00:00:00-00:00</updated>
   <published>2014-07-31T00:00:00-07:00</published>
   
   <author>
     <name>Renovatio 42</name>
-    <uri>http://www.dadsgaming.com</uri>
+    <uri>http://dadsgaming.com</uri>
     
   </author>
   <content type="html">&lt;p&gt;&lt;a href=&quot;http://youtu.be/C5gk1jTKDG4?list=PLZeek85Kuka0ca1mDCe9_NBjBtongDF6L&quot;&gt;Source&lt;/a&gt;&lt;/p&gt;
@@ -406,7 +433,7 @@
 
 &lt;p&gt;&lt;a href=&quot;http://www.amazon.com/gp/product/B00K308KF4/ref=as_li_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=9325&amp;amp;creativeASIN=B00K308KF4&amp;amp;linkCode=as2&amp;amp;tag=dadgam-20&amp;amp;linkId=XYT3ZLPHH34ASTOR&quot;&gt;Pre-Order Call of Duty: Advanced Warfare - Xbox One&lt;/a&gt;&lt;img src=&quot;http://ir-na.amazon-adsystem.com/e/ir?t=dadgam-20&amp;amp;l=as2&amp;amp;o=1&amp;amp;a=B00K308KF4&quot; width=&quot;1&quot; height=&quot;1&quot; border=&quot;0&quot; alt=&quot;&quot; style=&quot;border:none !important; margin:0px !important;&quot; /&gt;&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://www.dadsgaming.com/articles/call-of-duty-ghosts-nemesis-dlc-preview/&quot;&gt;Call of Duty: Ghosts Nemesis DLC Pack Preview - Trailer&lt;/a&gt; was originally published by Renovatio 42 at &lt;a href=&quot;http://www.dadsgaming.com&quot;&gt;Dads Gaming&lt;/a&gt; on July 31, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://dadsgaming.com/articles/call-of-duty-ghosts-nemesis-dlc-preview/&quot;&gt;Call of Duty: Ghosts Nemesis DLC Pack Preview - Trailer&lt;/a&gt; was originally published by Renovatio 42 at &lt;a href=&quot;http://dadsgaming.com&quot;&gt;Dads Gaming&lt;/a&gt; on July 31, 2014.&lt;/p&gt;</content>
 </entry>
 
 
@@ -414,14 +441,14 @@
 
 <entry>
   <title type="html"><![CDATA[Call of Duty Advanced Warfare - Trailer]]></title>
-  <link rel="alternate" type="text/html" href="http://www.dadsgaming.com/articles/call-of-duty-advanced-warfare-campaign-trailer/" />
-  <id>http://www.dadsgaming.com/articles/call-of-duty-advanced-warfare-campaign-trailer</id>
+  <link rel="alternate" type="text/html" href="http://dadsgaming.com/articles/call-of-duty-advanced-warfare-campaign-trailer/" />
+  <id>http://dadsgaming.com/articles/call-of-duty-advanced-warfare-campaign-trailer</id>
   <updated>2014-07-29 16:20:00 -0700T00:00:00-00:00</updated>
   <published>2014-07-29T00:00:00-07:00</published>
   
   <author>
     <name>Renovatio 42</name>
-    <uri>http://www.dadsgaming.com</uri>
+    <uri>http://dadsgaming.com</uri>
     
   </author>
   <content type="html">&lt;p&gt;Here’s our first look at the Call of Duty Advanced Warfare - Campaign and a sneak at Multiplayer gameplay! (at the end of the video)&lt;/p&gt;
@@ -434,7 +461,7 @@ Game releases: 11/4/14&lt;/p&gt;
 &lt;iframe style=&quot;width:120px;height:240px;&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; src=&quot;//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&amp;amp;OneJS=1&amp;amp;Operation=GetAdHtml&amp;amp;MarketPlace=US&amp;amp;source=ac&amp;amp;ref=tf_til&amp;amp;ad_type=product_link&amp;amp;tracking_id=dadgam-20&amp;amp;marketplace=amazon&amp;amp;region=US&amp;amp;placement=B00K308KF4&amp;amp;asins=B00K308KF4&amp;amp;linkId=BONI6U6PUVKY5MKJ&amp;amp;show_border=true&amp;amp;link_opens_in_new_window=true&quot;&gt;
 &lt;/iframe&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://www.dadsgaming.com/articles/call-of-duty-advanced-warfare-campaign-trailer/&quot;&gt;Call of Duty Advanced Warfare - Trailer&lt;/a&gt; was originally published by Renovatio 42 at &lt;a href=&quot;http://www.dadsgaming.com&quot;&gt;Dads Gaming&lt;/a&gt; on July 29, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://dadsgaming.com/articles/call-of-duty-advanced-warfare-campaign-trailer/&quot;&gt;Call of Duty Advanced Warfare - Trailer&lt;/a&gt; was originally published by Renovatio 42 at &lt;a href=&quot;http://dadsgaming.com&quot;&gt;Dads Gaming&lt;/a&gt; on July 29, 2014.&lt;/p&gt;</content>
 </entry>
 
 
@@ -442,14 +469,14 @@ Game releases: 11/4/14&lt;/p&gt;
 
 <entry>
   <title type="html"><![CDATA[August Update Xbox One]]></title>
-  <link rel="alternate" type="text/html" href="http://www.dadsgaming.com/articles/august_update_xbox_one/" />
-  <id>http://www.dadsgaming.com/articles/august_update_xbox_one</id>
+  <link rel="alternate" type="text/html" href="http://dadsgaming.com/articles/august_update_xbox_one/" />
+  <id>http://dadsgaming.com/articles/august_update_xbox_one</id>
   <updated>2014-08-18 12:47:00 -0700T00:00:00-00:00</updated>
   <published>2014-07-28T00:00:00-07:00</published>
   
   <author>
     <name>Renovatio 42</name>
-    <uri>http://www.dadsgaming.com</uri>
+    <uri>http://dadsgaming.com</uri>
     
   </author>
   <content type="html">&lt;p&gt;Here’s what’s coming in the August 2014 update:&lt;/p&gt;
@@ -470,7 +497,7 @@ Game releases: 11/4/14&lt;/p&gt;
 
 &lt;p&gt;&lt;a href=&quot;http://www.amazon.com/gp/product/B00EQNP8F4/ref=as_li_tl?ie=UTF8&amp;amp;camp=1789&amp;amp;creative=9325&amp;amp;creativeASIN=B00EQNP8F4&amp;amp;linkCode=as2&amp;amp;tag=dadgam-20&amp;amp;linkId=FKDEETRJAKWSYKCJ&quot;&gt;Microsoft Xbox LIVE 12 Month Gold Card&lt;/a&gt;&lt;img src=&quot;http://ir-na.amazon-adsystem.com/e/ir?t=dadgam-20&amp;amp;l=as2&amp;amp;o=1&amp;amp;a=B00EQNP8F4&quot; width=&quot;1&quot; height=&quot;1&quot; border=&quot;0&quot; alt=&quot;&quot; style=&quot;border:none !important; margin:0px !important;&quot; /&gt;&lt;/p&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://www.dadsgaming.com/articles/august_update_xbox_one/&quot;&gt;August Update Xbox One&lt;/a&gt; was originally published by Renovatio 42 at &lt;a href=&quot;http://www.dadsgaming.com&quot;&gt;Dads Gaming&lt;/a&gt; on July 28, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://dadsgaming.com/articles/august_update_xbox_one/&quot;&gt;August Update Xbox One&lt;/a&gt; was originally published by Renovatio 42 at &lt;a href=&quot;http://dadsgaming.com&quot;&gt;Dads Gaming&lt;/a&gt; on July 28, 2014.&lt;/p&gt;</content>
 </entry>
 
 
@@ -478,14 +505,14 @@ Game releases: 11/4/14&lt;/p&gt;
 
 <entry>
   <title type="html"><![CDATA[Living Without Destiny]]></title>
-  <link rel="alternate" type="text/html" href="http://www.dadsgaming.com/blogs/Living-Without-Destiny/" />
-  <id>http://www.dadsgaming.com/blogs/Living-Without-Destiny</id>
+  <link rel="alternate" type="text/html" href="http://dadsgaming.com/blogs/Living-Without-Destiny/" />
+  <id>http://dadsgaming.com/blogs/Living-Without-Destiny</id>
   <updated>2014-07-30 12:47:00 -0700T00:00:00-00:00</updated>
   <published>2014-07-10T00:00:00-07:00</published>
   
   <author>
     <name>Renovatio 42</name>
-    <uri>http://www.dadsgaming.com</uri>
+    <uri>http://dadsgaming.com</uri>
     
   </author>
   <content type="html">&lt;p&gt;Here we are, day number two, and Destiny Beta is no more. I have gotten accustom to launching into orbit to find where my next adventure will be, or try my hand in the fast-pace action of the Cruciable, or perhaps take a casual stroll around the Tower browsing the different vendors’ wares or engaging in a spontanious (and highly addictive) mob dance. But I degress, the wonderful people at Bungie had their data and pulled the plug on the Beta so that they can work their wonders and make what seemed to be a complete game, even better. &lt;/p&gt;
@@ -496,7 +523,7 @@ Game releases: 11/4/14&lt;/p&gt;
 &lt;iframe style=&quot;width:120px;height:240px;&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; src=&quot;//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&amp;amp;OneJS=1&amp;amp;Operation=GetAdHtml&amp;amp;MarketPlace=US&amp;amp;source=ac&amp;amp;ref=tf_til&amp;amp;ad_type=product_link&amp;amp;tracking_id=dadgam-20&amp;amp;marketplace=amazon&amp;amp;region=US&amp;amp;placement=B00KVOVBGM&amp;amp;asins=B00KVOVBGM&amp;amp;linkId=HLPKKLKETGW4BXUK&amp;amp;show_border=true&amp;amp;link_opens_in_new_window=true&quot;&gt;
 &lt;/iframe&gt;
 
-  &lt;p&gt;&lt;a href=&quot;http://www.dadsgaming.com/blogs/Living-Without-Destiny/&quot;&gt;Living Without Destiny&lt;/a&gt; was originally published by Renovatio 42 at &lt;a href=&quot;http://www.dadsgaming.com&quot;&gt;Dads Gaming&lt;/a&gt; on July 10, 2014.&lt;/p&gt;</content>
+  &lt;p&gt;&lt;a href=&quot;http://dadsgaming.com/blogs/Living-Without-Destiny/&quot;&gt;Living Without Destiny&lt;/a&gt; was originally published by Renovatio 42 at &lt;a href=&quot;http://dadsgaming.com&quot;&gt;Dads Gaming&lt;/a&gt; on July 10, 2014.&lt;/p&gt;</content>
 </entry>
 
 </feed>
