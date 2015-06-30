@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://dadsgaming.com/contests/squid-grip-giveaway/</loc>
+    <lastmod>2015-06-30T00:00:00-07:00</lastmod>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>http://dadsgaming.com/contests/destiny-how-giveaway/</loc>
     <lastmod>2015-05-25T00:00:00-07:00</lastmod>
     <priority>0.8</priority>
@@ -72,55 +77,55 @@
   </url>
   <url>
     <loc>http://dadsgaming.com/</loc>
-    <lastmod>2015-05-05T08:34:55-07:00</lastmod>
+    <lastmod>2015-06-30T09:52:36-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>http://dadsgaming.com/events/</loc>
-    <lastmod>2015-05-05T08:34:55-07:00</lastmod>
+    <lastmod>2015-06-30T09:52:36-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://dadsgaming.com/articles/</loc>
-    <lastmod>2015-05-05T08:34:55-07:00</lastmod>
+    <lastmod>2015-06-30T09:52:36-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://dadsgaming.com/contests/</loc>
-    <lastmod>2015-05-05T08:34:55-07:00</lastmod>
+    <lastmod>2015-06-30T09:52:36-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://dadsgaming.com/interviews/</loc>
-    <lastmod>2015-05-05T08:34:55-07:00</lastmod>
+    <lastmod>2015-06-30T09:52:36-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://dadsgaming.com/reviews/</loc>
-    <lastmod>2015-05-05T08:34:55-07:00</lastmod>
+    <lastmod>2015-06-30T09:52:36-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://dadsgaming.com/tags/</loc>
-    <lastmod>2015-05-05T08:34:55-07:00</lastmod>
+    <lastmod>2015-06-30T09:52:36-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://dadsgaming.com/about/</loc>
-    <lastmod>2015-05-05T08:34:55-07:00</lastmod>
+    <lastmod>2015-06-30T09:52:36-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>http://dadsgaming.com/blogs/</loc>
-    <lastmod>2015-05-05T08:34:55-07:00</lastmod>
+    <lastmod>2015-06-30T09:52:36-07:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.7</priority>
   </url>
