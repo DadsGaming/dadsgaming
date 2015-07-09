@@ -5,7 +5,7 @@ title: "DadsGaming is Giving Away 1-year Xbox Live or PlayStation Plus!"
 modified: 2015-07-08 8:00:00 -0700
 category: contests
 thumbnail: https://farm1.staticflickr.com/517/19527030526_a1ab0a6926_o.png
-tags: [XboxOne, PS4, PC, Giveaway, Articles]
+tags: [XboxOne, PS4, Giveaway, Articles]
 share: true
 ---
 
