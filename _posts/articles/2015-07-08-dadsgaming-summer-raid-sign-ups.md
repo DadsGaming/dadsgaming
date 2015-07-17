@@ -19,7 +19,7 @@ share: true
 
 *Sign-ups are now CLOSED for our Summer Raids!*
 
-With an overwhelming amount of responses, we will have 7-full parties with almost 70 Dads participating! We're contacting our team leaders and forming our Raid Parties. Such a great community, here, at DadsGaming!
+With an overwhelming amount of responses, we will have 11-full parties with almost 70 Dads participating! We're contacting our team leaders and forming our Raid Parties. Such a great community, here, at DadsGaming!
 
 But wait there's more!
 
