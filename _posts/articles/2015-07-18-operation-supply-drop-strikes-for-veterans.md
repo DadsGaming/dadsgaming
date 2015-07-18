@@ -37,26 +37,26 @@ To learn more about Operation Supply Drop, please visit [http://www.operationsup
 
 ###List of participating streamers:
 
-* Aim Assist Gaming
-* Bungie
-* DestinyDads/DadsGaming
-* DoD Outlaws
-* DPS
-* GTL Outlaws
-* Guardian Radio
-* Invigorate
-* Lady Desiree
-* LootCave
-* Math Class
-* Professor Broman
-* Reddit Mods
-* Resolute
-* Savy
-* Sean Barley
-* The Cryptarch
-* The Punderlord
+* [Aim Assist Gaming](https://twitter.com/AimAssistGaming)
+* [Bungie](https://twitter.com/Cozmo23) 
+* [DestinyDads/DadsGaming](https://twitter.com/DestinyDads)
+* [DoD Outlaws](https://twitter.com/DuSt2DuSt969)  
+* [DPS](https://twitter.com/DungeonProtocol) 
+* [GTL Outlaws](https://twitter.com/GTLOutlaws) 
+* [Guardian Radio](https://twitter.com/GuardiansofD)
+* [Invigorate](https://twitter.com/InvigorateINV)
+* [Lady Desiree](https://twitter.com/LadyDesiree00)
+* [LootCave](https://twitter.com/n64josh) 
+* [Math Class](https://twitter.com/Veinq_)
+* [Professor Broman](https://twitter.com/Professorbroman)
+* [Reddit Mods](https://twitter.com/MistahWoodhouse)
+* [Resolute](https://twitter.com/TeamResolute)  
+* [Savy](https://twitter.com/TeamSaVy)
+* [Sean Barley](https://twitter.com/SeanBartley) 
+* [The Cryptarch](https://twitter.com/TheCryptarch)
+* [The Punderlord](https://twitter.com/TheLegendBlue)
 * Veteran Raid
-* Worst Radio Show
+* [Worst Radio Show](https://twitter.com/worstrad1oshow)
 
 ####Our Schedule:
 *All times are Eastern Daylight Saving, EDT*
@@ -75,8 +75,8 @@ To learn more about Operation Supply Drop, please visit [http://www.operationsup
 | 5:00 PM  | [The Punderlord](https://twitter.com/TheLegendBlue)    |
 | 6:00 PM  | [The Punderlord](https://twitter.com/TheLegendBlue)    |
 | 7:00 PM  | [Sean Barley](https://twitter.com/SeanBartley)       |
-| 8:00 PM  | [DestinyDads](https://twitter.com/DestinyDads)       |
-| 9:00 PM  | [DestinyDads](https://twitter.com/DestinyDads)       |
+| 8:00 PM  | [DestinyDads/DadsGaming](https://twitter.com/DestinyDads)       |
+| 9:00 PM  | [DestinyDads/DadsGaming](https://twitter.com/DestinyDads)       |
 | 10:00 PM | [Invigorate](https://twitter.com/InvigorateINV)        |
 | 11:00 PM | [Invigorate](https://twitter.com/InvigorateINV)        |
 | 12:00 AM | [Bungie](https://twitter.com/Cozmo23)            |
@@ -100,7 +100,7 @@ To learn more about Operation Supply Drop, please visit [http://www.operationsup
 | 6:00 PM  | [Professor Broman](https://twitter.com/Professorbroman)  |
 | 7:00 PM  | [Savy](https://twitter.com/TeamSaVy)              |
 | 8:00 PM  | [Savy](https://twitter.com/TeamSaVy)              |
-| 9:00 PM  | [Veteran Raid      |
+| 9:00 PM  | Veteran Raid      |
 {: .table}
 
 Enjoy a beautifully composed Sepiks Prime Boss Battle Music Destiny - Strikes for Veterans Charity Stream by [Lady Desiree](https://twitter.com/LadyDesiree00)
