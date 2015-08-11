@@ -1,7 +1,7 @@
 ---
 author: renovatio_42
 layout: post
-title: "Sign-ups for the DadsGaming Destiny One Year Triump Sign Ups"
+title: "Sign-ups for the DadsGaming Destiny One Year Triumph Sign Ups"
 first_sentence: "Join us on in mid August, Fireteams are forming now."
 thumbnail: https://farm1.staticflickr.com/306/19851419594_5d62894797_n.jpg
 modified: 2015-08-10 12:47:00 -0700
