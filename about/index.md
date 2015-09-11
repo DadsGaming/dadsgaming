@@ -7,30 +7,22 @@ tags: [Dads, Gaming, DadsGaming, Family, Fun]
 ---
 
 
-We are your one stop shop for all things video game reviews, industry reports, movie reports, and cool tech.
 
-{% for author in site.authors %} 
-	<author>
-	  <name>{{ author.name }}.</name>
-	<div class="social-icons">
-		{% if author.twitter %}<a href="http://twitter.com/{{ site.author.twitter }}" title="{{ site.author.name}} on Twitter" target="_blank"><i class="fa fa-twitter-square fa-2x"></i></a>{% endif %}
-	</div><!-- /.social-icons -->
-	</author>
-{% endfor %}
-
-
-
-## Cypher ##
+## About us ##
  
-I love to laugh(alot if possible) Cool tech toys & gadgets, long walks on the beach and the most important thing in life- the nectar from those sweet, sweet beans- Coffee beans that is. Gotta have 'em! ****Thanks for joining the ride with us.**** Shoot, excuse me, and I love my family- alot.(ssheese I almost forget to say that!)
+We are Dads Gaming community founded on friendships made online while playing console games. These friendships of Dads turned into Brotherhood.
 
 
-## JCJesse ##
+Playing online can be intimidating or frustrating at times because online match matching and public lobbies can drag you in with other players who can ruin your gaming experience. We encourage Dads to get together and play together, to enhance a Dads' online experience. More and more games nowadays are multi-player only, this makes it even more important to surround yourself with fellow, like-minded, Dads who understand that family comes first and that your gaming time is limited and want to make the most out it.
 
-I'm an admitted Pop-Culture junkie that feeds on nostalgia. If I could only read one book ever it would be Ready Player One. When my kids starting asking me to play Joust instead of Skylanders I knew I taught them well. 
+## Join our Reddit ##
 
+[http://www.reddit.com/r/DadsGaming/](http://www.reddit.com/r/DadsGaming/)
 
-## Renovatio 42 ##
+## Follow us on Twitter ##
+[https://twitter.com/DadGamers](https://twitter.com/DadGamers)
 
-Breakfast I can pass on, but coffee I won't EVER. I'm a bit a coffee and craft beer snob, my liquid joys. I also enjoy high-tech and low-tech things. 
+## Watch Our Twitch Stream ##
+
+[http://www.twitch.tv/TheDadsGaming](http://www.twitch.tv/TheDadsGaming)
 
