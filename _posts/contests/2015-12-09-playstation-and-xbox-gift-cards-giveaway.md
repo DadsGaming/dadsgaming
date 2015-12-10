@@ -22,12 +22,10 @@ Below are the separate entries. Visit our website everyday and update you're ent
 
 ### Entry: One $20 PlayStation Gift Card! 
 
+<a class="e-widget no-button" href="https://gleam.io/2bZG5/dads-gaming-giveaway-one-20-playstation-gift-card-" rel="nofollow">Dads Gaming Giveaway: One $20 PlayStation Gift Card </a> <script type="text/javascript" src="https://js.gleam.io/e.js" async="true"></script>
 
-<a class="rcptr" href="http://www.rafflecopter.com/rafl/display/5407d0de11/" rel="nofollow" data-raflid="5407d0de11" data-theme="classic" data-template="" id="rcwidget_15n5t5cs">a Dads Gaming giveaway</a>
-<script src="https://widget-prime.rafflecopter.com/launch.js"></script>
 
 
 ### Entry: One $20 Xbox Gift Card! 
 
-<a class="rcptr" href="http://www.rafflecopter.com/rafl/display/5407d0de12/" rel="nofollow" data-raflid="5407d0de12" data-theme="classic" data-template="" id="rcwidget_a36i49bg">a Dads Gaming giveaway</a>
-<script src="https://widget-prime.rafflecopter.com/launch.js"></script>
+<a class="e-widget no-button" href="https://gleam.io/dBb0h/dads-gaming-giveaway-one-20-xbox-gift-card" rel="nofollow">Dads Gaming Giveaway: One $20 Xbox Gift Card</a> <script type="text/javascript" src="https://js.gleam.io/e.js" async="true"></script>
