@@ -19,6 +19,8 @@ share: true
 
 Below are the separate entries. Visit our website everyday and update you're entries daily!
 
+* Tip: On iOS, hold down the [link](http://dadsgaming.com/contests/playstation-and-xbox-gift-cards-giveaway/) & Open in Safari instead of the Twitter app.
+
 
 ### Entry: One $20 PlayStation Gift Card! 
 
