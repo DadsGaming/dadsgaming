@@ -7,9 +7,9 @@ tags: [Dads, Gaming, DadsGaming, Family, Fun, Apply, Streaming, Graphics, YouTub
 share: true
 ---
 
-<h1>Apply</h1>
-
 We are looking for Dads who are passionate about our Dads Gaming community and can help in the creative areas of graphics, photography, streaming, writing, and videos. Use the application links below and you could be selected to be our offical photographer, create graphics, or write articles for the Dads Gaming web site, or live stream on our Twitch Channel, or create video content on our YouTube Channel.
+
+<h1>Apply to add value in the area of:</h1>
 
 <ul class="post-list">
   <li>Graphics</li>
