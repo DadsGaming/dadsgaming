@@ -14,7 +14,7 @@ We are looking for Dads who are passionate about our Dads Gaming community and c
 <ul class="post-list">
   <li>Graphics</li>
   <li>Photography</li>
-  <li><a href="{{ site.url }}/streaming">Streaming</a></li>
+  <li><a href="{{ site.url }}/apply/streaming">Streaming</a></li>
   <li>Writing</li>
   <li>Videos</li>
 </ul>
