@@ -22,18 +22,21 @@ Here's your chance to get involved and level-up in Dads Gaming!
 </ul>
 
 
+
+<p>
 <script type="text/javascript">
 amzn_assoc_placement = "adunit0";
-amzn_assoc_search_bar = "true";
+amzn_assoc_search_bar = "false";
 amzn_assoc_tracking_id = "dadgam-20";
 amzn_assoc_search_bar_position = "top";
 amzn_assoc_ad_mode = "search";
 amzn_assoc_ad_type = "smart";
 amzn_assoc_marketplace = "amazon";
 amzn_assoc_region = "US";
-amzn_assoc_title = "Search Results from Amazon";
-amzn_assoc_default_search_phrase = "video games xbox one or ps4";
-amzn_assoc_default_category = "All";
+amzn_assoc_title = "On Sale at Amazon";
+amzn_assoc_default_search_phrase = "games xbox one or ps4";
+amzn_assoc_default_category = "VideoGames";
 amzn_assoc_linkid = "ec2ccb4855d9d23a9e4d4c272b936f56";
 </script>
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
+</p>
