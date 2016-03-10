@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Dads Gaming Registration:
+title: Dads Gaming Registration
 excerpt: "Join our Dads Gaming community!"
 modified: 2016-03-09T19:44:38.564948-04:00
 tags: [Dads, Gaming, DadsGaming, Family, Fun, Register]
