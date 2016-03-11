@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Dads Gaming Registration
+title: Registration
 excerpt: "Join our Dads Gaming community!"
 tags: [Dads, Gaming, DadsGaming, Family, Fun]
 share: true
