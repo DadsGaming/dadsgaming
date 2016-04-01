@@ -210,15 +210,15 @@ Watch the entire stream Destiny April Update New Things to Earn
 
 <script type="text/javascript">
 amzn_assoc_placement = "adunit0";
-amzn_assoc_enable_interest_ads = "false";
+amzn_assoc_enable_interest_ads = "true";
 amzn_assoc_tracking_id = "dadgam-20";
 amzn_assoc_ad_mode = "auto";
 amzn_assoc_ad_type = "smart";
 amzn_assoc_marketplace = "amazon";
 amzn_assoc_region = "US";
-amzn_assoc_linkid = "3cf30ca041404a031bd8e8294957f3e5";
+amzn_assoc_linkid = "a5499e5f7924c165d0bfc77daa7e6dda";
 amzn_assoc_emphasize_categories = "468642";
-amzn_assoc_fallback_mode = {"type":"search","value":"destiny playstation xbox one"};
+amzn_assoc_fallback_mode = {"type":"search","value":"destiny ps4 xbox"};
 amzn_assoc_default_category = "VideoGames";
 </script>
 <script src="//z-na.amazon-adsystem.com/widgets/onejs?MarketPlace=US"></script>
