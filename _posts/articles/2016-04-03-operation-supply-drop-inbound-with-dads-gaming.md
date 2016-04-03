@@ -23,7 +23,7 @@ Imagine that moment you will never forget with your child where you truly connec
 
 Whether it was you, your spouse, child, or another friend or family member, everyone has someone you care about that is a veteran of the armed services. Growing up gaming was a refuge for me. I sank many hours into classic games that fed my imagination and entertained my childlike heart. As I have grown older, my taste in games has changed, but just as I have connected with my daughter all over again over gaming, so have many men and women who fight for our freedoms. For them also there is sweet comfort in the sound of the imperial march, the soundtrack to their favorite sports game, or the voice of their favorite character. Gaming is a refuge for many people, and this is no different for those who fight and have fought for our freedoms. In many ways they are limited by sharing their experiences with others, and finding ways to connect with people when they come home from combat or domestic service.
 
-### Meet Gary Hogan
+### Meet Gray Hogan
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/126304189@N08/26176235456/in/dateposted-public/" title="Gray Hogan"><img src="https://farm2.staticflickr.com/1511/26176235456_6d792a85a8_z.jpg" width="399" height="573" alt="Gray Hogan"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
