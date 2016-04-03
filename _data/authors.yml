@@ -2,7 +2,7 @@
 
 renovatio_42:
   name: Renovatio 42
-  #web: http://thewhip.com
+  web: http://dadsgaming.com
   #email: billy@rick.com
   #bio: "What do you want, jewels? I am a very extravagant man."
   avatar: bio-photo-alt.jpg
@@ -13,6 +13,20 @@ renovatio_42:
   #google:
     #plus: BillyRick
   about_blurb: "Breakfast I can pass on, but coffee I won't EVER. I'm a bit a coffee and craft beer snob, my liquid joys. I also enjoy high-tech and low-tech things."
+
+lesgetgaming:
+  name: LesGetGaming
+  web: http://dadsgaming.com/
+  #email: billy@rick.com
+  #bio: "What do you want, jewels? I am a very extravagant man."
+  avatar: lesgetgaming.jpg
+  #email: you@email.com
+  twitter: lesgetgaming
+  #youtube: renovatio_42
+  #twitch: renovatio_42
+  #google:
+    #plus: BillyRick
+  about_blurb: "Les takes great pride in being a husband, father of two (with one on the way), and proud member of DADS Gaming (since 2014). He serves as a community manager for DADS on the PS4 and can often be found playing in the evening on the central time zone US. HIs gamer tag is lghughes3 on PSN, twitter is @lesgetgaming, and reddit user /r/lghughes3."
   
 mygeekdaddy:
   name: mygeekdaddy
