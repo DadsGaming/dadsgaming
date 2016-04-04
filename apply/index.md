@@ -18,7 +18,7 @@ Here's your chance to get involved and level-up in Dads Gaming!
   <li>Graphics</li>
   <li>Photography</li>
   -->
-  <li><a href="{{ site.url }}/apply/streaming">Streaming</a></li>
+  <li><a href="{{ site.url }}/apply/streaming">Streaming or moderating a stream</a></li>
   <!--
   <li>Writing</li>
   <li>Videos</li>
