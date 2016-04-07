@@ -47,7 +47,7 @@ A common theme to all of the update streams was Bungie's goal to give players mo
 	* Court of Oryx (Artifacts)
 
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/126304189@N08/26269666366/in/dateposted-public/" title="voidwalker-builds"><img src="https://farm2.staticflickr.com/1665/26269666366_5af12d8c89_z.jpg" width="600" height="338" alt="voidwalker-builds"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/126304189@N08/26203348772/in/dateposted-public/" title="sniper"><img src="https://farm2.staticflickr.com/1469/26203348772_e43838303a_z.jpg" width="640" height="356" alt="sniper"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 #### Game play changes
 There was a flurry of updates in the first segment and here's a highlight of the changes coming on 4/12 by Lars Bakken:
