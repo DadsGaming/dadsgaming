@@ -125,7 +125,7 @@ Sunsinger:
 Stormcaller:
 
 * Perk to extend Stormtrance adjusted and requires some more thought on perk selection.
-	* Landfall will no longer destroy a Ward of Dawn or blind opponent longer. 
+* Landfall will no longer destroy a Ward of Dawn or blind opponent longer. 
 	
 Voidwalker: 
 * Tweaks to amount of energy drained based on perks selected.
