@@ -56,7 +56,7 @@ __Thank You__ deployments are one in a lifetime opportunities for veterans or in
 __Supply drops__ are support packages sent to service men and women who are either fighting overseas or back home. These drops have been anything as simple as swag from gaming companies to entire gaming consoles with mobile setups. While supply drops are the most visible part of what OSD has done in the past, the people at OSD want to focus on the future as well. Two large parts of their future are the Teams and the Thank You Deployments.
 
 
-### Celebrate Military Apprication Month with Operation Supply Drop and Dads Gaming
+### Celebrate Military Appreciation Month with Operation Supply Drop and Dads Gaming
 
 The only question that’s left for us now is, “How can Dads Gaming be involved?” I’m so glad you asked. We are thrilled to announce that during the week of May 2nd through May 9th Dads Gaming will be teaming up with Operation Supply Drop all week long in celebrating [Military Appreciation Month](http://www.military.com/military-appreciation-month)! That’s right gentlemen and ladies. Your favorite Dads and a few special guests will be doing their level best to bring as much attention as humanly possible to all that OSD is doing for our deserving service men and women. OSD has made it perfectly clear to us that money isn't everything. Money doesn't buy support for those who are coming or who have already come home, relationships do. The best way to forge those relationships is through **raising awareness**. We might not have the deepest pocket books, but when we set our minds to it Dads can accomplish anything. 
 
