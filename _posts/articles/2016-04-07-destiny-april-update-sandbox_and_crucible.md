@@ -47,7 +47,7 @@ A common theme to all of the update streams was Bungie's goal to give players mo
 	* Court of Oryx (Artifacts)
 
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/126304189@N08/26203348772/in/dateposted-public/" title="sniper"><img src="https://farm2.staticflickr.com/1469/26203348772_e43838303a_z.jpg" width="640" height="356" alt="sniper"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/126304189@N08/26269665806/in/dateposted-public/" title="destinyaprilupdatewarlock"><img src="https://farm2.staticflickr.com/1508/26269665806_796fe1e8b6_z.jpg" width="600" height="450" alt="destinyaprilupdatewarlock"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 #### Game play changes
 There was a flurry of updates in the first segment and here's a highlight of the changes coming on 4/12 by Lars Bakken:
@@ -63,7 +63,7 @@ There was a flurry of updates in the first segment and here's a highlight of the
 
 More details in the patch notes. 
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/126304189@N08/26269665806/in/dateposted-public/" title="destinyaprilupdatewarlock"><img src="https://farm2.staticflickr.com/1508/26269665806_796fe1e8b6_z.jpg" width="600" height="450" alt="destinyaprilupdatewarlock"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/126304189@N08/26203348772/in/dateposted-public/" title="sniper"><img src="https://farm2.staticflickr.com/1469/26203348772_e43838303a_z.jpg" width="640" height="356" alt="sniper"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 #### Weapons
 Next up came DeeJ with John Wisniewski on the weapon changes coming on 4/12:
