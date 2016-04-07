@@ -117,17 +117,19 @@ A full write up will be on Bungie's site later this week.
 The third segment had DeeJ and Grant Mackay go over class and subclass changes. The focus of the April Update will be tuning the Warlock class. The actual changes mentioned on the stream :
 
 Sunsinger:
-	* Lowered the amount of flame shield for Sunsingers and the frequency Sunsingers will get a flame shield. 
-	* Brimstone will get damage increase for PVE. 
-	* No change to firebolt damage. 
+
+* Lowered the amount of flame shield for Sunsingers and the frequency Sunsingers will get a flame shield. 
+* Brimstone will get damage increase for PVE. 
+* No change to firebolt damage. 
 
 Stormcaller:
-	* Perk to extend Stormtrance adjusted and requires some more thought on perk selection.
+
+* Perk to extend Stormtrance adjusted and requires some more thought on perk selection.
 	* Landfall will no longer destroy a Ward of Dawn or blind opponent longer. 
 	
 Voidwalker: 
-	* Tweaks to amount of energy drained based on perks selected.
-	* Melee and grenade cool downs adjusted.
+* Tweaks to amount of energy drained based on perks selected.
+* Melee and grenade cool downs adjusted.
 	
 
 [^165465]: Sponsored by Room Temperature Water
