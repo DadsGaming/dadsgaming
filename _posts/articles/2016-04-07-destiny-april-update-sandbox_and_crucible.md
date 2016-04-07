@@ -18,8 +18,8 @@ share: true
 
 Bungie held their 3rd and final Twitch stream [^165465] before the April Update drops. This stream focused on changes to the core game play (Sandbox) and updates to the Crucible and Crucible related events (Trials of Osiris, Iron Banner, etc). This stream had a lot of information, albeit sometimes without the detail Guardians would have hoped for. To recap what's been explained so far, check out the summaries from the previous two streams:
 
-	* [Destiny Stream - New Things To Do](http://dadsgaming.com/articles/destiny-april-update-preview/)
-	* [Destiny Stream - New Things To Earn](http://dadsgaming.com/articles/destiny-april-update-new-things-to-earn/)
+* [Destiny Stream - New Things To Do](http://dadsgaming.com/articles/destiny-april-update-preview/)
+* [Destiny Stream - New Things To Earn](http://dadsgaming.com/articles/destiny-april-update-new-things-to-earn/)
 
 The stream started with DeeJ showcasing a group of Warlocks in a Crucible match and explaining they'd be using the this match to demonstrate some of the changes. And boy were there a lot of changes to cover. 
 
@@ -27,7 +27,7 @@ The stream started with DeeJ showcasing a group of Warlocks in a Crucible match 
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/126304189@N08/26203190392/in/dateposted-public/" title="warlock_trials"><img src="https://farm2.staticflickr.com/1604/26203190392_48f5b6001c_m.jpg" width="92" height="240" alt="warlock_trials"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script><a data-flickr-embed="true"  href="https://www.flickr.com/photos/126304189@N08/25690754934/in/dateposted-public/" title="titan_trials"><img src="https://farm2.staticflickr.com/1633/25690754934_e25d648a71_m.jpg" width="104" height="240" alt="titan_trials"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script><a data-flickr-embed="true"  href="https://www.flickr.com/photos/126304189@N08/25692888393/in/dateposted-public/" title="hunter_trials"><img src="https://farm2.staticflickr.com/1686/25692888393_bc94872191_m.jpg" width="100" height="240" alt="hunter_trials"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-####Crucible & Sandbox
+#### Crucible & Sandbox
 A common theme to all of the update streams was Bungie's goal to give players more ways to achieve a higher light level and get better gear. Up to now the only solid ways to get light level (LL) 320 gear was either Trials of Osiris or the King's Fall raid in hard mode. Going forward Bungie wanted to make sure _all_ players had a way to achieve higher LL gear. In the first stream we saw the new L41 Prison of Elders (POE) and L42 Challenge of the Elders (CotE) were new avenues for players to get increased LL gear. Bungie now wants to make the Crucible another way for players to get better gear too. So starting with the April Update here's a breakdown of where and what you can expected to get from Destiny gameplay:
 
 * Up to LL 320 Gear
@@ -49,7 +49,7 @@ A common theme to all of the update streams was Bungie's goal to give players mo
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/126304189@N08/26269666366/in/dateposted-public/" title="voidwalker-builds"><img src="https://farm2.staticflickr.com/1665/26269666366_5af12d8c89_z.jpg" width="600" height="338" alt="voidwalker-builds"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-####Game play changes
+#### Game play changes
 There was a flurry of updates in the first segment and here's a highlight of the changes coming on 4/12 by Lars Bakken:
 
 * Revive Changes: The sprint revive is gone. The proximity you can revive a team mate is much closer and the time to revive a player will take longer - even with exotic revive armor (e.g. Crest of Alpha Lupi). 
@@ -65,7 +65,7 @@ More details in the patch notes.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/126304189@N08/26269665806/in/dateposted-public/" title="destinyaprilupdatewarlock"><img src="https://farm2.staticflickr.com/1508/26269665806_796fe1e8b6_z.jpg" width="600" height="450" alt="destinyaprilupdatewarlock"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-####Weapons
+#### Weapons
 Next up came DeeJ with John Wisniewski on the weapon changes coming on 4/12:
 
 **General Weapon Type Changes:** Changes being made to general weapon categories.
@@ -113,7 +113,7 @@ A full write up will be on Bungie's site later this week.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/126304189@N08/26269666366/in/dateposted-public/" title="voidwalker-builds"><img src="https://farm2.staticflickr.com/1665/26269666366_5af12d8c89_z.jpg" width="600" height="338" alt="voidwalker-builds"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-####Warlock Class Changes
+#### Warlock Class Changes
 The third segment had DeeJ and Grant Mackay go over class and subclass changes. The focus of the April Update will be tuning the Warlock class. The actual changes mentioned on the stream :
 
 Sunsinger:
