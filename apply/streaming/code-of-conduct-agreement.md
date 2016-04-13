@@ -11,4 +11,4 @@ Congratulations! Your application for streaming on the Dads Gaming Twitch Channe
 
 In order to protect the experience and safety of people who use and view our Dads Gaming Twitch Channel, there are some limitations on the type of content and behavior that we allow. All users must adhere to the policies set forth in the Code of Conduct Rules. Failure to do so may result in the temporary suspension and/or permanent removal of being an approved streamer.
 
-<iframe src="https://docs.google.com/forms/d/1yqI_1uKyM-wJznK6z2qilDs4lwWxyXFejCFglqT943Q/viewform?embedded=true" width="760" height="500" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
+<iframe src="https://docs.google.com/forms/d/1yqI_1uKyM-wJznK6z2qilDs4lwWxyXFejCFglqT943Q/viewform?embedded=true" width="760" height="1200" frameborder="0" marginheight="0" marginwidth="0">Loading...</iframe>
