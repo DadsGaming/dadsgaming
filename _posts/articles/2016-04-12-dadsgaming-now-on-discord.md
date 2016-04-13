@@ -45,4 +45,4 @@ Yes! Currently Discord supports both iOS and Android operating systems as well a
 
 Discord is a new way we at Dads Gaming are trying to bring fathers from all across the globe together. Dads Gaming members are better served when no one is left alone to game with pubs. We hope that you can find your way easy enough but if you struggle, please be sure to visit our multiple media outlets for support at [Twitter](twitter.com/dadgamers), [Reddit](reddit.com/r/dadsgaming), and our [Website](dadsgaming.com). From there we can direct you to the right place!
 
->Dad’s Gaming members are better served when no one is left alone to game with pubs.
+>Dads Gaming members are better served when no one is left alone to game with pubs.
