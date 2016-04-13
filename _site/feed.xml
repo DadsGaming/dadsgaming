@@ -4,7 +4,7 @@
 <generator uri="https://github.com/jekyll/jekyll">Jekyll</generator>
 <link rel="self" type="application/atom+xml" href="http://dadsgaming.com/feed.xml" />
 <link rel="alternate" type="text/html" href="http://dadsgaming.com" />
-<updated>2016-04-12T22:53:03-07:00</updated>
+<updated>2016-04-12T22:53:54-07:00</updated>
 <id>http://dadsgaming.com/</id>
 <author>
   <name>Dads Gaming</name>
@@ -63,6 +63,194 @@
 &lt;/blockquote&gt;
 
   &lt;p&gt;&lt;a href=&quot;http://dadsgaming.com/articles/dadsgaming-now-on-discord/&quot;&gt;Dads Gaming is now on discord&lt;/a&gt; was originally published by LesGetGaming at &lt;a href=&quot;http://dadsgaming.com&quot;&gt;Dads Gaming&lt;/a&gt; on April 12, 2016.&lt;/p&gt;</content>
+</entry>
+
+
+  
+
+<entry>
+  <title type="html"><![CDATA[Destiny Stream - Sandbox & Crucible]]></title>
+  <link rel="alternate" type="text/html" href="http://dadsgaming.com/articles/destiny-april-update-sandbox_and_crucible/" />
+  <id>http://dadsgaming.com/articles/destiny-april-update-sandbox_and_crucible</id>
+  <updated>2016-04-07 12:20:00 -0700T00:00:00-00:00</updated>
+  <published>2016-04-07T00:00:00-07:00</published>
+  
+  <author>
+    <name>mygeekdaddy</name>
+    <uri>http://dadsgaming.com</uri>
+    
+  </author>
+  <content type="html">&lt;p&gt;&lt;a data-flickr-embed=&quot;true&quot; href=&quot;https://www.flickr.com/photos/126304189@N08/26229348301/in/dateposted-public/&quot; title=&quot;AprilUpdate-Destiny&quot;&gt;&lt;img src=&quot;https://farm2.staticflickr.com/1646/26229348301_e9e0a4b7c5_z.jpg&quot; width=&quot;580&quot; height=&quot;349&quot; alt=&quot;AprilUpdate-Destiny&quot; /&gt;&lt;/a&gt;&lt;script async=&quot;&quot; src=&quot;//embedr.flickr.com/assets/client-code.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;p&gt;Bungie held their 3rd and final Twitch stream &lt;sup id=&quot;fnref:165465&quot;&gt;&lt;a href=&quot;#fn:165465&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt; before the April Update drops. This stream focused on changes to the core game play (Sandbox) and updates to the Crucible and Crucible related events (Trials of Osiris, Iron Banner, etc). This stream had a lot of information, albeit sometimes without the detail Guardians would have hoped for. To recap what’s been explained so far, check out the summaries from the previous two streams:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://dadsgaming.com/articles/destiny-april-update-preview/&quot;&gt;Destiny Stream - New Things To Do&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://dadsgaming.com/articles/destiny-april-update-new-things-to-earn/&quot;&gt;Destiny Stream - New Things To Earn&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;The stream started with DeeJ showcasing a group of Warlocks in a Crucible match and explaining they’d be using the this match to demonstrate some of the changes. And boy were there a lot of changes to cover. &lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;“Destiny is about to become a more rewarding game.” ~DeeJ&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a data-flickr-embed=&quot;true&quot; href=&quot;https://www.flickr.com/photos/126304189@N08/26203190392/in/dateposted-public/&quot; title=&quot;warlock_trials&quot;&gt;&lt;img src=&quot;https://farm2.staticflickr.com/1604/26203190392_48f5b6001c_m.jpg&quot; width=&quot;92&quot; height=&quot;240&quot; alt=&quot;warlock_trials&quot; /&gt;&lt;/a&gt;&lt;script async=&quot;&quot; src=&quot;//embedr.flickr.com/assets/client-code.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;a data-flickr-embed=&quot;true&quot; href=&quot;https://www.flickr.com/photos/126304189@N08/25690754934/in/dateposted-public/&quot; title=&quot;titan_trials&quot;&gt;&lt;img src=&quot;https://farm2.staticflickr.com/1633/25690754934_e25d648a71_m.jpg&quot; width=&quot;104&quot; height=&quot;240&quot; alt=&quot;titan_trials&quot; /&gt;&lt;/a&gt;&lt;script async=&quot;&quot; src=&quot;//embedr.flickr.com/assets/client-code.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;a data-flickr-embed=&quot;true&quot; href=&quot;https://www.flickr.com/photos/126304189@N08/25692888393/in/dateposted-public/&quot; title=&quot;hunter_trials&quot;&gt;&lt;img src=&quot;https://farm2.staticflickr.com/1686/25692888393_bc94872191_m.jpg&quot; width=&quot;100&quot; height=&quot;240&quot; alt=&quot;hunter_trials&quot; /&gt;&lt;/a&gt;&lt;script async=&quot;&quot; src=&quot;//embedr.flickr.com/assets/client-code.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;crucible--sandbox&quot;&gt;Crucible &amp;amp; Sandbox&lt;/h4&gt;
+&lt;p&gt;A common theme to all of the update streams was Bungie’s goal to give players more ways to achieve a higher light level and get better gear. Up to now the only solid ways to get light level (LL) 320 gear was either Trials of Osiris or the King’s Fall raid in hard mode. Going forward Bungie wanted to make sure &lt;em&gt;all&lt;/em&gt; players had a way to achieve higher LL gear. In the first stream we saw the new L41 Prison of Elders (POE) and L42 Challenge of the Elders (CotE) were new avenues for players to get increased LL gear. Bungie now wants to make the Crucible another way for players to get better gear too. So starting with the April Update here’s a breakdown of where and what you can expected to get from Destiny gameplay:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Up to LL 320 Gear
+    &lt;ul&gt;
+      &lt;li&gt;L41 Prison of Elders&lt;/li&gt;
+      &lt;li&gt;Normal mode King’s Fall raid&lt;/li&gt;
+      &lt;li&gt;Rank 3 Iron Banner package (Artifact and Ghost)&lt;/li&gt;
+      &lt;li&gt;Crucible end game rewards (Clash, Control, Skirmish, etc)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Up to LL 330 Gear
+    &lt;ul&gt;
+      &lt;li&gt;Trials of Osiris (ToO) bounties&lt;/li&gt;
+      &lt;li&gt;Vanguard and Crucible reputation packages&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Up to LL 335 Gear
+    &lt;ul&gt;
+      &lt;li&gt;L42 Prison of Elders&lt;/li&gt;
+      &lt;li&gt;Hard mode King’s Fall raid &lt;sup id=&quot;fnref:104432&quot;&gt;&lt;a href=&quot;#fn:104432&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/li&gt;
+      &lt;li&gt;Rank 5 Iron Banner package&lt;/li&gt;
+      &lt;li&gt;Trials of Osiris Lighthouse Chest (now includes armor &amp;amp; weapon)&lt;/li&gt;
+      &lt;li&gt;Shaxx Weekly Bounties&lt;/li&gt;
+      &lt;li&gt;Court of Oryx (Artifacts)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;a data-flickr-embed=&quot;true&quot; href=&quot;https://www.flickr.com/photos/126304189@N08/26269665806/in/dateposted-public/&quot; title=&quot;destinyaprilupdatewarlock&quot;&gt;&lt;img src=&quot;https://farm2.staticflickr.com/1508/26269665806_796fe1e8b6_z.jpg&quot; width=&quot;600&quot; height=&quot;450&quot; alt=&quot;destinyaprilupdatewarlock&quot; /&gt;&lt;/a&gt;&lt;script async=&quot;&quot; src=&quot;//embedr.flickr.com/assets/client-code.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;game-play-changes&quot;&gt;Game play changes&lt;/h4&gt;
+&lt;p&gt;There was a flurry of updates in the first segment and here’s a highlight of the changes coming on 4/12 by Lars Bakken:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Revive Changes: The sprint revive is gone. The proximity you can revive a team mate is much closer and the time to revive a player will take longer - even with exotic revive armor (e.g. Crest of Alpha Lupi). &lt;/li&gt;
+  &lt;li&gt;ToO Revive Changes: There were specific revive changes to Trials of Osiris. In addition to the overall Crucible revive changes, ToO revives will have a 7s timer before a team mate can be revived. On top this, there is a compounding timer for each death and revive. So if a player dies a 2nd time, it will be an additional 7s before a team mate can revive a player, or 14s before they can be revived a 2nd time. Die a 3rd time in the match? Your team mates will need to wait 21s. Die a 4th time? That’s an uncomfortable discussion between you and your fire team on your engagement decisions. &lt;/li&gt;
+  &lt;li&gt;Overshield Diminished: The over shield will be weakened a bit. Final change values will be listed in the patch notes. &lt;/li&gt;
+  &lt;li&gt;Special Ammo: When entering a Crucible match, including 3v3 modes, players will spawn in with special ammo at the beginning. Since players will spawn in with special ammo, the first special ammo drop will be 3 min into the match and then another 2 min later. The goal is have players think more strategically on their use of special ammo. Mayhem will not be altered. &lt;/li&gt;
+  &lt;li&gt;Heavy Ammo: Heavy ammo is being limited to a larger degree in PVP. In PVP, heavy ammo comes in at the 5 min mark and only drops once. In ToO, heavy ammo will show up after a team has 3 wins and after 5 minutes. Mayhem will not be altered. &lt;/li&gt;
+  &lt;li&gt;Crucible Drops: Legendary drops will be increased for end game rewards for Crucible events - Control, Skirmish, Clash, etc. &lt;/li&gt;
+  &lt;li&gt;Iron Banner Drops: Legendary drops will be removed from end game rewards and replaced with Iron Banner items. Iron Banner bounty change of getting ‘2500 points and a win’ will be reduced to ‘1500 points and a match completion’.&lt;/li&gt;
+  &lt;li&gt;ToO Bounty: The bounty, His Eye Upon You, will be playable daily during ToO.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;More details in the patch notes. &lt;/p&gt;
+
+&lt;p&gt;&lt;a data-flickr-embed=&quot;true&quot; href=&quot;https://www.flickr.com/photos/126304189@N08/26203348772/in/dateposted-public/&quot; title=&quot;sniper&quot;&gt;&lt;img src=&quot;https://farm2.staticflickr.com/1469/26203348772_e43838303a_z.jpg&quot; width=&quot;640&quot; height=&quot;356&quot; alt=&quot;sniper&quot; /&gt;&lt;/a&gt;&lt;script async=&quot;&quot; src=&quot;//embedr.flickr.com/assets/client-code.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;weapons&quot;&gt;Weapons&lt;/h4&gt;
+&lt;p&gt;Next up came DeeJ with John Wisniewski on the weapon changes coming on 4/12:&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;General Weapon Type Changes:&lt;/strong&gt; Changes being made to general weapon categories.&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Auto Rifles: 
+    &lt;ul&gt;
+      &lt;li&gt;High ROF:  Base damage down (DoP/Arminius) &lt;/li&gt;
+      &lt;li&gt;Low ROF: Base damage up (Suros Regime)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Pulse Rifles: 
+    &lt;ul&gt;
+      &lt;li&gt;Low ROF: Base damage up (Spare Change)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Hand Cannon: 
+  All HC’s: Increasing ammo inventory carry, not magazine size.&lt;/li&gt;
+  &lt;li&gt;Fusion Rifles: 
+  All FR’s: Blanket stability increase and tighter discharge cone. &lt;/li&gt;
+  &lt;li&gt;Sniper Rifles: Meta has changes on how snipers are being used. A lot more close quarter combat has been seen - even seen in stream game play. 
+    &lt;ul&gt;
+      &lt;li&gt;All SR’s: Zoom distance pushed up, so distance pushed out to adjust close range encounters. &lt;/li&gt;
+      &lt;li&gt;Added 2 frames for zoom time from hip to looking down scope. &lt;/li&gt;
+      &lt;li&gt;Snapshot aiming reduced bonus from 30% to 20%. &lt;/li&gt;
+      &lt;li&gt;Lower total inventory that can be held. (Increased brick drops in PVP)&lt;/li&gt;
+      &lt;li&gt;Reduced stability across the board. Two shots to the body will be harder to pull off.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Side Arms:
+    &lt;ul&gt;
+      &lt;li&gt;All: Switching from Side Arm to other special weapon will result in loss of special ammo. &lt;/li&gt;
+      &lt;li&gt;All: Lower inventory that can be held.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Shotguns:
+    &lt;ul&gt;
+      &lt;li&gt;All: Lower inventory that can be held.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Machine Guns:
+    &lt;ul&gt;
+      &lt;li&gt;All: Lower inventory that can be held.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;strong&gt;Specific Weapon Changes:&lt;/strong&gt; Changes being made to specific weapons. &lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Mida Multitool: Mida is one of the most popular PVP weapon after the Dec 2015 update. Plan will be to remove the intrinsic perk of high caliber rounds. Unclear in the stream was how the flinching perk will be affected. This could be a big deal for PVE players if the flinching perk is altered. &lt;/li&gt;
+  &lt;li&gt;Suros Regime: Getting the same buff for AR’s as mentioned above. The spin up perk occurs later - 4 bullets later. Focus fire perk gets a range buff. &lt;/li&gt;
+  &lt;li&gt;Hawkmoon: Range and accuracy increase. &lt;/li&gt;
+  &lt;li&gt;The Last Work: Damage nerf for hip fire precision shots on the TLW perk. Too many players got good enough to do a 2 shot kill using hip fire and the TLW perk. A damage adjustment moves it to a 3 shot precision kill from hip fire with TWL perk.&lt;/li&gt;
+  &lt;li&gt;Thorn: Still Y1 weapon. Damage over time and damage pulses reduced from 6 to 4. Screen change when tagged will not be as intense. &lt;/li&gt;
+  &lt;li&gt;Ice Breaker: Still Y1 weapon. If you switch away from ice breaker you will lose special any built up special. Increased zoom like other sniper rifles. &lt;/li&gt;
+  &lt;li&gt;Dreg’s Promise: Shots track better when aiming down sights. &lt;/li&gt;
+  &lt;li&gt;Telesto: Rounds will now see if player is a team mate or not. You can now shoot a team mate and prime them as a void bomb. This includes a Ward of Dawn. &lt;/li&gt;
+  &lt;li&gt;1000 Yard Stare: 1KYS is &lt;em&gt;the&lt;/em&gt; most equipped weapon in the history of the game to date. It’s the #1 weapon in PVP kills. All sniper changes will affect 1KYS and will have even lower ammo inventory than the sniper rifle ammo nerf. &lt;/li&gt;
+  &lt;li&gt;Qullim’s Terminus: Both versions will be affected by machine gun ammo change and an additional ammo inventory reduction. &lt;/li&gt;
+  &lt;li&gt;All KF Raid Weapons: Small boost to reload speed. &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Side question that DeeJ and John discussed is why does Bungie balance PVP and PVE the same. The philosophy is your Guardian is your Guardian and Bungie wants a consistent feel and muscle memory of the weapons you use. So when you use a weapon, you have a consistent experience whether you’re in a raid/strike or running Trials. &lt;/p&gt;
+
+&lt;p&gt;A full write up will be on Bungie’s site later this week. &lt;/p&gt;
+
+&lt;p&gt;&lt;a data-flickr-embed=&quot;true&quot; href=&quot;https://www.flickr.com/photos/126304189@N08/26269666366/in/dateposted-public/&quot; title=&quot;voidwalker-builds&quot;&gt;&lt;img src=&quot;https://farm2.staticflickr.com/1665/26269666366_5af12d8c89_z.jpg&quot; width=&quot;600&quot; height=&quot;338&quot; alt=&quot;voidwalker-builds&quot; /&gt;&lt;/a&gt;&lt;script async=&quot;&quot; src=&quot;//embedr.flickr.com/assets/client-code.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;h4 id=&quot;warlock-class-changes&quot;&gt;Warlock Class Changes&lt;/h4&gt;
+&lt;p&gt;The third segment had DeeJ and Grant Mackay go over class and subclass changes. The focus of the April Update will be tuning the Warlock class. The actual changes mentioned on the stream :&lt;/p&gt;
+
+&lt;p&gt;Sunsinger:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Lowered the amount of flame shield for Sunsingers and the frequency Sunsingers will get a flame shield. &lt;/li&gt;
+  &lt;li&gt;Brimstone will get damage increase for PVE. &lt;/li&gt;
+  &lt;li&gt;No change to firebolt damage. &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Stormcaller:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Perk to extend Stormtrance adjusted and requires some more thought on perk selection.&lt;/li&gt;
+  &lt;li&gt;Landfall will no longer destroy a Ward of Dawn or blind opponent longer. &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Voidwalker: 
+* Tweaks to amount of energy drained based on perks selected.
+* Melee and grenade cool downs adjusted.&lt;/p&gt;
+
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:165465&quot;&gt;
+      &lt;p&gt;Sponsored by Room Temperature Water &lt;a href=&quot;#fnref:165465&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:104432&quot;&gt;
+      &lt;p&gt;HM KF Raid will be 330 on 4/12. A post patch will bump up gear in HM to 335. &lt;a href=&quot;#fnref:104432&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://dadsgaming.com/articles/destiny-april-update-sandbox_and_crucible/&quot;&gt;Destiny Stream - Sandbox & Crucible&lt;/a&gt; was originally published by mygeekdaddy at &lt;a href=&quot;http://dadsgaming.com&quot;&gt;Dads Gaming&lt;/a&gt; on April 07, 2016.&lt;/p&gt;</content>
 </entry>
 
 
@@ -1217,33 +1405,6 @@ amzn_assoc_default_category = &quot;VideoGames&quot;;
 &lt;iframe src=&quot;https://docs.google.com/forms/d/1aB3348ElW9pz3t0ko9ZPKjmn0nto-nXxsI9PzTDwP30/viewform?embedded=true&quot; width=&quot;760&quot; height=&quot;850&quot; frameborder=&quot;0&quot; marginheight=&quot;0&quot; marginwidth=&quot;0&quot;&gt;Loading...&lt;/iframe&gt;
 
   &lt;p&gt;&lt;a href=&quot;http://dadsgaming.com/articles/dadsgaming-vault-of-glass-speed-run-sign-ups/&quot;&gt;Sign-ups for the DadsGaming Vault of Glass Speed Run&lt;/a&gt; was originally published by Renovatio 42 at &lt;a href=&quot;http://dadsgaming.com&quot;&gt;Dads Gaming&lt;/a&gt; on April 20, 2015.&lt;/p&gt;</content>
-</entry>
-
-
-  
-
-<entry>
-  <title type="html"><![CDATA[DadsGaming is Giving Away Battlefield Hardline!]]></title>
-  <link rel="alternate" type="text/html" href="http://dadsgaming.com/contests/battlefield-hardline-giveaway/" />
-  <id>http://dadsgaming.com/contests/battlefield-hardline-giveaway</id>
-  <updated>2015-02-27 13:00:00 -0800T00:00:00-00:00</updated>
-  <published>2015-02-27T00:00:00-08:00</published>
-  
-  <author>
-    <name>Renovatio 42</name>
-    <uri>http://dadsgaming.com</uri>
-    
-  </author>
-  <content type="html">&lt;h3 id=&quot;were-giving-away-one-digital-copy-of-battlefield-hardline-the-game&quot;&gt;We’re Giving Away One Digital Copy of Battlefield Hardline The Game!&lt;/h3&gt;
-
-&lt;p&gt;&lt;em&gt;A huge thank you to MrxResorto for supplying the prize!&lt;/em&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://farm9.staticflickr.com/8599/16473386148_f2b3e9f0aa_o.png&quot; width=&quot;720&quot; height=&quot;372&quot; alt=&quot;bfH_giveaway_sm&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;&lt;a class=&quot;rcptr&quot; href=&quot;http://www.rafflecopter.com/rafl/display/5407d0de5/&quot; rel=&quot;nofollow&quot; data-raflid=&quot;5407d0de5&quot; data-theme=&quot;classic&quot; data-template=&quot;&quot; id=&quot;rcwidget_nykblgba&quot;&gt;a Rafflecopter giveaway&lt;/a&gt;
-&lt;script src=&quot;//widget-prime.rafflecopter.com/launch.js&quot;&gt;&lt;/script&gt;&lt;/p&gt;
-
-  &lt;p&gt;&lt;a href=&quot;http://dadsgaming.com/contests/battlefield-hardline-giveaway/&quot;&gt;DadsGaming is Giving Away Battlefield Hardline!&lt;/a&gt; was originally published by Renovatio 42 at &lt;a href=&quot;http://dadsgaming.com&quot;&gt;Dads Gaming&lt;/a&gt; on February 27, 2015.&lt;/p&gt;</content>
 </entry>
 
 </feed>
