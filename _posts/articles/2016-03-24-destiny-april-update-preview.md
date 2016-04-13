@@ -20,7 +20,7 @@ If you're a Destiny fan, you've probably already heard the news that Bungie is r
 
 The Twitch stream opened with a slew of tidbits and updates on the changes coming in the April update. The first was that this is a __free__ update to anyone that owns The Taken King DLC. [^828967] This update is being brought out by the Destiny Live Team and is the biggest project the Live Team has done to date. I've broken down the biggest points [DeeJ](https://twitter.com/deej_bng) and Bungie revealed in today's stream.
 
-####Light Level Upgrade
+#### Light Level Upgrade
 One of the previously announced changes with the April Update was an increase in the maximum Light Level you could achieve with your Guardian. The Taken King update brought the maximum Light Level (LL) up to 320. The April Update will bring the max LL to 335. The April Update will have a new ways for a Guardian to increase their LL. This will include:
 
 * New and updated bounties.
@@ -36,7 +36,7 @@ The update includes changes to the existing content as well:
 
 Not all of the new content was discussed in today's stream, but DeeJ and the folks at Bungie said all of the new content will be discussed over the three Twitch streams. They did make one thing clear... all of the __new__ content is focused on what's been happening in The Reef.
 
-####The Reef & Prison of Elders
+#### The Reef & Prison of Elders
 The Reef was initially released as part of the _[House of Wolves](https://www.bungie.net/en/pub/houseofwolves)_ expansion pack. The April Update brings The Reef and Prison of Elders into Y2. During the discussion of what's coming in the new update, Bungie revealed that the Taken are not gone, but have a new power leading them - Malok.
 
 <figure><img src="http://share.mygeekdaddy.net/Screen_Shot_2016-03-23_at_1.17.12_PM.png" style="display:block; margin-left: auto; margin-right:auto; margin-bottom:10px; width:600px;" /></img></figure>
@@ -54,7 +54,7 @@ As you can see there are some new and updated places to visit in The Reef:
 * Level 41 Arena - Prison of Elders: This is a updated version of the Prison of Elders (POE) for Guardians to use PVE content to raise their LL. Like the L28 POE arena, the L41 arena will consist of a fire team of three guardians and it __will__ have matchmaking available.  The _Sterling Treasure_ seen in the screenshot above was specifically mentioned, but as DeeJ said - "...will be revealed in next week's stream." The L41 Arena includes 4 new bosses, all of which are Taken. You have a 50/50 chance of getting one of the original bosses or getting one of the new Taken bosses at the end of your POE run. Bungie said that a treasure key was no longer needed on the L41 arena. So once you make it through, you'll be able to open up the treasure chest at the end. Up to LL 320 gear will drop in this arena. [^694814]
 * Level 42  Arena - Challenge of the Elders: This is one of the new content pieces coming in the April Update. Challenge of the Elders will be the PVE equivalent to Trials of Osiris. There is a passage card, called an Elder's Sigil, that can be purchased from Variks for 100 Glimmer to allow entry into the Challenge of the Elders. Just like Trials of Osiris, you need to have a fire team of 3 and there is __no matchmaking__. Up to LL 335 gear will drop in this arena.  
 
-####Play Through of "Challenge of the Elders"
+#### Play Through of "Challenge of the Elders"
 The stream was wrapped up with a team of Bungie employees (including Cozmo) playing through a session of Challenge of the Elders (CotE). Some of the highlights discussed or shown during the CotE game play were:
   
 * The Elder's Sigil passage is purchased from Variks and will have challenges to meet each week. The card is valid for one week and expires at the weekly reset. The example in the game play during Bungie's stream was to hit a specific high score and getting an overall set of points. Achieve these items and you will receive a guaranteed item from Variks.
@@ -84,7 +84,7 @@ According to Bungie, based on the boss rotation and new/updated modifiers, a Gua
 
 Yes, there is a new perk tree on the weapon and Bungie said that will be discussed next week. 
 
-####Miscellaneous Update Points
+#### Miscellaneous Update Points
 There were a few odds and ends revealed through out Bungie's stream today. Deej and the gang didn't go in to any detail, but they were put out there publicly none the less.
 
 * Subtle changes to character subclasses are coming. More of this will be discussed in the stream on 4/6. 
@@ -93,7 +93,7 @@ There were a few odds and ends revealed through out Bungie's stream today. Deej 
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/126304189@N08/25395850003/in/dateposted-public/" title="Screen_Shot_2016-03-23_at_1.19.42_PM"><img src="https://farm2.staticflickr.com/1545/25395850003_d66c346fc1_z.jpg" width="640" height="359" alt="Screen_Shot_2016-03-23_at_1.19.42_PM"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-####Next Twitch Streams
+#### Next Twitch Streams
 Bungie has two more streaming dates set to reveal additional content in the April Update:
 
 * 3/30 @ 2pm ET/11am PT - New Things to Earn
