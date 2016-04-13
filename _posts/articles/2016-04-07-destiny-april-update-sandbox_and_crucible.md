@@ -1,7 +1,7 @@
 ---
 author: mygeekdaddy
 layout: post
-title: "Destiny Stream - Sandbox & Crucible"
+title: "Destiny Stream - Sandbox and Crucible"
 thumbnail: https://farm2.staticflickr.com/1646/26229348301_e9e0a4b7c5_z.jpg
 modified: 2016-04-07 12:20:00 -0700
 category: articles
@@ -27,7 +27,7 @@ The stream started with DeeJ showcasing a group of Warlocks in a Crucible match 
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/126304189@N08/26203190392/in/dateposted-public/" title="warlock_trials"><img src="https://farm2.staticflickr.com/1604/26203190392_48f5b6001c_m.jpg" width="92" height="240" alt="warlock_trials"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script><a data-flickr-embed="true"  href="https://www.flickr.com/photos/126304189@N08/25690754934/in/dateposted-public/" title="titan_trials"><img src="https://farm2.staticflickr.com/1633/25690754934_e25d648a71_m.jpg" width="104" height="240" alt="titan_trials"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script><a data-flickr-embed="true"  href="https://www.flickr.com/photos/126304189@N08/25692888393/in/dateposted-public/" title="hunter_trials"><img src="https://farm2.staticflickr.com/1686/25692888393_bc94872191_m.jpg" width="100" height="240" alt="hunter_trials"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-#### Crucible & Sandbox
+#### Crucible and Sandbox
 A common theme to all of the update streams was Bungie's goal to give players more ways to achieve a higher light level and get better gear. Up to now the only solid ways to get light level (LL) 320 gear was either Trials of Osiris or the King's Fall raid in hard mode. Going forward Bungie wanted to make sure _all_ players had a way to achieve higher LL gear. In the first stream we saw the new L41 Prison of Elders (POE) and L42 Challenge of the Elders (CotE) were new avenues for players to get increased LL gear. Bungie now wants to make the Crucible another way for players to get better gear too. So starting with the April Update here's a breakdown of where and what you can expected to get from Destiny gameplay:
 
 * Up to LL 320 Gear
