@@ -76,3 +76,10 @@ If you do not have streaming capabilities, have no fear for you are of great use
 
 So there you have it! We can made a difference in the lives of the most important people defending our country. We might not all know what it is like to fight on the battlefield, but we all know someone who has, whether it was a child, a spouse, or a dear friend, everyone is affected. Why not offer up our small part in this big plan to bring proper awareness to a great organization in [Operation Supply Drop](http://operationsupplydrop.org/)?
 
+**Operation Supply Drop Inbound with Dads Gaming**
+
+<iframe width="853" height="480" src="https://www.youtube.com/embed/6x6oQMDpdLU" frameborder="0"></iframe>
+
+**Meet our Stream Team for Operation Supply Drop 2016**
+
+<iframe width="853" height="480" src="https://www.youtube.com/embed/sn3ewnNrAzM" frameborder="0"></iframe>
