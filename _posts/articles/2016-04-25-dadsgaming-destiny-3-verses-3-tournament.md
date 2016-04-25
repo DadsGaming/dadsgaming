@@ -4,7 +4,7 @@ layout: post
 title: "Sign-ups for the Destiny Dads Gaming 3 vs 3 Tournament"
 first_sentence: "Join us on in mid May, Fireteams are forming now."
 thumbnail: https://farm2.staticflickr.com/1499/26574195221_38f63ce918_z.jpg
-modified: 2016-05-25 08:47:00 -0700
+modified: 2016-04-25 08:47:00 -0700
 category: articles
 tags: [Destiny, Event]
 image:
