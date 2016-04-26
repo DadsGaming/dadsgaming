@@ -15,6 +15,6 @@ share: true
 
 ## Buy an offical Dads Gaming t-shirt
 
-[Wear you gear with pride! Buy now:](https://teespring.com/dads-gaming-wares)
+[Wear you gear with pride! Buy now:](https://teespring.com/stores/dads-gaming)
 
 <a data-flickr-embed="true"  href="https://teespring.com/dads-gaming-wares" title="order_dadsgaming_t-shirt"><img src="https://farm2.staticflickr.com/1718/25943962930_8c80eb2863_z.jpg" width="640" height="334" alt="order_dadsgaming_t-shirt"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
