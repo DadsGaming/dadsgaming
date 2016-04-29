@@ -25,6 +25,8 @@ For questions reguarding sheduling, please contact: [Mit](https://twitter.com/Mi
 
 ### Here is our Stream Team:
 
+*All times are EDT, use [http://everytimezone.com](http://everytimezone.com) to convert to your local time*
+
 <iframe src="https://docs.google.com/spreadsheets/d/1QRk715tUNcHWWeB9wVNXWhJ54qGhMIuAGFLr9yQbnao/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" height="1200" width="400">></iframe>
 
 
