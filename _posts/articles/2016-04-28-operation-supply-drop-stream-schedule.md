@@ -23,7 +23,7 @@ Our Twitch Channel: [https://www.twitch.tv/TheDadsGaming](https://www.twitch.tv/
 
 For questions reguarding sheduling, please contact: [Mit](https://twitter.com/Mitragliatrice_), our Twitch Media Manager or use our [discord chat](https://discord.gg/0nEWIGLTXsyklVzL) channel:#the_stream_team 
 
-###Here is our Stream Team:
+### Here is our Stream Team:
 
 <iframe src="https://docs.google.com/spreadsheets/d/1QRk715tUNcHWWeB9wVNXWhJ54qGhMIuAGFLr9yQbnao/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" height="1200" width="400">></iframe>
 
