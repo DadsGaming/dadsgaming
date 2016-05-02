@@ -37,7 +37,7 @@ Our Twitch Channel: [https://www.twitch.tv/TheDadsGaming](https://www.twitch.tv/
 
 ## Complete Schedule:
 
-<iframe src="https://docs.google.com/spreadsheets/d/1QRk715tUNcHWWeB9wVNXWhJ54qGhMIuAGFLr9yQbnao/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" height="1200" width="400">></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/1QRk715tUNcHWWeB9wVNXWhJ54qGhMIuAGFLr9yQbnao/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" height="1200" width="400"></iframe>
 
 
 **Operation Supply Drop Inbound with Dads Gaming**
