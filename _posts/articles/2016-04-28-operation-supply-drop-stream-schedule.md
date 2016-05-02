@@ -30,7 +30,7 @@ For questions reguarding sheduling, please contact: [Mit](https://twitter.com/Mi
 ## Today's Schedule (Monday, May 2nd)
 
 |  Time (EDT) 	|  Streamer (System) - Game 	|
-|:-:	|---	|
+| ------------ |  -----------: |
 |  11:00 AM - 12:00 PM 	|  LooseCanaan - Smite 	|
 |  4:00 PM  - 5:00 PM 	|   Pickle327 (PS4) - Smite	|
 |  6:00 PM  - 8:00 PM 	|   Resorto (Xbox1) - Halo 5	|
