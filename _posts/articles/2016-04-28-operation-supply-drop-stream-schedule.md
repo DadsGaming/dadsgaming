@@ -40,6 +40,7 @@ Our Twitch Channel: [https://www.twitch.tv/TheDadsGaming](https://www.twitch.tv/
 |  Time (EDT) 	|  Streamer (System) - Game 	|
 | ------------ |  -----------: |
 |  12:00 AM - 2:00AM 	|  **Mitragliatrice** (*PS4*) - Smite 	|
+|  2:00 AM - 4:00AM 	|  **The Chin Live** (*Xbox One*) - The Division 	|
 
 ## Complete Schedule:
 
