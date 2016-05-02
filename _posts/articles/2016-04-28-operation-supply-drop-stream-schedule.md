@@ -39,8 +39,8 @@ Our Twitch Channel: [https://www.twitch.tv/TheDadsGaming](https://www.twitch.tv/
 
 |  Time (EDT) 	|  Streamer (System) - Game 	|
 | ------------ |  -----------: |
-|  12:00 AM - 2:00AM 	|  **WarbladeX ** (*Xbox One*) -  	|
-|  2:00 PM  - 4:00 PM 	|  **UnwindingAxis5 ** (*Xbox One*) - 	|
+|  12:00 AM - 2:00AM 	|  **WarbladeX** (*Xbox One*) -  	|
+|  2:00 PM  - 4:00 PM 	|  **UnwindingAxis5** (*Xbox One*) - 	|
 
 ## Complete Schedule:
 
