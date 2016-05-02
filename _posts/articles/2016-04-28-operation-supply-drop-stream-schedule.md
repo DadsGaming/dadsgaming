@@ -35,6 +35,13 @@ Our Twitch Channel: [https://www.twitch.tv/TheDadsGaming](https://www.twitch.tv/
 |  9:00 PM - 10:00 PM 	|  **LgHughes3** (*PS4*) - RainbowSix Siege	|
 |  10:00 PM - 12:00 AM 	| **Pickle327** (*PS4*) - Hitman	| 
 
+## Late Tonight's' Schedule (Tuesday, May 2nd)
+
+|  Time (EDT) 	|  Streamer (System) - Game 	|
+| ------------ |  -----------: |
+|  12:00 AM - 2:00AM 	|  **WarbladeX ** (*Xbox One*) -  	|
+|  2:00 PM  - 4:00 PM 	|  **UnwindingAxis5 ** (*Xbox One*) - 	|
+
 ## Complete Schedule:
 
 <iframe src="https://docs.google.com/spreadsheets/d/1QRk715tUNcHWWeB9wVNXWhJ54qGhMIuAGFLr9yQbnao/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" height="1200" width="500"></iframe>
