@@ -27,7 +27,7 @@ For questions reguarding sheduling, please contact: [Mit](https://twitter.com/Mi
 
 *All times are EDT, use [http://everytimezone.com](http://everytimezone.com) to convert to your local time*
 
-##Today's Schedule (Monday, May 2nd)
+## Today's Schedule (Monday, May 2nd)
 
 |  Time (EDT) 	|  Streamer (System) - Game 	|
 |:-:	|---	|
