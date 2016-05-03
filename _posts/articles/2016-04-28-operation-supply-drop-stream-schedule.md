@@ -3,7 +3,7 @@ author: renovatio_42
 layout: post
 title: "Operation Supply Drop Stream Team"
 thumbnail: https://farm2.staticflickr.com/1696/26139301861_571cd36547_z.jpg
-modified: 2016-04-28 10:20:00 -0700
+modified: 2016-05-28 8:20:00 -0700
 category: articles
 tags: [Operation Supply Drop, Twitch, Stream]
 image:
@@ -25,26 +25,25 @@ Our Twitch Channel: [https://www.twitch.tv/TheDadsGaming](https://www.twitch.tv/
 
 *All times are EDT, use [http://everytimezone.com](http://everytimezone.com) to convert to your local time*
 
-## Today's Schedule (Monday, May 2nd)
+## Today's Schedule (Tuesday, May 3rd)
 
 |  Time (EDT) 	|  Streamer (System) - Game 	|
 | ------------ |  -----------: |
-|  11:00 AM - 12:00 PM 	|  **LooseCanaan** (*PC*) - Smite 	|
-|  4:00 PM  - 5:00 PM 	|  **Pickle327** (*PS4*) - Smite	|
 |  6:00 PM  - 8:00 PM 	|  **Resorto** (*Xbox1*) - Halo 5	|
-|  9:00 PM - 10:00 PM 	|  **LgHughes3** (*PS4*) - RainbowSix Siege	|
-|  10:00 PM - 12:00 AM 	| **Pickle327** (*PS4*) - Hitman	| 
+|  8:00 PM - 10:00 PM 	| **NFgrockerdude** (*Xbox1*) - Destiny w/ **Rick "@bigsnackks"** manager of Team JusTus	| 
+|  10:00 PM - 11:00 PM 	| **LgHughes3** (*PS4*) - Rainbow Six Siege	| 
+|  11:00 PM - 12:00 AM 	| **LgHughes3** (*PS4*) - Battleborn	| 
 
-## Late Tonight's Schedule (Tuesday, May 2nd)
+## Late Tonight's Schedule (Wednesday, May 4th)
 
 |  Time (EDT) 	|  Streamer (System) - Game 	|
 | ------------ |  -----------: |
-|  12:00 AM - 2:00AM 	|  **Mitragliatrice** (*PS4*) - Smite 	|
-|  2:00 AM - 4:00AM 	|  **The Chin Live** (*Xbox One*) - The Division 	|
+|  12:00 AM - 2:00AM 	|  **WarbladeX** (*Xbox One*) - Overwatch 	|
+|  2:00 AM - 4:00AM 	|  **WarbladeX** (*Xbox One*) - The Division w/ **Hank Baskett** @TheHankBaskett	|
 
 ## Complete Schedule:
 
-<iframe src="https://docs.google.com/spreadsheets/d/1QRk715tUNcHWWeB9wVNXWhJ54qGhMIuAGFLr9yQbnao/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" height="1200" width="500"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/1QRk715tUNcHWWeB9wVNXWhJ54qGhMIuAGFLr9yQbnao/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false" height="1200" width="700"></iframe>
 
 
 **Operation Supply Drop Inbound with Dads Gaming**
