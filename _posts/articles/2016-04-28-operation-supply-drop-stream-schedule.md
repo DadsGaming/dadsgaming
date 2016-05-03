@@ -38,8 +38,8 @@ Our Twitch Channel: [https://www.twitch.tv/TheDadsGaming](https://www.twitch.tv/
 
 |  Time (EDT) 	|  Streamer (System) - Game 	|
 | ------------ |  -----------: |
-|  12:00 AM - 2:00AM 	|  **WarbladeX** (*Xbox One*) - Overwatch 	|
-|  2:00 AM - 4:00AM 	|  **WarbladeX** (*Xbox One*) - The Division w/ **Hank Baskett** @TheHankBaskett	|
+|  12:00 AM - 1:00AM 	|  **WarbladeX** (*Xbox One*) - Overwatch 	|
+|  1:00 AM - 3:00AM 	|  **WarbladeX** (*Xbox One*) - The Division w/ **Hank Baskett** @TheHankBaskett	|
 
 ## Complete Schedule:
 
