@@ -25,21 +25,20 @@ Our Twitch Channel: [https://www.twitch.tv/TheDadsGaming](https://www.twitch.tv/
 
 *All times are EDT, use [http://everytimezone.com](http://everytimezone.com) to convert to your local time*
 
-## Today's Schedule (Tuesday, May 3rd)
+## Today's Schedule (Wednesday, May 4th)
 
 |  Time (EDT) 	|  Streamer (System) - Game 	|
 | ------------ |  -----------: |
-|  6:00 PM  - 8:00 PM 	|  **Resorto** (*Xbox1*) - Halo 5	|
-|  8:00 PM - 10:00 PM 	| **NFgrockerdude** (*Xbox1*) - Destiny w/ **Rick "@bigsnackks"** manager of Team JusTus	| 
-|  10:00 PM - 11:00 PM 	| **LgHughes3** (*PS4*) - Rainbow Six Siege	| 
-|  11:00 PM - 12:00 AM 	| **LgHughes3** (*PS4*) - Battleborn	| 
+|  2:00 PM  - 4:00 PM 	|  **UnwindingAxis5** (*Xbox One*) - The Division	|
+|  8:00 PM - 10:00 PM 	| **Resorto** (*Xbox One*) - Overwatch Beta	| 
+|  10:00 PM - 12:00 AM 	| **Passwatch** (*PS4*) - Battleborn	| 
 
-## Late Tonight's Schedule (Wednesday, May 4th)
+## Late Tonight's Schedule (Thursday, May 5th)
 
 |  Time (EDT) 	|  Streamer (System) - Game 	|
 | ------------ |  -----------: |
-|  12:00 AM - 1:00AM 	|  **WarbladeX** (*Xbox One*) - Overwatch 	|
-|  1:00 AM - 3:00AM 	|  **WarbladeX** (*Xbox One*) - The Division w/ **Hank Baskett** @TheHankBaskett	|
+|  12:00 AM - 2:00AM 	|  **Mitragliatrice** (*PS4*) - Overwatch 	|
+|  2:00 AM - 4:00AM 	|  **The Chin Live** (*Xbox One*) - Battlefield Hardline Campaign	|
 
 ## Complete Schedule:
 
