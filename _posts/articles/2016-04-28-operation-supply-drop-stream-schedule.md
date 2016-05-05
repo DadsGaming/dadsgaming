@@ -22,7 +22,8 @@ May 2nd through May 9th Dads Gaming will be teaming up with Operation Supply Dro
 Our Twitch Channel: [https://www.twitch.tv/TheDadsGaming](https://www.twitch.tv/TheDadsGaming) 
 
 <a data-flickr-embed="true"  href="https://teespring.com/dads-gaming-charity-shirt" title="ChjapcMUkAEqDZg"><img src="https://farm8.staticflickr.com/7128/26771534871_6ec2638c2e_z.jpg" width="640" height="334" alt="ChjapcMUkAEqDZg"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-<a href="https://teespring.com/dads-gaming-charity-shirt>Buy this shirt and help support Operation Supply Drop, a veteran charity focused on veterans across the world.  *100% of the profits will go to Operation Supply Drop*.</a>
+
+[Buy this shirt and help support Operation Supply Drop, a veteran charity focused on veterans across the world.  *100% of the profits will go to Operation Supply Drop*.](https://teespring.com/dads-gaming-charity-shirt)
 
 ### Here is our Stream Team and Schedule:
 
