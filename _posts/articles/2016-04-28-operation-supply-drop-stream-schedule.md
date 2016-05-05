@@ -21,6 +21,8 @@ May 2nd through May 9th Dads Gaming will be teaming up with Operation Supply Dro
 
 Our Twitch Channel: [https://www.twitch.tv/TheDadsGaming](https://www.twitch.tv/TheDadsGaming) 
 
+<a data-flickr-embed="true"  href="https://teespring.com/dads-gaming-charity-shirt" title="ChjapcMUkAEqDZg"><img src="https://farm8.staticflickr.com/7128/26771534871_6ec2638c2e_z.jpg" width="640" height="334" alt="ChjapcMUkAEqDZg"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
 ### Here is our Stream Team and Schedule:
 
 *All times are EDT, use [http://everytimezone.com](http://everytimezone.com) to convert to your local time*
@@ -30,15 +32,15 @@ Our Twitch Channel: [https://www.twitch.tv/TheDadsGaming](https://www.twitch.tv/
 |  Time (EDT) 	|  Streamer (System) - Game 	|
 | ------------ |  -----------: |
 |  2:00 PM  - 4:00 PM 	|  **UnwindingAxis5** (*Xbox One*) - The Division	|
-|  8:00 PM - 10:00 PM 	| **Resorto** (*Xbox One*) - Overwatch Beta	| 
-|  10:00 PM - 12:00 AM 	| **Passwatch** (*PS4*) - Battleborn	| 
+|  8:00 PM - 10:00 PM 	| **NFgrockerdude** (*Xbox One*) - Destiny **w/ CyborgSasquatch + theAER0KNIGHT Destiny Reset**	| 
+|  10:00 PM - 12:00 AM 	| **StellarKoala** (*P*C) - XCOM 2	| 
 
 ## Late Tonight's Schedule (Thursday, May 5th)
 
 |  Time (EDT) 	|  Streamer (System) - Game 	|
 | ------------ |  -----------: |
-|  12:00 AM - 2:00AM 	|  **Mitragliatrice** (*PS4*) - Overwatch Beta *+w/ Bones from Crucial Radio** 	|
-|  2:00 AM - 4:00AM 	|  **The Chin Live** (*Xbox One*) - Battlefield Hardline Campaign	|
+|  12:00 AM - 2:00AM 	|  **DarkShad3z** (*Xbox One*) - The Division 	|
+|  2:00 AM - 4:00AM 	|  **LooseCanaan** - Dark Souls 3	|
 
 ## Complete Schedule:
 
