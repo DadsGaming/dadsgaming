@@ -44,7 +44,7 @@ Our Twitch Channel: [https://www.twitch.tv/TheDadsGaming](https://www.twitch.tv/
 |  Time (EDT) 	|  Streamer (System) - Game 	|
 | ------------ |  -----------: |
 |  12:00 AM - 2:00AM 	|  **ichabod00** (*Xbox One*) - Destiny 	|
-|  2:00 AM - 4:00AM 	|  **Renovatio 42** - The Division	|
+|  2:00 AM - 4:00AM 	|  **Renovatio 42** - The Division **w/ Hank Baskett**	|
 
 ## Complete Schedule:
 
