@@ -29,7 +29,7 @@ Our Twitch Channel: [https://www.twitch.tv/TheDadsGaming](https://www.twitch.tv/
 
 *All times are EDT, use [http://everytimezone.com](http://everytimezone.com) to convert to your local time*
 
-## Today's Schedule (Wednesday, May 4th)
+## Today's Schedule (Thursday, May 5th)
 
 |  Time (EDT) 	|  Streamer (System) - Game 	|
 | ------------ |  -----------: |
@@ -37,7 +37,7 @@ Our Twitch Channel: [https://www.twitch.tv/TheDadsGaming](https://www.twitch.tv/
 |  8:00 PM - 10:00 PM 	| **NFgrockerdude** (*Xbox One*) - Destiny **w/ CyborgSasquatch + theAER0KNIGHT Destiny Reset**	| 
 |  10:00 PM - 12:00 AM 	| **StellarKoala** (*P*C) - XCOM 2	| 
 
-## Late Tonight's Schedule (Thursday, May 5th)
+## Late Tonight's Schedule (Friday, May 6th)
 
 |  Time (EDT) 	|  Streamer (System) - Game 	|
 | ------------ |  -----------: |
