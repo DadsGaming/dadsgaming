@@ -29,20 +29,22 @@ Our Twitch Channel: [https://www.twitch.tv/TheDadsGaming](https://www.twitch.tv/
 
 *All times are EDT, use [http://everytimezone.com](http://everytimezone.com) to convert to your local time*
 
-## Today's Schedule (Thursday, May 5th)
+## Today's Schedule (Friday, May 6th)
 
 |  Time (EDT) 	|  Streamer (System) - Game 	|
 | ------------ |  -----------: |
-|  2:00 PM  - 4:00 PM 	|  **UnwindingAxis5** (*Xbox One*) - The Division	|
-|  8:00 PM - 10:00 PM 	| **NFgrockerdude** (*Xbox One*) - Destiny **w/ CyborgSasquatch + theAER0KNIGHT Destiny Reset**	| 
+|  12:00 PM  - 2:00 PM 	|  **LgHughes** (*PS4*) - Overwatch/Rainbow	|
+|  2:00 PM - 3:00 PM 	| **Sacside** (*PS4*)	- Enter The Gungeon | 
+|  3:00 PM - 6:00 PM 	| **LgHughes** (*PS4*) - Destiny **w/ MTashed + SneakerheadBSJ**	| 
+|  6:00 PM - 8:00 PM 	| **LlatzimepAho** (*P*C) - World of Tanks	| 
 |  10:00 PM - 12:00 AM 	| **StellarKoala** (*P*C) - XCOM 2	| 
 
-## Late Tonight's Schedule (Friday, May 6th)
+## Late Tonight's Schedule (Saturday, May 7th)
 
 |  Time (EDT) 	|  Streamer (System) - Game 	|
 | ------------ |  -----------: |
-|  12:00 AM - 2:00AM 	|  **DarkShad3z** (*Xbox One*) - The Division 	|
-|  2:00 AM - 4:00AM 	|  **LooseCanaan** - Dark Souls 3	|
+|  12:00 AM - 2:00AM 	|  **ichabod00** (*Xbox One*) - Destiny 	|
+|  2:00 AM - 4:00AM 	|  **Renovatio 42** - The Division	|
 
 ## Complete Schedule:
 
