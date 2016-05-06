@@ -37,7 +37,7 @@ Our Twitch Channel: [https://www.twitch.tv/TheDadsGaming](https://www.twitch.tv/
 |  2:00 PM - 3:00 PM 	| **Sacside** (*PS4*)	- Enter The Gungeon | 
 |  3:00 PM - 6:00 PM 	| **LgHughes** (*PS4*) - Destiny **w/ MTashed + SneakerheadBSJ**	| 
 |  6:00 PM - 8:00 PM 	| **LlatzimepAho** (*PS4*) - World of Tanks	| 
-|  8:00 PM - 10:00 PM 	| **Jawgoosh** (*PS4*) -	| 
+|  8:00 PM - 10:00 PM 	| **Jawgoosh** (*Xbox One*) -	Quantum Break | 
 |  10:00 PM - 12:00 AM 	| **StellarKoala** (*PC*) - XCOM 2	| 
 
 ## Late Tonight's Schedule (Saturday, May 7th)
