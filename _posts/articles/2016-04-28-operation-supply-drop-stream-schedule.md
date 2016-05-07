@@ -33,19 +33,19 @@ Our Twitch Channel: [https://www.twitch.tv/TheDadsGaming](https://www.twitch.tv/
 
 |  Time (EDT) 	|  Streamer (System) - Game 	|
 | ------------ |  -----------: |
-|  12:00 PM  - 2:00 PM 	|  **LgHughes** (*PS4*) - Overwatch/Rainbow	|
-|  2:00 PM - 3:00 PM 	| **Sacside** (*PS4*)	- Enter The Gungeon | 
-|  3:00 PM - 6:00 PM 	| **LgHughes** (*PS4*) - Destiny **w/ MTashed + SneakerheadBSJ**	| 
-|  6:00 PM - 8:00 PM 	| **LlatzimepAho** (*PS4*) - World of Tanks	| 
-|  8:00 PM - 10:00 PM 	| **Jawgoosh** (*Xbox One*) -	Quantum Break | 
-|  10:00 PM - 12:00 AM 	| **StellarKoala** (*PC*) - XCOM 2	| 
+|  12:00 PM  - 2:00 PM 	|  **Mitragliatrice** (*PS4*) - Battleborn	|
+|  2:00 PM - 3:00 PM 	| **Pickle327** (*PS4*)	-  | 
+|  4:00 PM - 6:00 PM 	| **WarbladeX** (*Xbox One*) - 	| 
+|  6:00 PM - 8:00 PM 	| **W3st** (*Xbox One*) - 	| 
+|  8:00 PM - 10:00 PM 	| **IlatzimepAho** (*PS4*) -	Star Wars Galaxies | 
+|  10:00 PM - 12:00 AM 	| **Passwatch** (*PS4*) - Destiny **w/ COZMO, Bungie Community Manager**	| 
 
 ## Late Tonight's Schedule (Saturday, May 7th)
 
 |  Time (EDT) 	|  Streamer (System) - Game 	|
 | ------------ |  -----------: |
-|  12:00 AM - 2:00AM 	|  **ichabod00** (*Xbox One*) - Destiny 	|
-|  2:00 AM - 4:00AM 	|  **Renovatio 42** - The Division **w/ Hank Baskett**	|
+|  12:00 AM - 2:00AM 	|  **Renovatio 42** (*Xbox One*) - Halo 5 **w/ Ahman Green**	|
+|  2:00 AM - 4:00AM 	|  **Pickle327** - 	|
 
 ## Complete Schedule:
 
