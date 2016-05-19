@@ -17,7 +17,7 @@ share: true
 
 <img src="http://i.imgur.com/PlT1IVz.jpg" alt="image">
 
-###Destiny Strikes for Veterans Charity Stream Begins July 18th! Benefits Operation Supply Drop
+### Destiny Strikes for Veterans Charity Stream Begins July 18th! Benefits Operation Supply Drop
 
 It will be held on Saturday, July 18th starting at 10am EST and ending on Sunday, July 19th at 10pm EST at this link: 
 
@@ -29,13 +29,13 @@ Simultaneously casted on:
 
 DadsGaming will be streaming beginning at 8PM - 10PM EDT on Saturday night. 
 
-##Come And Support Operation Supply Drop! 
+## Come And Support Operation Supply Drop! 
 
 To donate to Operation Supply Drop click here: [https://fundraise.operationsupplydrop.org/fundraise/team?ftid=53221](https://fundraise.operationsupplydrop.org/fundraise/team?ftid=53221)
 
 To learn more about Operation Supply Drop, please visit [http://www.operationsupplydrop.org](http://www.operationsupplydrop.org)
 
-###List of participating streamers:
+### List of participating streamers:
 
 * [Aim Assist Gaming](https://twitter.com/AimAssistGaming)
 * [Bungie](https://twitter.com/Cozmo23) 
@@ -58,7 +58,7 @@ To learn more about Operation Supply Drop, please visit [http://www.operationsup
 * Veteran Raid
 * [Worst Radio Show](https://twitter.com/worstrad1oshow)
 
-####Our Schedule:
+#### Our Schedule:
 *All times are Eastern Daylight Saving, EDT*
 *Convert stream start times to you local time zone: [http://everytimezone.com/](http://everytimezone.com/)*
 
