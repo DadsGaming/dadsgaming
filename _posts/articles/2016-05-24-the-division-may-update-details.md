@@ -97,18 +97,20 @@ Extracting gear in the Dark Zone will be even more intense and will require play
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/126304189@N08/26982287410/in/dateposted-public/" title="the_division_new_gearsets"><img src="https://c3.staticflickr.com/8/7343/26982287410_e64f6469bd_z.jpg" width="640" height="315" alt="the_division_new_gearsets"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 ### Hunter's Faith
-Dual your enemies at range and come out on top with this survial focused marksman set.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/126304189@N08/26982178970/in/dateposted-public/" title="Hunters_Faith"><img src="https://c3.staticflickr.com/8/7416/26982178970_7acbbe8b45_n.jpg" width="320" height="180" alt="Hunters_Faith"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Dual your enemies at range and come out on top with this survial focused marksman set.
 
 * Set Bonus (2): 20% Marksmen Rifle critical hit damage
 * Set Bonus (3): 20% Damage to elites
 * Set Bonus (4): Hitting an enemy with a bullet grants you temporary armor. The further your shot, the more armor. The armor disappears after one bullet hits you.
 
 ### Lone Star
-Never reload your weapons again with this game changing utility set.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/126304189@N08/26982178020/in/dateposted-public/" title="Lone_Star"><img src="https://c5.staticflickr.com/8/7368/26982178020_f6662990a7_n.jpg" width="320" height="180" alt="Lone_Star"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Never reload your weapons again with this game changing utility set.
 
 * Set Bonus (2): 100% Ammo Capacity
 * Set Bonus (3): 1000 LMG Damage
@@ -116,18 +118,20 @@ Never reload your weapons again with this game changing utility set.
 * Set Bonus (4): When the weapon is holstered, it regains full ammo
 
 ### Final Measure
-Stand your ground by defusing hostile grenages with this powerful defense set.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/126304189@N08/27223888096/in/dateposted-public/" title="Final_Measure"><img src="https://c1.staticflickr.com/8/7376/27223888096_5d9b500fa7_n.jpg" width="320" height="180" alt="Final_Measure"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Stand your ground by defusing hostile grenages with this powerful defense set.
 
 * Set Bonus (2): 50% Exotic Damage Resilience
 * Set Bonus (3): 15% Protection from Elites
 * Set Bonus (4): When throwing a grenade, gain the defuse buff. When in range of a hostile grenade, the buff is consumed and defuses the grenades as well as gives you a grenade.
 
 ### Predator's Mark
-Make your enemies bleed with this powerful offensive set.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/126304189@N08/27223888616/in/dateposted-public/" title="Predators_Mark"><img src="https://c1.staticflickr.com/8/7408/27223888616_39cbe5ef29_n.jpg" width="320" height="180" alt="Predators_Mark"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Make your enemies bleed with this powerful offensive set.
 
 * Set Bonus (2): 20% Optimal Range
 * Set Bonus (3): 800 Assault Rifle Damage
