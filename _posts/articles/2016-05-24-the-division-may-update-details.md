@@ -21,24 +21,6 @@ If you're a fan of The Division, then you probably already know that the 1.2 upd
 > "We created that beautiful world that players really enjoyed exploring during the levelling experience, but it's true that when you reach the end of the game, there is not much to do in the open world," project coordinator Quentin Correggi said.
 
 During Ubisoft's State of the Game live stream on May 4th, they eluded to *significate improvements* including changes to quantity and quality of items received during end-game type of activities. Today, Ubisoft Massive delivers with 1.2 update bringing new activities, fresh new gear, and a second end-game Incursion mission.
-
-????
-Loot in PVE
-New Activities
-Changes in the Dark Zone
-New Gear Sets
-Preparing for the update
-????
-???? 
-Clear Sky
-New Gear Sets
-High-Vlaue Targets
-Hijack Extractions
-Sealed Caches
-DZ Checkpoint stashes
-SHD Shield: https://pbs.twimg.com/profile_images/476104177068679172/pgEXD0Wd_400x400.png 
-
-????
  
 
 ## Loot in PVE
