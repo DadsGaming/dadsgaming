@@ -47,7 +47,7 @@ Once level 30, complete all Encounters and Side Missions in a named zone to get 
 
 There will be one designated named zone marked as critical, completing missions in this zone will yield additional Target Intel. After a critical Search and Destroy system has been dealt with, a new named zone is marked as critical. 
 
-After taking out the various groups of level 30 enemies, return return to the Safe House to acquire _Target Intel_ as a reward for completing Search and Destroy missions. Target Intel is a new currency for players to spend in order to gain access to High Value Target missions.  
+After taking out the various groups of level 30 enemies, return to the Safe House to acquire _Target Intel_ as a reward for completing Search and Destroy missions. Target Intel is a new currency for players to spend in order to gain access to High Value Target missions.  
 
 ### High Value Targets
 
@@ -59,7 +59,7 @@ High Risk Targets are simular to High Value Targets, but their difficulty is muc
 
 ### Clear Sky Incursion
 
-But the centerpiece of the patch is the new Incursion, Clear Sky, in Columbus Circle where players fight to take back an anti-air missile site. Securing the Manattan airspace needs your help Agent, the overwhelming force of Rikers are holding the SAM System in Times Square - disable it. You must be a level 30, and have completed the "General Assembly" Mission. Be aware that this incursion is balanced for 4-players with high level gear.
+The centerpiece of the patch is the new Incursion, Clear Sky, in Columbus Circle where players fight to take back an anti-air missile site. Securing the Manhattan airspace needs your help Agent, the overwhelming force of Rikers are holding the SAM System in Times Square - disable it. You must be a level 30, and have completed the "General Assembly" Mission. Be aware that this incursion is balanced for 4-players with high level gear.
 
 Hard mode is available now, but Challenge mode isn't coming until later.
 
@@ -75,14 +75,14 @@ The Dark Zone get even higher stakes with risk and rewards.
 
 > “it’s like opening a birthday present, you never know what’s inside until it’s unwrapped!” says Terry Spier.
 
-Deciding what to extract from the Dark Zone will now require some careful consideration as players can now pickup new mystery reward loot items, called "Sealed Caches", from NPCs specifically _Named Enemies_ and _Named Elites in the Dark Zone. The difficulty of the NPCs has a direct correlation with the items in the dropped sealed caches. The contents of the Sealed Cache will not be revealed until the seal cache is successfully extracted and transferred into the player's inventory. Inside these Sealed Caches can contain any of the four (4) qualities:
+Deciding what to extract from the Dark Zone will now require some careful consideration as players can now pickup new mystery reward loot items, called "Sealed Caches", from NPCs specifically _Named Enemies_ and _Named Elites_ in the Dark Zone. The difficulty of the NPCs has a direct correlation with the items in the dropped sealed caches. The contents of the Sealed Cache will not be revealed until the seal cache is successfully extracted and transferred into the player's inventory. Inside these Sealed Caches can contain any of the four (4) qualities:
 
 * Specialized
 * Superior
 * High End
 * Gear Set
 
-### Stash made it way to the DZ
+### Stash made its way to the DZ
 
 Stashes are available in the Base of Operations, in every Safe House, and now at **every** Dark Zone checkpoint eliminating the need to leave the DZ and fast traveling.
 
@@ -90,7 +90,7 @@ Stashes are available in the Base of Operations, in every Safe House, and now at
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/126304189@N08/26982128840/in/dateposted-public/" title="The_Division_Hijack_Extraction"><img src="https://c1.staticflickr.com/8/7517/26982128840_14b5b7c4ca_z.jpg" width="640" height="330" alt="The_Division_Hijack_Extraction"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-Extracting gear in the Dark Zone will be even more intense and will require players to continue to fight off attacks even after their loot is attached to the rope. Opposing players can interupt the ongoing extration by cutting the extraction rope, causing all secured items to drop to floor, and all the loot items will be publicly available as a massive free-for-all to anyone in the extration area. With this will add a new level of uncertainty, can make each adrenaline rush-filled extraction building excitement with all eyes on surrounding Agents. Hijacking an extraction, by severing the rope, will instantly make you rogue!
+Extracting gear in the Dark Zone will be even more intense and will require players to continue to fight off attacks even after their loot is attached to the rope. Opposing players can interupt the ongoing extration by cutting the extraction rope, causing all secured items to drop to floor. Like candy from an exploded piñata, all the loot items will be publicly available as a massive free-for-all to anyone in the extration area. With this update, it will add a new level of uncertainty, can make each adrenaline rush-filled extraction building excitement with all eyes on surrounding Agents. Hijacking an extraction, by severing the rope, will instantly make you rogue!
 
 ## New Gear Sets:
 
