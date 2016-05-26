@@ -22,7 +22,7 @@ Bungie had its 2nd of the 3 Twitch streams related to the upcoming [April Update
 
 The opening 30 seconds of the stream was a torrent of clips and pictures of what's coming in the April Update. After the opening montage, DeeJ appeared on screen with two other Bungie employees - Keith Bachman and Brenton Woodrow. They discussed their contributions to the April update and what they did to _Takenize_ the new Destiny content. Bungie again made a point to stress that the April Update will give players "16 weeks of new content" to play. [^330903] The walk through began with a trip back to the Reef.
 
-####New Armor
+#### New Armor
 The new content reveal was kicked off with a little bit of a fashion show. Each faction is getting a full set of new armor for each character class. The height of the fashion show was when DeeJ revealed two new armor types. 
 
 __Spektar__ This is a new line of armor and is style of armor we saw on the Titan in the pre-release images from Bungie. The armor has smoother, more modern lines and is accentuated by the glowing outlines Bungie called _chroma_. There's more detail on the new chroma feature below.
@@ -37,7 +37,7 @@ __Desolute__ This is the new line of armor that makes your Guardian look like th
 
 Side note: I can just imagine having a fire team running a King's Fall Raid in Desolute armor. 
 
-####The Red Buttons
+#### The Red Buttons
 In the previous Twitch stream we saw some red buttons on one of the weapons the Bungie fire team won in the Challenge of the Elders. This week DeeJ and crew explained what these are and how they work in the stream. New weapons and armor that drop as part of the April Update will include a new chroma perk tree. Think of it as the glowing lights on objects in Tron. [^39428]
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/126304189@N08/25561417933/in/pool-2665468@N24/" title="spektar_chroma_0"><img src="https://farm2.staticflickr.com/1654/25561417933_510a9bac4e_z.jpg" width="640" height="350" alt="spektar_chroma_0"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
@@ -66,7 +66,7 @@ You can change the color of item by re-rolling the chroma perk for 100 glimmer. 
 
 The chroma effect will work similarly for weapons included in the April Update. 
 
-####Sterling Treasure 
+#### Sterling Treasure 
 The two new armor styles, Spektar and Desolation, come from a new source called a Sterling Treasure box.
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/126304189@N08/26097717601/in/pool-2665468@N24/" title="Screen_Shot_2016-03-30_at_9.56.45_PM"><img src="https://farm2.staticflickr.com/1598/26097717601_a1107e2b49_z.jpg" width="609" height="341" alt="Screen_Shot_2016-03-30_at_9.56.45_PM"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
@@ -79,7 +79,7 @@ For those who are impatient, you can purchase a Sterling Treasure box for 200 Si
 
 One item that is an optional drop from a Sterling Treasure box is a reputation booster pack. These packs will allow you to more rapidly boost your Vanguard, Crucible or House Judgement rank for you and your team for 2 hours.
 
-####New Weapons
+#### New Weapons
 Bungie briefly went over some Y1 weapons that coming forward. A [Destiny Reddit](https://www.reddit.com/r/DestinyTheGame/comments/4cmw25/revealed_updated_year_1_guns_and_their_modern/) thread has a breakdown of what weapons are getting pulled into Y2:
 
 * Shadow Price
@@ -112,7 +112,7 @@ A new Taken sword was also shown off and details on how to get the sword were no
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/126304189@N08/25561418233/in/pool-2665468@N24/" title="Screen_Shot_2016-03-30_at_1.47.31_PM"><img src="https://farm2.staticflickr.com/1677/25561418233_abf5511a5a_z.jpg" width="640" height="316" alt="Screen_Shot_2016-03-30_at_1.47.31_PM"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-####Updated Exotics
+#### Updated Exotics
 One part of the April Update that Bungie didn't show on the stream was the Y1 exotics that are coming to Y2. The current list revealed by Bungie includes:
 
 * Helmets
@@ -136,10 +136,10 @@ Out of all the Y1 → Y2 releases, _Patience and Time_ and _Universal Remote_ ap
 
 There was also a sigh of relief (and disappointment) that it appears we won't see Thorn or Gjallarhorn get Y2 updates. 
 
-####Infusion Mode
+#### Infusion Mode
 Probably the biggest change that hadn't been previously revealed was Bungie's change to how gear infusion will work. After the April Update, infused gear will get a 1:1 Light Level (LL) upgrade. So if you have a piece of Spektar armor, which drops at LL 3 by the way, and have a piece of LL 298. You can infuse the LL 298 gear into the LL 3 Spektar item and walk away with a piece of LL 298 Spektar armor.
 
-####Other new items
+#### Other new items
 After all the other goodies that DeeJ and the gang showed us, they let us know there are few other new goodies to work towards:
 
 * Ships: 3 new ships, one of which is Takenized will be available in the Sterling Treasure boxes. <a data-flickr-embed="true"  href="https://www.flickr.com/photos/126304189@N08/26138118606/in/pool-2665468@N24/" title="april_update_ship_taken"><img src="https://farm2.staticflickr.com/1646/26138118606_eb6f940bf0_z.jpg" width="640" height="360" alt="april_update_ship_taken"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
@@ -150,7 +150,7 @@ After all the other goodies that DeeJ and the gang showed us, they let us know t
  
 * Emotes: Several new emotes will be available from the Eververse Trading Company. <a data-flickr-embed="true"  href="https://www.flickr.com/photos/126304189@N08/25561418313/in/pool-2665468@N24/" title="Screen_Shot_2016-03-30_at_11.34.29_PM"><img src="https://farm2.staticflickr.com/1559/25561418313_49a16600c9_z.jpg" width="612" height="342" alt="Screen_Shot_2016-03-30_at_11.34.29_PM"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script> <a data-flickr-embed="true"  href="https://www.flickr.com/photos/126304189@N08/25561635193/in/dateposted-public/" title="Screen_Shot_2016-03-30_at_11.32.46_PM"><img src="https://farm2.staticflickr.com/1498/25561635193_3ba7e9ba21_z.jpg" width="607" height="344" alt="Screen_Shot_2016-03-30_at_11.32.46_PM"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
  
-####Where to get new gear
+#### Where to get new gear
 So now that we know about all the new stuff coming on April 12, where can you get it? Here are the player activities that Guardians can do to get some of the new goodies.
 
 Items up to LL 320 Gear:
@@ -169,14 +169,14 @@ Item up to LL 335 Gear:
 * Exotic Engrams
 * Court of Oryx (Artifacts only)
 
-####Expanded Vault Space
+#### Expanded Vault Space
 Bungie heard our cries and they have added an additional page of vault space for all items - Weapons, Armor, and General. This will be updated after you download and apply the patch to your console. 
 
-####Minor Housekeeping
+#### Minor Housekeeping
 In the first stream, Bungie stated that Hard Mode King's Fall (Oryx Raid) will drop LL 330 gear. Bungie stated a small post patch will made to bring drops in MH King's Fall will be up to LL 335. This will not be available on April 12. The date for the post patch was not revealed. 
  
 
-####Next week - Sandbox & Crucible Updates
+#### Next week - Sandbox & Crucible Updates
 Bungie has one final Twitch stream before the April Update drops. Next week Bungie will cover 
 
 * Crucible - Changes and content updates related to Crucible and PVP.
