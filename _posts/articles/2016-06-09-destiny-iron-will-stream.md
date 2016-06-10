@@ -46,7 +46,7 @@ But Fallen have infiltrated that bunker and used the corrupted technology to aug
 
 It's up to the Guardians to go back into Old Russia and stop the spread of these corrupted Fallen. 
  
-#### New Gear | Old Gear
+#### New Gear - Old Gear
 With every Destiny update, there is always new gear to look forward too, and this DLC is no exception.	
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/126304189@N08/27475967622/in/dateposted-public/" title="newgear_newloot_RoI"><img src="https://c7.staticflickr.com/8/7352/27475967622_e108fb5410_z.jpg" width="640" height="359" alt="newgear_newloot_RoI"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
