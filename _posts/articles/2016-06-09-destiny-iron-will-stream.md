@@ -3,7 +3,7 @@ author: mygeekdaddy
 layout: post
 title: "Rise of Iron Bungie Stream"
 thumbnail: https://c1.staticflickr.com/8/7398/27476657952_19234a0bdb_o.jpg
-modified: 2016-06-09 20:00:00 -0700
+modified: 2016-06-10 02:00:00 -0700
 category: articles
 tags: [Destiny, Bungie, Twitch, Rise of Iron]
 image:
@@ -13,6 +13,7 @@ image:
 comments: true
 share: true
 ---
+
 
 Bungie originally released Destiny on Sep 9, 2014. The first downloadable content (DLC) for Destiny was The Dark Below expansion pack on Dec 9, 2014. The 2nd DLC released was House of Wolves on May 19, 2015. The Destiny calendar turned to Year 2 with the release of the The Taken King on Sep 15, 2015. 
 
