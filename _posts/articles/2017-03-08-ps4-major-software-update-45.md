@@ -120,7 +120,7 @@ Boost mode can be turned on with one checkbox in the System settings. This featu
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/126304189@N08/32944043220/in/dateposted-public/" title="PS4_Remote_Play_voice_Chat"><img src="https://c1.staticflickr.com/4/3780/32944043220_95f5e9af04_c.jpg" width="800" height="450" alt="PS4_Remote_Play_voice_Chat"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-A new microphone icon on the Tool Bar of the Remote Play App, switches your mic on and off. This great when...
+A new microphone icon on the Tool Bar of the Remote Play App, switches your mic on and off. This great when doing a quick game session with friends while you're away from your console. Or you want to add your party chat voices into your stream if you don't have a capture card. 
 
 ### Off Console Availability
 
