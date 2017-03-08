@@ -124,15 +124,13 @@ A new microphone icon on the Tool Bar of the Remote Play App, switches your mic 
 
 ### Off Console Availability
 
-indicates a player is logged into PSN but away from their system.
+Indicates a player is logged into PSN but away from their system. The icon will resemble a mobile phone.
 
 ### Improved resolution on 2D images in PS VR
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/126304189@N08/33326616635/in/dateposted-public/" title="playstation-vr-screen-size"><img src="https://c1.staticflickr.com/3/2894/33326616635_681f559260_z.jpg" width="555" height="328" alt="playstation-vr-screen-size"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-resolution of the system screen displayed on your TV is significantly better when you’re out of VR mode.
-
-the resolution of Cinematic Mode on PS VR will improve — if your PS VR screen size is set to Small or Medium, the frame rate of content viewed in Cinematic Mode goes up from 90Hz to 120Hz with this update.
+The resolution of the system screen displayed on your TV is significantly better when you’re out of VR mode. Improvements to the Cinematic Mode on PS VR goes up from 90Hz to 120Hz with this update — PS VR screen size that is set to Small or Medium, will benefit from the increased frame rate of content viewed in Cinematic Mode.
 
 ### 3D Blu-rays on PlayStation VR
 
