@@ -136,6 +136,6 @@ The resolution of the system screen displayed on your TV is significantly better
 
 <a data-flickr-embed="true"  href="https://www.flickr.com/photos/126304189@N08/33326616555/in/dateposted-public/" title="playstation-virtual-reality"><img src="https://c1.staticflickr.com/3/2881/33326616555_64cc9c45e9_z.jpg" width="640" height="320" alt="playstation-virtual-reality"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
-If you’re a fan of 3D movies, and you own PlayStation VR, we’ve got good news — this update adds the ability to view 3D movies in stereoscopic 3D directly on the PS VR headset. Grab some popcorn and enjoy!
+If you’re a fan of 3D movies, and you own PlayStation VR, we’ve got good news — this update adds the ability to view 3D movies in stereoscopic 3D directly on the PS VR headset. Time to make some popcorn and enjoy our 3D movies!
 
 [Buy PlayStation VR](https://www.amazon.com/gp/product/B01N36E1XT/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B01N36E1XT&linkCode=as2&tag=dadgam-20&linkId=7693871b5080591640fa47be8c268ee0)
