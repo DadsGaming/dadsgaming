@@ -50,13 +50,17 @@ Customize your pop-up notifications that appear on your screen so you're only no
 
 ### PS Messages and Communities app Updates
 
-<a data-flickr-embed="true"  href="https://www.flickr.com/photos/126304189@N08/33199517571/in/dateposted-public/" title="PS4_messages_communities"><img src="https://c1.staticflickr.com/1/605/33199517571_0e6282893d_n.jpg" width="180" height="320" alt="PS4_messages_communities"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script> <a data-flickr-embed="true"  href="https://www.flickr.com/photos/126304189@N08/33190502442/in/dateposted-public/" title="PlayStationMessages_4.5"><img src="https://c1.staticflickr.com/1/590/33190502442_7ca5f0ca74_n.jpg" width="320" height="286" alt="PlayStationMessages_4.5"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script> <a data-flickr-embed="true"  href="https://www.flickr.com/photos/126304189@N08/33190502522/in/dateposted-public/" title="PlayStationCommunities_4.5"><img src="https://c1.staticflickr.com/3/2827/33190502522_b2ef0a5011_n.jpg" width="320" height="145" alt="PlayStationCommunities_4.5"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/126304189@N08/33199517571/in/dateposted-public/" title="PS4_messages_communities"><img src="https://c1.staticflickr.com/1/605/33199517571_0e6282893d_n.jpg" width="180" height="320" alt="PS4_messages_communities"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script> 
 
 ##### PS Messages App(Android/iOS):
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/126304189@N08/33190502442/in/dateposted-public/" title="PlayStationMessages_4.5"><img src="https://c1.staticflickr.com/1/590/33190502442_7ca5f0ca74_n.jpg" width="320" height="286" alt="PlayStationMessages_4.5"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script> 
 
 New quick replies to your friends: “I’ll join later” or “Sorry, I can’t join,” 
 
 ##### PS Communities App (Android/iOS)
+
+<a data-flickr-embed="true"  href="https://www.flickr.com/photos/126304189@N08/33190502522/in/dateposted-public/" title="PlayStationCommunities_4.5"><img src="https://c1.staticflickr.com/3/2827/33190502522_b2ef0a5011.jpg" width="500" height="226" alt="PlayStationCommunities_4.5"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 New Badge app icon (the number in a red circle at the top-right corner of the app’s icon) help iOS users tell at-a-glance if there are any new posts in their community.
 
