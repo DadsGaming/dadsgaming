@@ -57,6 +57,20 @@ Tibiryus:
     #plus: BillyRick
   about_blurb: "I am an amateur tactician and I love to make military games as real as possible so when I get the opportunity, the difficulty is set to high, the HUD is minimized and I play as though my life depends on it."
 
+StellarKoala:
+  name: StellarKoala
+  web: https://stellarkoala.wordpress.com
+  #email: billy@rick.com
+  #bio: "What do you want, jewels? I am a very extravagant man."
+  avatar: stellarkoala.png
+  #email: you@email.com
+  twitter: Tibiryus
+  #youtube: renovatio_42
+  #twitch: renovatio_42
+  #google:
+    #plus: BillyRick
+  about_blurb: "Stellar enjoys long walks on Shores Of Time, Colorado craft beer, and sleeping past 7 A.M."
+
 cypher:
   name: Cypher
   avatar: bio-photo.jpg
