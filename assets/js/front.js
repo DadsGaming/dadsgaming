@@ -39,7 +39,8 @@ function sliders() {
             items: 4,
             itemsDesktopSmall: [1170, 3],
             itemsTablet: [970, 2],
-            itemsMobile: [750, 1]
+            itemsMobile: [750, 1],
+			autoPlay: 10000
         });
     }
 
