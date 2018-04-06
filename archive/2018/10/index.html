@@ -4,7 +4,11 @@ title: Archive
 background-image: s-1.jpg
 ---
 		
-{% for post in page.posts %}
+{% for post in site.posts %}
+	{% capture current_year %}{{ post.date | date: "%Y" }}{% endcapture %}
+	  {% if current_year == "2018" %}
+		{% capture current_month %}{{ post.date | date: "%m" }}{% endcapture %}
+		  {% if current_month == "10" %}
 
 <!--article-->
 <article class="col-md-12 wow fadeInUp">
@@ -15,5 +19,7 @@ background-image: s-1.jpg
   <a class="btn  readmore-btn" href="{{post.url}}">READ MORE</a>
 </article>
 <!--/article-->
+		  {% endif %}
+	  {% endif %}
     
 {% endfor %}
