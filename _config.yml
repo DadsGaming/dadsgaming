@@ -20,6 +20,8 @@ description: Community for Dads Gaming
 baseurl: # the subpath of your site, e.g. /blog
 url:  # the base hostname & protocol for your site, e.g. http://example.com
 favicon: '/img/favicon.ico'
+gems:
+  - jekyll-sitemap
 meta_keywords: "dads, dadsgaming, dads gaming, video games, videogames, games, consoles, xbox, xbox one, xbox one x, scorpio, playstation, PlayStation 4, ps4, ps4 pro, nintento, switch, co-op, multiplayer, matchmaking, lfg, fps, First Person Shooter, Battlefield, Call of Duty, Call of Duty Black Ops IIII, Call of Duty World War II, Call of Duty WWII, Destiny, Destiny 2, Halo, Killzone, Fighting, Street Fighter, For Honor, Fortnite, Ghost Recon, RainbowSix Siege, Rainbow Six Siege, Rainbow 6 Siege, SMITE, Tekken, Killer Instinct, Mortal Kombat, Racing, Forza, Gran Turismo, Need for Speed, RPG, League of Legends, The Division, Dota, MMO, The Crew, NeverWinter, Music/Rhythm, Garage Band, Guitar Hero, Dance Dance Revolution, Platforming, Knack, Last of Us, LittleBigPlanet, Rayman Legends, Red Dead Redemption, Red Dead Redemption 2, Overwatch, Puzzle, Peggle, Unravel, Valiant Hearts, Sports, Madden, Uncharted, FIFA, Survival Horror, Evil Within, Resident Evil, Alien Isolation, Titanfall, Star Wars, Zelda, SMITE, Rocket League, Playerunknown Battlegrounds, Player Unknown Battlegrounds, PUBG, Paladins, Mass Effect, Ghost Recon Wildlands, Far Cry, Aassasins Creed, Laura Croft, Monster Hunter, MLB The Show"
 meta_description: "Surround yourself with fellow, like-minded, Dads who understand that family comes first, they have limited game time, and want to make the most out it! "
 google_analytics: 'UA-53292793-1'
