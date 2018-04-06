@@ -9,7 +9,7 @@ tags:
  - halo-5
  - giveaway
  - xbox-one
- - 343
+ - three-four-three
  - overdog
 image: 2016-12-26.jpg
 comments: true

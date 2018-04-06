@@ -9,7 +9,7 @@ tags:
  - beta
  - destiny
  - take-aways
- - 343
+ - three-four-three
 image: 2014-07-10.jpg
 comments: true
 share: true
