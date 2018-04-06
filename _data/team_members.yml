@@ -14,7 +14,7 @@
 
 - name: LesGetGaming
   display_name: LesGetGaming
-  avatar: lesgetgaming.jpg
+  avatar: LesGetGaming.jpg
   section: top
   title: Creative Strategist
   role: Creative Strategist, Admin
@@ -25,7 +25,7 @@
 
 - name: mitragliatrice
   display_name: Mitragliatrice
-  avatar: mitragliatrice.jpg
+  avatar: Mitragliatrice.jpg
   section: top
   title: "Streaming Manager"
   role: Streaming Manager, Admin
@@ -45,7 +45,7 @@
 
 - name: AceSuderman
   display_name: AceSuderman
-  avatar: acesuderman.jpg
+  avatar: AceSuderman.jpg
   title: Community Manager, Reddit Mod
   role: Community Manager, Stream Team, Reddit Moderator
   twitter: AceSuderman
