@@ -1,0 +1,48 @@
+<!--Archives start-->
+
+<section class="widget widget_archive  wow fadeInUp">
+  <h2 class="widget-title">Archives</h2>
+  <div class="dropdown">
+      <button class="btn btn-info dropdown-toggle" type="button" data-toggle="dropdown">Select Month
+      <span class="caret"></span></button>
+      <ul class="dropdown-menu">
+        {% assign cYear = "" %}
+        {% assign cMonth = "" %}
+        {% assign posts = site.posts | sort: 'date' | reverse %}
+        {% assign first = posts | first %}
+        {% assign cMonthName = "" %}
+        {% assign cMonthLink = "" %}
+        {% assign count = 0 %}
+        
+        {% for post in posts %}
+          {% assign count = count | plus: 1 %}
+          {% assign year = (post.date | date: '%Y') %}
+          {% assign month = post.date | date: '%Y-%m' %}
+          {% if year != cYear %}
+            {% if cYear != "" %}
+              <a href="{{cMonthLink | prepend: "/archive" | prepend: site.baseurl}}">&nbsp;&nbsp;{{cMonthName}}</a> ({{count | minus: 1}})</li></ul></li><li>
+              {% assign count = 1 %}
+            {% endif %}
+            &nbsp;{{year}}<ul><li>
+            {% assign cMonth = "" %}
+            {% assign cYear = year %}
+          {% endif %}
+        
+          {% if month != cMonth %}
+            {% if cMonth != "" %}
+              <a href="{{cMonthLink | prepend: "/archive" | prepend: site.baseurl}}">&nbsp;&nbsp;{{cMonthName}}</a> ({{count | minus: 1}})</li><li>
+              {% assign count = 1 %}
+            {% endif %}
+            {% assign cMonth = month %}
+          {% endif %}
+          {% assign cMonthName = post.date | date: '%B' %}
+          {% assign cMonthLink = post.date | date: '/%Y/%m' %}
+        {% endfor %}
+        <a href="{{cMonthLink | prepend: "/archive" | prepend: site.baseurl}}">&nbsp;&nbsp;{{cMonthName}}</a> ({{count}})
+  </li>
+  </ul>
+  </li>
+  </ul>
+</section>
+
+<!--Archives end--> 

@@ -1,0 +1,67 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+title: Dads Gaming
+email: your-email@example.com
+description: Community for Dads Gaming
+#paginate: 5
+baseurl: # the subpath of your site, e.g. /blog
+url:  # the base hostname & protocol for your site, e.g. http://example.com
+favicon: '/img/favicon.ico'
+meta_keywords: "dads, dadsgaming, dads gaming, video games, videogames, games, consoles, xbox, xbox one, xbox one x, scorpio, playstation, PlayStation 4, ps4, ps4 pro, nintento, switch, co-op, multiplayer, matchmaking, lfg, fps, First Person Shooter, Battlefield, Call of Duty, Call of Duty Black Ops IIII, Call of Duty World War II, Call of Duty WWII, Destiny, Destiny 2, Halo, Killzone, Fighting, Street Fighter, For Honor, Fortnite, Ghost Recon, RainbowSix Siege, Rainbow Six Siege, Rainbow 6 Siege, SMITE, Tekken, Killer Instinct, Mortal Kombat, Racing, Forza, Gran Turismo, Need for Speed, RPG, League of Legends, The Division, Dota, MMO, The Crew, NeverWinter, Music/Rhythm, Garage Band, Guitar Hero, Dance Dance Revolution, Platforming, Knack, Last of Us, LittleBigPlanet, Rayman Legends, Red Dead Redemption, Red Dead Redemption 2, Overwatch, Puzzle, Peggle, Unravel, Valiant Hearts, Sports, Madden, Uncharted, FIFA, Survival Horror, Evil Within, Resident Evil, Alien Isolation, Titanfall, Star Wars, Zelda, SMITE, Rocket League, Playerunknown Battlegrounds, Player Unknown Battlegrounds, PUBG, Paladins, Mass Effect, Ghost Recon Wildlands, Far Cry, Aassasins Creed, Laura Croft, Monster Hunter, MLB The Show"
+meta_description: "Surround yourself with fellow, like-minded, Dads who understand that family comes first, they have limited game time, and want to make the most out it! "
+google_analytics: 'UA-53292793-1'
+disqus: 'dadsgaming'
+sharethis: '<script type="text/javascript" src="//platform-api.sharethis.com/js/sharethis.js#property=5a6b2fe4fb197a0011c589f6&product=sticky-share-buttons"></script>'
+twitter_username: jekyllrb
+github_username:  jekyll
+
+# Build settings
+#markdown: kramdown
+#theme: minima
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-archives
+
+# Archives
+jekyll-archives:
+  enabled:
+    - categories
+    - tags
+    - month
+  layout: archive
+  permalinks:
+    category: '/category/:name/'
+    tag: '/tag/:name/'
+    month: '/archive/:year/:month/'
+
+#permalink: /:categories/:year/:month/:day/:title/
+permalink: pretty
+
+paginate: 5
+paginate_path: "/blog/page:num/"
+
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/

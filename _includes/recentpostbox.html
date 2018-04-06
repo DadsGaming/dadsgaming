@@ -1,0 +1,14 @@
+<!--Recent posts start-->
+
+<section  class="widget  widget_recent_entries  wow fadeInUp ">
+  <h2 class="widget-title">Recent posts</h2>
+  <ul class="media-list main-list">
+	{% for post in site.posts limit:3 %}
+    <li class="media"> <a class="" href="{{post.url}}"> <img class="media-object" src="/img/post/{{post.image}}" alt="..."> </a>
+      <div class="media-body">
+        <p class="media-heading"><a href="{{post.url}}">{{post.title}}</a> </p>
+      </div>
+    </li>
+	{% endfor %}
+  </ul>
+</section

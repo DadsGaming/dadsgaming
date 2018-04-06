@@ -1,0 +1,84 @@
+{% include header.html %}
+
+<!-- banner Page
+    ==========================================-->
+
+<div id="page-banner" style="background-image: url(/img/s-3.jpg">
+  <div class="content wow fdeInUp" style="visibility: visible; animation-name: fdeInUp;">
+    <div class="container">
+      <h1>{{ page.type }} '{{ page.title }}'</h1>
+    </div>
+  </div>
+</div>
+
+<!--blog body-->
+<div id="Blog-post">
+  <div class="container">
+    <div class="row"> 
+      <!--blog posts container-->
+      <div class="col-md-8 col-sm-12 single-post"> 
+		  
+		
+        {{ content }}
+		
+        
+        <div class="clearfix"></div>
+        
+{% include pagination.html %}
+		
+      </div>
+      <!--blog posts container--> 
+      
+      <!--aside-->
+      <aside class="col-md-4 col-sm-12"> 
+        
+        <!--Search-->
+        <section class="widget widget_search wow fadeInUp">
+          
+        </section>
+        <!--/Search--> 
+		
+        <section class="widget widget_social sidebar  wow fadeInUp">
+          <h2 class="widget-title">Social</h2>
+		  <ul>
+            {% include social.html %}
+		  </ul>
+        </section>
+		
+        <!--ad -->
+		
+        {% include amazon_home.html %}
+        
+		<!--ad end-->
+		
+        {% include categorybox.html %}
+		
+        {% include archivebox.html %}
+        
+        {% include recentpostbox.html %}
+        
+        <!--ad -->
+		
+        <section class="widget"><iframe src="//rcm-na.amazon-adsystem.com/e/cm?o=1&p=12&l=ur1&category=twitchprime&banner=025E4WXKK5G4EXYGDD02&f=ifr&linkID=79d0b15113798f8c5cf7fca7577fe079&t=dadsgamingus-20&tracking_id=dadsgamingus-20" width="300" height="250" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe></section>
+        
+		<!--ad end--> 
+        
+        <!--Recent posts end-->
+        
+        <section class="widget widget_social sidebar  wow fadeInUp">
+          <h2 class="widget-title">Social</h2>
+		  <ul>
+            {% include social.html %}
+		  </ul>
+        </section>
+        
+      </aside>
+      <!--aside-->
+      
+      <div class="clearfix"></div>
+    </div>
+  </div>
+</div>
+
+{% include amazon_mobile.html %}
+{% include footer.html %}

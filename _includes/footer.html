@@ -1,0 +1,100 @@
+<!-- Footer
+    ==========================================-->
+
+<footer class="bottom-footer">
+  <div class="container">
+    <div class="row"> 
+      
+      <!--site details-->
+      <div class="col-md-3 col-sm-12 col-xs-12 site-identity"> <a class="navbar-brand" href="index.html">Dads Gaming</a>
+        <p>Follow us!</p>
+        <ul class="socio">
+          {% include social.html %}
+        </ul>
+      </div>
+      <!--/site details--> 
+      
+      <!--col-1-->
+      <div class="col-md-2 col-sm-4 col-xs-4 root-widget">
+        <h6>Site</h6>
+        <ul>
+          <li><a href="/about">About us</a></li>
+          <li><a href="/team">Team</a></li>
+          <li><a href="#">Contact us</a></li>
+          <li><a href="/blog">Blog</a></li>
+          <li><a href="/register">Register</a></li>
+        </ul>
+      </div>
+      <!--/col-1--> 
+      
+      <!--col-2-->
+      <div class="col-md-2 col-sm-4 col-xs-4 root-widget">
+        <h6>Categories</h6>
+        <ul>
+		  {% assign tags_list = site.categories %}  
+		    {% if tags_list.first[0] == null %}
+		      {% for tag in tags_list %} 
+		        <li><a href="{{ site.baseurl }}/category/{{ tag[0] | slugify }}/">{{ tag | capitalize }} </a></li>
+		      {% endfor %}
+		    {% else %}
+		      {% for tag in tags_list %} 
+		        <li><a href="{{ site.baseurl }}/category/{{ tag[0] | slugify }}/">{{ tag[0] | capitalize }} </span></a></li>
+		      {% endfor %}
+		    {% endif %}
+		  {% assign tags_list = nil %}
+        </ul>
+      </div>
+      <!--/col-2--> 
+      <!--col-3-->
+      <div class="col-md-2 col-sm-4 col-xs-4 root-widget">
+        <h6>Shop</h6>
+        <ul>
+          <li><a href="{{ site.baseurl }}/merchandise/">Merchandise</a></li>
+		  <li><a href="https://www.amazon.com/shop/dadsgaming" target="_blank">Amazon</a></li>
+          <li><a href="https://teespring.com/stores/dads-gaming" target="_blank">TeeSpring</a></li>
+          <li><a href="http://www.condemnedcustoms.com" target="_blank">Condemned Customs</a></li>
+          <li><a href="http://lddy.no/32ty" target="_blank">JerkyXP</a></li>
+          <li><a href="/support">Support Us</a></li>
+        </ul>
+      </div>
+	  
+      <!--/col-3--> 
+      
+      <!--Subscribe-->
+      <div class="col-md-3 col-sm-12 col-xs-12  subcribe-block">
+        <h6>Register</h6>
+        <p>Join today!</p>
+	     <div class="row wow fadeInUp">
+          <a class="btn btn-outline-default wow fadeInRight" href="/register/">Register</a> </div>
+      </div>
+      <!--/Subscribe--> 
+      <div class="col-md-12"><p class="copyright">© 2018 <a href="http://dadsgaming.com/">dadsgaming.com</a>. All rights reserved</p></div>
+    </div>
+  </div>
+</footer>
+
+<!-- jQuery (necessary for Bootstrap's JavaScript plugins) --> 
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script> 
+<!-- Include all compiled plugins (below), or include individual files as needed --> 
+<script type="text/javascript" src="/assets/js/bootstrap.js"></script> 
+<script type="text/javascript" src="/assets/js/SmoothScroll.js"></script> 
+<script type="text/javascript" src="/assets/js/jquery.isotope.js"></script> 
+<script src="/assets/js/owl.carousel.js"></script> 
+<script src="/assets/js/jquery.waypoints.min.js"></script> 
+<!-- Custom Javascripts
+    ================================================== --> 
+<script type="text/javascript" src="/assets/js/main.js"></script> 
+<script src="/assets/js/wow.min.js"></script> 
+<script>
+    jQuery(document).ready(function( $ ) {
+        $('.counter').counterUp({
+            delay: 10,
+            time: 1000
+        });
+    });
+</script> 
+<script>
+new WOW().init();
+</script>
+</body>
+</html>

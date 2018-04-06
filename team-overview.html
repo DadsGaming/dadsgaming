@@ -1,0 +1,140 @@
+---
+layout: page
+title:  "Team"
+comments: false
+background-image: s-4.jpg
+permalink: /team/
+---
+<center><h1>Our Team</h1></center>
+
+<!--==========================
+  Team Section
+============================-->
+<section id="team">
+  <div class="container wow fadeInUp">
+    <div class="section-header">
+      <h3 class="section-title"></h3>
+      <p class="section-description"></p>
+    </div>
+    <div class="row">
+	 {% for member in site.data.team_members %}
+
+	 	{% if member.role contains 'Admin' %}
+
+	 	<p class="section-description"></p>
+	       <div class="col-lg-3 col-md-6">
+	         <div class="member">
+	           <div class="pic"><img src="/img/team/{{ member.avatar }}" alt="" class="img-responsive"></div>
+	           <h4>{{ member.name }}</h4>
+	           <span>{{ member.title }}</span>
+	           <div class="social">
+	             <a href="http://discord.dadsgaming.com" target="_blank"><i class="fab fa-discord"></i></a>
+	 			{% if member.twitter %}
+	 			<a href="https://twitter.com/{{ member.twitter }}" target="_blank"><i class="fab fa-twitter"></i></a>
+	 			{% endif %}
+	 			{% if member.twitch %}
+	 			<a href="https://twitch.tv/{{ member.twitch }}" target="_blank"><i class="fab fa-twitch"></i></a>
+	 			{% endif %}
+	 			{% if member.mixer %}
+	 			<a href="https://mixer.com/{{ member.mixer }}" target="_blank"><i class="fas fa-desktop"></i></i></a>
+	 			{% endif %}
+	           </div>
+	 		  <br />
+	 		  {{ member.bio }}
+	         </div>
+	       </div>
+	 	{% endif %}  
+	 {% endfor %}
+	    
+    </div>
+
+  </div>
+</section><!-- #team -->
+
+<!--==========================
+  Community Manager Section
+============================-->
+<section id="team2">
+  <div class="container wow fadeInUp">
+    <div class="section-header">
+      <h3 class="section-title">Community Managers</h3>
+      <p class="section-description"></p>
+    </div>
+    <div class="row">
+	  {% for member in site.data.team_members %}
+
+	  	{% if member.role contains 'Community Manager' %}
+
+	  	<p class="section-description"></p>
+	        <div class="col-lg-3 col-md-6">
+	          <div class="member">
+	            <div class="pic"><img src="/img/team/{{ member.avatar }}" alt="" class="img-responsive"></div>
+	            <h4>{{ member.name }}</h4>
+	            <span>{{ member.title }}</span>
+	            <div class="social">
+	              <a href="http://discord.dadsgaming.com" target="_blank"><i class="fab fa-discord"></i></a>
+	  			{% if member.twitter %}
+	  			<a href="https://twitter.com/{{ member.twitter }}" target="_blank"><i class="fab fa-twitter"></i></a>
+	  			{% endif %}
+	  			{% if member.twitch %}
+	  			<a href="https://twitch.tv/{{ member.twitch }}" target="_blank"><i class="fab fa-twitch"></i></a>
+	  			{% endif %}
+	  			{% if member.mixer %}
+	  			<a href="https://mixer.com/{{ member.mixer }}" target="_blank"><i class="fas fa-desktop"></i></i></a>
+	  			{% endif %}
+	            </div>
+	  		  <br />
+	  		  {{ member.bio }}
+			  <br />
+	          </div>
+	        </div>
+	  	{% endif %}  
+	  {% endfor %}
+  </div>
+</section><!-- #team -->
+
+
+<!--==========================
+  Moderators Section
+============================-->
+<section id="team3">
+  <div class="container wow fadeInUp">
+    <div class="section-header">
+      <h3 class="section-title">Moderators</h3>
+      <p class="section-description"></p>
+    </div>
+    <div class="row">
+	  {% for member in site.data.team_members %}
+
+	  	{% if member.role contains 'Moderator' %}
+
+	  	<p class="section-description"></p>
+	        <div class="col-lg-3 col-md-6">
+	          <div class="member">
+	            <div class="pic"><img src="/img/team/{{ member.avatar }}" alt="" class="img-responsive"></div>
+	            <h4>{{ member.name }}</h4>
+	            <span>{{ member.title }}</span>
+	            <div class="social">
+	              <a href="http://discord.dadsgaming.com" target="_blank"><i class="fab fa-discord"></i></a>
+	  			{% if member.twitter %}
+	  			<a href="https://twitter.com/{{ member.twitter }}" target="_blank"><i class="fab fa-twitter"></i></a>
+	  			{% endif %}
+	  			{% if member.twitch %}
+	  			<a href="https://twitch.tv/{{ member.twitch }}" target="_blank"><i class="fab fa-twitch"></i></a>
+	  			{% endif %}
+	  			{% if member.mixer %}
+	  			<a href="https://mixer.com/{{ member.mixer }}" target="_blank"><i class="fas fa-desktop"></i></i></a>
+	  			{% endif %}
+	            </div>
+	  		  <br />
+	  		  {{ member.bio }}
+			  <br />
+	          </div>
+	        </div>
+	  	{% endif %}  
+	  {% endfor %}
+
+  </div>
+</section><!-- #team -->
+	
+

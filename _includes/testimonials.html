@@ -1,0 +1,6 @@
+{% for testimonial in site.data.testimonials %}
+<div class="item"> <img src="img/member/{{ testimonial.image }}">
+  <p><strong>{{ testimonial.name }}</strong> {{ testimonial.twitter }}</p>
+  <h5>{{ testimonial.blurb }}</h5>
+</div>
+{% endfor %}
