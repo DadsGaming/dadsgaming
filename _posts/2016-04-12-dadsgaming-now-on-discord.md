@@ -7,16 +7,16 @@ modified: 2016-04-12 20:20:00 -0700
 category:
  - technology
 tags:
- - "discord"
- - "Xbox One"
- - "PS4"
- - "Chat"
- - "Voice"
- - "Party"
- - "Party Chat"
- - "cross-platform"
- - "mobile"
- - "app"
+ - discord
+ - xbox-one
+ - ps4
+ - chat
+ - voice
+ - party
+ - party-chat
+ - cross-platform
+ - mobile
+ - app
 image: 2016-04-12.jpg
 comments: true
 share: true

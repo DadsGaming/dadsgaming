@@ -6,9 +6,9 @@ modified: 2017-12-19 00:00:00 -0700
 category:
  - events
 tags:
- - "Titanfall 2"
- - "EA"
- - "Xbox One"
+ - titanfall-2
+ - ea
+ - xbox-one
 image: 2017-12-19.jpg
 comments: true
 share: true

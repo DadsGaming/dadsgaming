@@ -148,6 +148,7 @@ p a:hover {
 	font-weight: 600;
 }
 p.copyright {
+	float:left;
 	color:#fff;
 }
 .single .single-post h1, .single .single-post h2, .single .single-post h3, .single .single-post h4, .single .single-post h5, .single .single-post h6 {

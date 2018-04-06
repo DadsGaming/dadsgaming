@@ -6,12 +6,12 @@ modified: 2014-08-02 08:20:00 -0700
 category:
  - games
 tags:
- - "Call of Duty"
- - "Advanced Warefare"
- - "Collector Edition"
- - "First Look"
- - "PS4"
- - "Xbox One"
+ - call-of-duty
+ - advanced-warfare
+ - collector-edition
+ - first-look
+ - ps4
+ - xbox-one
 image: 2014-08-02.jpg
 comments: true
 share: true

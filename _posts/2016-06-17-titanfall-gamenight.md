@@ -6,11 +6,11 @@ modified: 2016-06-17 16:20:00 -0700
 category:
  - games
 tags:
- - "Titanfall"
- - "Xbox One"
- - "PC"
- - "YouTube"
- - "EA"
+ - titanfall
+ - xbox-one
+ - pc
+ - youtube
+ - ea
 image: 2016-06-17.jpg
 comments: true
 share: true

@@ -6,9 +6,9 @@ modified: 2015-09-11 8:20:00 -0700
 category:
  - games
 tags:
- - "Destiny"
- - "Destinty Reset Podcast"
- - "iTunes"
+ - destiny
+ - destinty-reset-podcast
+ - itunes
 image: 2015-09-11.jpg
 comments: true
 share: true

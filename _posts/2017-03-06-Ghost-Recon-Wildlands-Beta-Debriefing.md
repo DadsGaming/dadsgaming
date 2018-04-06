@@ -6,9 +6,9 @@ modified: 2017-03-06 06:07:00 -0700
 category:
  - games
 tags:
- - "Tom Clancy"
- - "Ghost Recon"
- - "Take Aways"
+ - tom-clancy
+ - ghost-recon
+ - take-aways
 image: 2017-03-06.jpg
 comments: true
 ---

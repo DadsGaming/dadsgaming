@@ -6,8 +6,8 @@ modified: 2017-03-08 06:07:00 -0700
 category:
  - games
 tags:
- - PS4
- - "Software Update"
+ - ps4
+ - software-update
 image: 2017-03-08.jpg
 comments: true
 ---

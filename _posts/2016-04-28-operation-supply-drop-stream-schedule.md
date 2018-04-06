@@ -6,9 +6,9 @@ modified: 2016-05-28 8:20:00 -0700
 category:
  - events
 tags:
- - "Operation Supply Drop"
- - "Charity"
- - "Stream Schedule"
+ - operation-supply-drop
+ - charity
+ - stream-schedule
 image: 2016-04-28.jpg
 comments: true
 share: true
@@ -36,7 +36,7 @@ Our Twitch Channel: [https://www.twitch.tv/TheDadsGaming](https://www.twitch.tv/
 |  4:00 PM - 6:00 PM 	| **WarbladeX** (*Xbox One*) - 	| 
 |  6:00 PM - 8:00 PM 	| **W3st** (*Xbox One*) - 	| 
 |  8:00 PM - 10:00 PM 	| **IlatzimepAho** (*PS4*) -	Star Wars Galaxies | 
-|  10:00 PM - 12:00 AM 	| **Passwatch** (*PS4*) - Destiny **w/ COZMO, Bungie Community Manager**	| 
+|  10:00 PM - 12:00 AM 	| **Passwatch** (*PS4*) - destiny **w/ COZMO, Bungie Community Manager**	| 
 
 ## Late Tonight's Schedule (Saturday, May 7th)
 

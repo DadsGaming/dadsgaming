@@ -6,8 +6,8 @@ modified: 2017-05-22 00:00:00 -0700
 category:
  - events
 tags:
- - Charity
- - "Operation Supply Drop"
+ - charity
+ - operation-supply-drop
 image: 2017-05-22.jpg
 comments: true
 share: true

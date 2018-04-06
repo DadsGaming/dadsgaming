@@ -6,11 +6,11 @@ modified: 2016-04-25 08:47:00 -0700
 category:
  - events
 tags:
- - Charity
- - "Tournament"
- - "Xbox One"
- - "Bungie"
- - Destiny
+ - charity
+ - tournament
+ - xbox-one
+ - bungie
+ - destiny
 image: 2016-04-25.jpg
 comments: true
 share: true

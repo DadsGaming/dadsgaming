@@ -6,10 +6,10 @@ modified: 2014-07-29 16:20:00 -0700
 category:
  - games
 tags:
- - "Call of Duty"
- - "Advanced Warfare"
- - "YouTube"
- - "First Look"
+ - call-of-duty
+ - advanced-warfare
+ - youtube
+ - first-look
 image: 2014-07-29.jpg
 comments: true
 share: true

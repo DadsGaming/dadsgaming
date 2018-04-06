@@ -7,11 +7,11 @@ modified: 2015-08-10 12:47:00 -0700
 category:
  - events
 tags:
- - "EA"
- - "Star Wars"
- - "Battlefront"
- - "Xbox One"
- - "PS4"
+ - ea
+ - star-wars
+ - battlefront
+ - xbox-one
+ - ps4
 image: 2015-08-10.jpg
 comments: true
 share: true

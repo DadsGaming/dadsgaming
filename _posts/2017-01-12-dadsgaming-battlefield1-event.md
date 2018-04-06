@@ -6,9 +6,9 @@ modified: 2017-01-12 00:00:00 -0700
 category:
  - events
 tags:
- - "Xbox One"
- - "Battlefield 1"
- - Dice
+ - xbox-one
+ - battlefield-1
+ - dice
 image: 2017-01-12.jpg
 comments: true
 share: true

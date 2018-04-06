@@ -6,11 +6,11 @@ modified: 2016-12-26 00:00:00 -0700
 category:
  - events
 tags:
- - "Halo 5"
- - "Giveaway"
- - "Xbox One"
- - "343"
- - Overdog
+ - halo-5
+ - giveaway
+ - xbox-one
+ - 343
+ - overdog
 image: 2016-12-26.jpg
 comments: true
 share: true

@@ -6,8 +6,8 @@ modified: 2015-10-16 8:20:00 -0700
 category:
  - games
 tags:
- - "Community"
- - "PS4"
+ - community
+ - ps4
 image: 2015-10-16.jpg
 comments: true
 share: true

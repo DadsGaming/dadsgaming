@@ -6,11 +6,11 @@ modified: 2015-04-20 12:47:00 -0700
 category:
  - events
 tags:
- - "Bungie"
- - "Destiny"
- - "Xbox One"
- - "PS4"
- - "Speed Run"
+ - bungie
+ - destiny
+ - xbox-one
+ - ps4
+ - speed-run
 image: 2015-04-20.jpg
 comments: true
 share: true

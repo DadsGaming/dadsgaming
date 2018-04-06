@@ -5,9 +5,9 @@ title: "Dads Gaming turns 3!"
 category:
  - games
 tags:
- - Anniversary
- - Member
- - "Turns 3"
+ - anniversary
+ - member
+ - turns-3
 image: 2017-07-18.png
 comments: true
 share: true

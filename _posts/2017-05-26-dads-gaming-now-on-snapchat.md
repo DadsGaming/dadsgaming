@@ -5,8 +5,8 @@ title: "Dads Gaming now on Snapchat!"
 category:
  - technology
 tags:
- - Snapchat
- - Technology
+ - snapchat
+ - technology
 image: 2017-05-26.jpg
 comments: true
 share: true

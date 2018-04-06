@@ -6,10 +6,10 @@ modified: 2015-08-10 12:47:00 -0700
 category:
  - events
 tags:
- - "Bungie"
- - "Destiny"
- - "Xbox One"
- - "PS4"
+ - bungie
+ - destiny
+ - xbox-one
+ - ps4
 image: 2015-08-10a.jpg
 comments: true
 share: true

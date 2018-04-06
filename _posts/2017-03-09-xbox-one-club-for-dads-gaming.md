@@ -6,8 +6,8 @@ modified: 2017-03-09 06:07:00 -0700
 category:
  - games
 tags:
- - Community
- - "Xbox One"
+ - community
+ - xbox-one
 image: 2017-03-09.jpg
 comments: true
 ---

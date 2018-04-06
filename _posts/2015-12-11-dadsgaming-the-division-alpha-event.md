@@ -6,9 +6,9 @@ modified: 2015-12-11 00:00:00 -0700
 category:
  - events
 tags:
- - "Tom Clancy"
- - "The Division"
- - "Xbox One"
+ - tom-clancy
+ - the-division
+ - xbox-one
 image: 2015-12-11.jpg
 comments: true
 share: true

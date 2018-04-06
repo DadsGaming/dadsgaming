@@ -6,9 +6,9 @@ modified: 2017-05-23 06:07:00 -0700
 category:
  - games
 tags:
- - Bungie
- - Destiny
- - "Take Aways"
+ - bungie
+ - destiny
+ - take-aways
 image: 2017-05-23.jpg
 comments: true
 share: true

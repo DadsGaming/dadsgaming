@@ -6,9 +6,9 @@ modified: 2016-06-10 02:00:00 -0700
 category:
  - games
 tags:
- - "Bungie"
- - "Destiny"
- - "Take Aways"
+ - bungie
+ - destiny
+ - take-aways
 image: 2016-06-09.jpg
 comments: true
 share: true

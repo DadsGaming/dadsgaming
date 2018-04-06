@@ -3,8 +3,20 @@ layout: blog
 title: Archive
 background-image: s-1.jpg
 ---
-		
-{% for post in site.date | date: "%-m" == 4 %}
+
+<ul class="tags">
+	
+{% assign sorted_tags = (site.tags | sort:0) %}
+{% for tag in sorted_tags %}
+	
+  {% assign t = tag | first %}
+  {% assign posts = tag | last %}
+  <li>{{t | downcase | replace:" ","-" }}</li>
+{% endfor %}
+</ul>
+
+{% for post in site.categories.technology %}
+
 
 <!--article-->
 <article class="col-md-12 wow fadeInUp">

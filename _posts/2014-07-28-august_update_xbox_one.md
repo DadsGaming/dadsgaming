@@ -6,7 +6,7 @@ modified: 2014-08-18 12:47:00 -0700
 category:
  - games
 tags:
- - "Xbox One"
+ - xbox-one
 image: 2014-07-28.jpg
 comments: true
 share: true

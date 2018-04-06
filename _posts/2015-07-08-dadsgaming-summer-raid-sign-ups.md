@@ -6,11 +6,11 @@ modified: 2015-07-09 12:47:00 -0700
 category:
  - events
 tags:
- - "Bungie"
- - "Destiny"
- - "Giveaway"
- - "PS4"
- - "Xbox One"
+ - bungie
+ - destiny
+ - giveaway
+ - ps4
+ - xbox-one
 image: 2015-07-09.jpg
 comments: true
 share: true

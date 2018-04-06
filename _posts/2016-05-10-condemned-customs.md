@@ -5,10 +5,10 @@ title: "Condemned Customs"
 category:
  - games
 tags:
- - "Condemned Customs"
- - "Giveaway"
- - "Xbox One"
- - "PS4"
+ - condemned-customs
+ - giveaway
+ - xbox-one
+ - ps4
 image: 2016-05-10.jpg
 comments: true
 share: true

@@ -6,10 +6,10 @@ modified: 2016-05-24 16:20:00 -0700
 category:
  - games
 tags:
- - "Massive"
- - "Tom Clancy"
- - "The Division"
- - "Take Aways"
+ - massive
+ - tom-clancy
+ - the-division
+ - take-aways
 image: 2016-05-24.jpg
 comments: true
 share: true

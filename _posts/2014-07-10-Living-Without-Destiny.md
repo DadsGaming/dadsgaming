@@ -6,10 +6,10 @@ modified: 2014-07-30 12:47:00 -0700
 category:
  - games
 tags:
- - "Beta"
- - "Destiny"
- - "Take Aways"
- - "343"
+ - beta
+ - destiny
+ - take-aways
+ - 343
 image: 2014-07-10.jpg
 comments: true
 share: true

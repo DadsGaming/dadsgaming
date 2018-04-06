@@ -5,9 +5,9 @@ title: "EA Access is Free for Xbox Live Gold Members on Xbox One"
 category:
  - games
 tags:
- - "EA Access"
- - "Xbox One"
- - "Free Trial"
+ - ea-access
+ - xbox-one
+ - free-trial
 image: 2016-06-14.jpg
 comments: true
 share: true

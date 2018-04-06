@@ -6,8 +6,8 @@ modified: 2017-04-26 00:00:00 -0700
 category:
  - events
 tags:
- - Charity
- - "Operation Supply Drop"
+ - charity
+ - operation-supply-drop
 image: 2017-04-26.png
 comments: true
 share: true

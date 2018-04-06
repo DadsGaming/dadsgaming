@@ -6,12 +6,12 @@ modified: 2015-11-21 00:00:00 -0700
 category:
  - events
 tags:
- - "EA"
- - "Star Wars"
- - "Battlefront"
- - "Xbox One"
- - "PS4"
- - "Giveaway"
+ - ea
+ - star-wars
+ - battlefront
+ - xbox-one
+ - ps4
+ - giveaway
 image: 2015-11-21.jpg
 comments: true
 share: true

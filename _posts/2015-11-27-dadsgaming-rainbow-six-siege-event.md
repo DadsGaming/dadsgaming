@@ -6,11 +6,11 @@ modified: 2015-11-27 00:00:00 -0700
 category:
  - events
 tags:
- - "Tom Clancy"
- - "Rainbox Six Siege"
- - "Giveaway"
- - "Xbox One"
- - "PS4"
+ - tom-clancy
+ - rainbox-six-siege
+ - giveaway
+ - xbox-one
+ - ps4
 image: 2015-11-27.png
 comments: true
 share: true

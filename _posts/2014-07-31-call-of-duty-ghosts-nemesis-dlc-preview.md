@@ -6,12 +6,12 @@ modified: 2014-07-29 16:20:00 -0700
 category:
  - games
 tags:
- - "Call of Duty"
- - "Ghosts"
- - "DLC"
- - "Xbox One"
- - "YouTube"
- - "First Look"
+ - call-of-duty
+ - ghosts
+ - dlc
+ - xbox-one
+ - youtube
+ - first-look
 image: 2014-07-31.jpg
 comments: true
 share: true

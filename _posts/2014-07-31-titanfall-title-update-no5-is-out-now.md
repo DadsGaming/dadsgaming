@@ -6,9 +6,9 @@ modified: 2014-07-29 16:20:00 -0700
 category:
  - games
 tags:
- - "Titanfall"
- - "YouTube"
- - "EA"
+ - titanfall
+ - youtube
+ - ea
 image: 2014-07-31a.jpg
 comments: true
 share: true

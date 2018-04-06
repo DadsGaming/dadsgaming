@@ -6,10 +6,10 @@ modified: 2016-05-14 9:40:00 -0700
 category:
  - events
 tags:
- - "Destiny"
- - "Tournament"
- - "Xbox One"
- - "St. Judes"
+ - destiny
+ - tournament
+ - xbox-one
+ - st-judes
 image: 2016-05-14.jpg
 comments: true
 share: true

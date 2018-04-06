@@ -6,7 +6,7 @@ modified: 2018-04-06 00:00:00 -0700
 category:
  - technology
 tags:
- - "relaunch"
+ - relaunch
 image: 2018-04-06.jpg
 comments: true
 share: true

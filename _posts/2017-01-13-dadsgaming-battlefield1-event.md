@@ -6,9 +6,9 @@ modified: 2017-01-13 00:00:00 -0700
 category:
  - events
 tags:
- - PS4
- - "Battlefield 1"
- - Dice
+ - ps4
+ - battlefield-1
+ - dice
 image: 2017-01-13.jpg
 comments: true
 share: true

@@ -7,8 +7,8 @@ category:
 tags:
  - Member
  - Spotlight
- - "Turns 3"
- - YouTube
+ - turns-3
+ - youtube
 image: 2017-09-22.png
 comments: true
 share: true

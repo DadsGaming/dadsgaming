@@ -6,9 +6,9 @@ modified: 2018-03-26 00:00:00 -0700
 category:
  - events
 tags:
- - Baseball
- - PS4
- - Sports
+ - baseball
+ - ps4
+ - sports
 image: 2018-03-26.jpg
 comments: true
 share: true

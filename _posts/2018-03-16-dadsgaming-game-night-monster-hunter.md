@@ -6,9 +6,9 @@ modified: 2018-03-16 00:00:00 -0700
 category:
  - events
 tags:
- - "Monster Hunter"
- - PS4
- - "Xbox One"
+ - monster-hunter
+ - ps4
+ - xbox-one
 image: 2018-03-16.jpg
 comments: true
 share: true

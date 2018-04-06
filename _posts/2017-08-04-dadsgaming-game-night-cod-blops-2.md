@@ -6,10 +6,10 @@ modified: 2017-08-04.png 00:00:00 -0700
 category:
  - events
 tags:
- - "Call of Duty"
- - "Activision"
- - "Black Ops 2"
- - "Xbox One"
+ - call-of-duty
+ - activision
+ - black-ops-2
+ - xbox-one
 image: 2017-08-04.png
 comments: true
 share: true

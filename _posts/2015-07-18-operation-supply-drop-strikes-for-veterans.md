@@ -6,8 +6,8 @@ modified: 2015-07-18 8:20:00 -0700
 category:
  - events
 tags:
- - Charity
- - "Operation Supply Drop"
+ - charity
+ - operation-supply-drop
 image: 2015-07-18.jpg
 comments: true
 share: true

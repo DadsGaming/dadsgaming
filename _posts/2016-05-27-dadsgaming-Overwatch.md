@@ -6,11 +6,11 @@ modified: 2016-05-27 00:00:00 -0700
 category:
  - events
 tags:
- - "Overwatch"
- - "Activision"
- - "Xbox One"
- - "PS4"
- - "PC"
+ - overwatch
+ - activision
+ - xbox-one
+ - ps4
+ - pc
 image: 2016-05-27.jpg
 comments: true
 share: true

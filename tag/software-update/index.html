@@ -1,0 +1,20 @@
+---
+layout: blog
+title: Archive
+background-image: s-1.jpg
+---
+
+{% for post in site.tags.software-update %}
+
+
+<!--article-->
+<article class="col-md-12 wow fadeInUp">
+  <header class="entry-header"> <span class="date-article"><i class="fas fa-calendar-alt"></i> {{ post.date | date_to_string }}</span> <a href="{{post.url}}"><img src="/img/post/{{ post.image }}" class="img-responsive"></a> <span class="byline"><span class="author vcard"><a href="{{ site.baseurl }}/category/{{ post.category }}/"><i class="fas fa-folder-open"></i> {{ post.category }}</a><a href="#"><i class="fas fa-user"></i> {{ post.author }}</a> </span></span> <a href="{{post.url}}">
+    <h2>{{ post.title }}</h2>
+    </a></header>
+  <p>{{ post.excerpt | strip_html | truncatewords:25 }}</p>
+  <a class="btn  readmore-btn" href="{{post.url}}">READ MORE</a>
+</article>
+<!--/article-->
+    
+{% endfor %}
