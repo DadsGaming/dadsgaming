@@ -2,12 +2,12 @@
 author: renovatio_42
 layout: blog-post
 title: "Announcing the relauching of our website!"
-modified: 2018-04-05 00:00:00 -0700
+modified: 2018-04-06 00:00:00 -0700
 category:
  - technology
 tags:
  - "relaunch"
-image: 2018-04-05.jpg
+image: 2018-04-06.jpg
 comments: true
 share: true
 featured: true
