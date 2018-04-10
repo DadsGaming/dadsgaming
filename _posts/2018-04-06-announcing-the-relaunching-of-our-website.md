@@ -7,6 +7,7 @@ category:
  - technology
 tags:
  - relaunch
+ - website
 image: 2018-04-06.jpg
 comments: true
 share: true

@@ -25,9 +25,7 @@ meta_keywords: "dads, dadsgaming, dads gaming, video games, videogames, games, c
 meta_description: "Surround yourself with fellow, like-minded, Dads who understand that family comes first, they have limited game time, and want to make the most out it! "
 google_analytics: 'UA-53292793-1'
 disqus: 'dadsgaming'
-sharethis: '<script type="text/javascript" src="//platform-api.sharethis.com/js/sharethis.js#property=5a6b2fe4fb197a0011c589f6&product=sticky-share-buttons"></script>'
-twitter_username: jekyllrb
-github_username:  jekyll
+sharethis: '<script type="text/javascript" src="//platform-api.sharethis.com/js/sharethis.js#property=5aa88d7fea96b20013f1702c&product=custom-share-buttons"></script>'
 
 # Build settings
 #markdown: kramdown
