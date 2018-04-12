@@ -1,7 +1,7 @@
 ---
 author: renovatio_42
 layout: blog-post
-title: "Sign-ups for the Dads Gaming Community Game Night: Monster Hunter"
+title: "Sign-ups for the Dads Gaming Community Game Night: Ghost Recon Wildlands"
 modified: 2018-04-12 00:00:00 -0700
 category:
  - events
