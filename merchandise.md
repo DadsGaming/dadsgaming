@@ -2,6 +2,7 @@
 layout: page
 redirect_from:
  - "/limited-edition-dads-gaming/"
+ - "/merch/"
 title:  "Apparel and Wares"
 comments: false
 background-image: s-1.jpg
