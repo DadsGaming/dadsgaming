@@ -17,7 +17,7 @@ share: true
 
 Join us for our Dads Gaming Community Game Night on Ghost Recon Wildlands, Free-to-play Weekend Event! We'll be playing both PVE and private matches in PVP on both PS4 and Xbox One! More info in our discord chat server. [discord.dadsgaming.com](http://discord.dadsgaming.com)
 
-More info on the [Free-to-Play Weekend](https://ghost-recon.ubisoft.com/wildlands/en-us/news/152-321716-16/play-ghost-recon-wildlands-for-free-this-weekend){:target="_blank"}
+More info on the [Free-to-Play Weekend](isit http://ghostrecon.com/freeweekend ){:target="_blank"}
 
 If you're new to Ghost Recon Wildlands, checkout our [Ghost Recon Wildlands Open Beta Debrief](http://dadsgaming.com/games/2017/03/06/Ghost-Recon-Wildlands-Beta-Debriefing/).
 
