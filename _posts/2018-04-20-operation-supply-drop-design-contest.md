@@ -13,7 +13,7 @@ comments: true
 share: true
 ---
 
-Here's your chance to contribute your artistic ability for a great charity: Operation Supply Drop! Dads Gaming will be reviewing all submissions and the top-three designs determined by our Admins and Community Managers will go up for a community vote. The winner's design will be selected on April 27th and will become our offical Dads Gaming OSD 2018 Shirt Design.
+Here's your chance to contribute your artistic ability for a great charity: Operation Supply Drop! Dads Gaming will be reviewing all submissions and the top-three designs determined by our Admins and Community Managers will go up for a community vote. The winner's design will be selected on April 30th and will become our official Dads Gaming OSD 2018 Shirt Design.
 
 Submit your design, and if selected, we will be showcasing it during our Charity Campaign Event for Operation Supply Drop in May. Operation Supply Drop (OSD) helps build and reinforce the veteran support ecosystem from Deployment through Transition and Community Integration with distinct significant impact each step of the way.
 
@@ -29,7 +29,7 @@ Design must be your own original artwork, not copyrighted, and include the follo
 **Submit your design**
 </a>
 
-
+Deadline is April 27th.
 
 
 *To learn more about OSD and Dads Gaming involvement, please check out:*
