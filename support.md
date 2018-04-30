@@ -30,6 +30,11 @@ Consider visiting some of the sponsored links on our pages. We don't get paid un
  
  <img src="/img/affiliate/brand_jerkyxp.png">
 
+<h3>Leaptrade</h3>
+ 
+* [Register on Leaptrade and use reference 'Dads Gaming' to be added to our custom group!](https://www.leaptrade.com/register){:target="_blank"}
+ 
+ <img src="/img/affiliate/brand_Leaptrade.png">
 
 ## 3. Donate on Patreon (coming soon!)
 

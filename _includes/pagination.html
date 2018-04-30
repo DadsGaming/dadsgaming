@@ -2,16 +2,20 @@
 <nav class="navigation posts-navigation  wow fadeInUp"  role="navigation">
 	<!-- Pagination links -->
 	<div class="pagination">
-	  {% if paginator.previous_page %}
-	    <a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
-	  {% else %}
-	    <span class="previous">Previous</span>
-	  {% endif %}
-	  <span class="page_number ">Page: {{ paginator.page }} of {{ paginator.total_pages }}</span>
-	  {% if paginator.next_page %}
-	    <a href="{{ paginator.next_page_path }}" class="next">Next</a>
-	  {% else %}
-	    <span class="next ">Next</span>
-	  {% endif %}
+      <!-- button groups
+      ================================================== -->
+      <div class="btn-group">
+		{% if paginator.previous_page %}
+		<a href="{{ paginator.previous_page_path }}" class="btn btn-outline-secondary" role="button">Previous</a>
+		{% else %}
+        <button class="btn btn-outline-secondary disabled" type="button">Previous</button>
+		{% endif %}
+        <button class="btn btn-outline-dark text-dark" type="button">Page: {{ paginator.page }} of {{ paginator.total_pages }}</button>
+		{% if paginator.next_page %}
+		<a href="{{ paginator.next_page_path }}" class="btn btn-outline-secondary" role="button">Next</a>
+		{% else %}
+        <button class="btn btn-outline-secondary disabled" type="button">Next</button>
+		{% endif %}
+      </div>
 	</div>
 </nav><!--/portfolio page nav-->

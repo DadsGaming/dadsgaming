@@ -45,7 +45,7 @@
 <lastmod>2015-09-11T00:00:00-07:00</lastmod>
 </url>
 <url>
-<loc>http://localhost:4000/games/2015/09/15/dadsgaming-partnered_with-overdog/</loc>
+<loc>http://localhost:4000/games/2015/09/15/dadsgaming-partnered-with-overdog/</loc>
 <lastmod>2015-09-15T00:00:00-07:00</lastmod>
 </url>
 <url>
@@ -219,6 +219,10 @@
 <url>
 <loc>http://localhost:4000/games/2018/04/26/member-experience-dads-gaming-year-3/</loc>
 <lastmod>2018-04-26T00:00:00-07:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/games/2018/04/30/dadsgaming-partnered-with-leaptrade/</loc>
+<lastmod>2018-04-30T00:00:00-07:00</lastmod>
 </url>
 <url>
 <loc>http://localhost:4000/about/</loc>
@@ -569,6 +573,12 @@
 <loc>http://localhost:4000/tag/software-update/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/tag/leaptrade/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/tag/sell-your-games/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/tag/cross-platform/</loc>
 </url>
 <url>
@@ -644,9 +654,6 @@
 <loc>http://localhost:4000/tag/ghosts/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/tag/giveaway/</loc>
-</url>
-<url>
 <loc>http://localhost:4000/archive/2014/03/</loc>
 </url>
 <url>
@@ -675,6 +682,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/tag/giveaway/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/tag/the-division/</loc>
@@ -743,6 +753,9 @@
 <loc>http://localhost:4000/tag/xbox-one/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/tag/trade-your-games/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/tag/overdog/</loc>
 </url>
 <url>
@@ -767,10 +780,10 @@
 <loc>http://localhost:4000/apply/streaming/code-of-conduct-agreement/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/apply/</loc>
+<loc>http://localhost:4000/apply/streaming/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/apply/streaming/</loc>
+<loc>http://localhost:4000/apply/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/merchandise/</loc>
@@ -819,5 +832,8 @@
 </url>
 <url>
 <loc>http://localhost:4000/blog/page11/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/blog/page12/</loc>
 </url>
 </urlset>
