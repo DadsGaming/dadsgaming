@@ -26,13 +26,13 @@ Consider visiting some of the sponsored links on our pages. We don't get paid un
  
 <h3>JerkyXP</h3>
  
-* [JerkyXP and use code 'dads' for some tasty meat!](http://lddy.no/32ty){:target="_blank"}
+* [JerkyXP and use code 'dads' for some tasty meat!](http://lddy.no/32ty){:target="_blank"}	
  
  <img src="/img/affiliate/brand_jerkyxp.png">
 
 <h3>Leaptrade</h3>
  
-* [Register on Leaptrade and use reference 'Dads Gaming' to be added to our custom group!](https://www.leaptrade.com/register){:target="_blank"}
+* [Register on Leaptrade and use reference 'Dads Gaming' to be added to our custom group!](https://www.leaptrade.com/register/referrer:Renovatio%2042){:target="_blank"}
  
  <img src="/img/affiliate/brand_Leaptrade.png">
 

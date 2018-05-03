@@ -21,7 +21,7 @@ At Dads Gaming, we strive to partner with mission-driven companies who share our
 
 ### How to get started?
 
-1. Register yourself: [https://www.leaptrade.com/register](https://www.leaptrade.com/register){:target="_blank"}
+1. Register yourself: [https://www.leaptrade.com/register/](https://www.leaptrade.com/register/referrer:Renovatio%2042){:target="_blank"}
 2. Select **Dads Gaming** for "How'd you hear about us?"
 3. Post a game that you'd like to trade
 
