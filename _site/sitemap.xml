@@ -241,6 +241,10 @@
 <lastmod>2018-07-30T00:00:00-07:00</lastmod>
 </url>
 <url>
+<loc>http://localhost:4000/games/2018/10/03/Call-of-Duty-Black-Ops-4-Blackout-Day-1-Strategy/</loc>
+<lastmod>2018-10-03T00:00:00-07:00</lastmod>
+</url>
+<url>
 <loc>http://localhost:4000/about/</loc>
 </url>
 <url>
@@ -670,6 +674,9 @@
 <loc>http://localhost:4000/tag/ghosts/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/tag/giveaway/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/archive/2014/03/</loc>
 </url>
 <url>
@@ -698,9 +705,6 @@
 </url>
 <url>
 <loc>http://localhost:4000/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/tag/giveaway/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/tag/the-division/</loc>
@@ -784,6 +788,9 @@
 <loc>http://localhost:4000/tag/turns-3/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/tag/black-ops-4/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/tag/call-of-duty/</loc>
 </url>
 <url>
@@ -851,5 +858,8 @@
 </url>
 <url>
 <loc>http://localhost:4000/blog/page12/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/blog/page13/</loc>
 </url>
 </urlset>
