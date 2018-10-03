@@ -11,7 +11,7 @@ tags:
  - black-ops-4
  - call-of-duty
  - take-aways
-image: 2018-10-04.png
+image: 2018-10-03a.png
 comments: true
 share: true
 ---

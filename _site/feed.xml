@@ -1,4 +1,127 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-10-03T09:17:09-07:00</updated><id>http://localhost:4000/</id><title type="html">Dads Gaming</title><subtitle>Community for Dads Gaming</subtitle><entry><title type="html">Call of Duty Black Ops 4 Beta Debrief</title><link href="http://localhost:4000/games/2018/10/03/Call-of-Duty-Black-Ops-4-Beta-Debriefing/" rel="alternate" type="text/html" title="Call of Duty Black Ops 4 Beta Debrief" /><published>2018-10-03T00:00:00-07:00</published><updated>2018-10-03T00:00:00-07:00</updated><id>http://localhost:4000/games/2018/10/03/Call-of-Duty-Black-Ops-4-Beta-Debriefing</id><content type="html" xml:base="http://localhost:4000/games/2018/10/03/Call-of-Duty-Black-Ops-4-Beta-Debriefing/">&lt;p&gt;The closed beta for Call of Duty Black Ops 4 has come to a close, just before the full release on October 12, 2018. We’re looking back on: Multiplayer and new Battle Royale Mode, called Black Out.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.7.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2018-10-03T09:21:14-07:00</updated><id>http://localhost:4000/</id><title type="html">Dads Gaming</title><subtitle>Community for Dads Gaming</subtitle><entry><title type="html">Call of Duty Black Ops 4 Blackout: Day 1 Strategy</title><link href="http://localhost:4000/games/2018/10/03/Call-of-Duty-Black-Ops-4-Blackout-Day-1-Strategy/" rel="alternate" type="text/html" title="Call of Duty Black Ops 4 Blackout: Day 1 Strategy" /><published>2018-10-03T00:00:00-07:00</published><updated>2018-10-03T00:00:00-07:00</updated><id>http://localhost:4000/games/2018/10/03/Call-of-Duty-Black-Ops-4-Blackout-Day-1-Strategy</id><content type="html" xml:base="http://localhost:4000/games/2018/10/03/Call-of-Duty-Black-Ops-4-Blackout-Day-1-Strategy/">&lt;p&gt;As a decades long MP veteran I don’t really need to talk shop regarding Dom, TDM, etc.  However…. Blackout (battle royale) is a whole new experience for me and probably many of you also.  So the purpose of this thread is to try and layout as much strategy and tips and tricks as we can for launch day.  I anticipate that our strategy and approach to this game will change over time as we get better, but I hope this guide can at least get us pointed in the right direction on day one. Please add your own suggestions and comments and I will update the map and info as needed.&lt;/p&gt;
+
+&lt;p&gt;This initial guide is based on my limited time with the beta which produced rather unimpressive stats:&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Time: 6 hr 51 min&lt;/li&gt;
+  &lt;li&gt;Level: 6&lt;/li&gt;
+  &lt;li&gt;Games:  47&lt;/li&gt;
+  &lt;li&gt;Wins: 2 (only alive for 1)&lt;/li&gt;
+  &lt;li&gt;Top 5: 11 times&lt;/li&gt;
+  &lt;li&gt;Kills: 43&lt;/li&gt;
+  &lt;li&gt;Deaths: 44&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Here are the key areas to discuss:&lt;/p&gt;
+&lt;ol&gt;
+  &lt;li&gt;Map &amp;amp; Drop Locations&lt;/li&gt;
+  &lt;li&gt;Weapons&lt;/li&gt;
+  &lt;li&gt;Perks &amp;amp; Equipment&lt;/li&gt;
+  &lt;li&gt;General Tips&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;map--drop-locations&quot;&gt;Map &amp;amp; Drop Locations&lt;/h2&gt;
+
+&lt;p&gt;All of the major locations have plenty of weapons.  However, dropping to those locations is an extremely risky endeavor.  If you don’t find a weapon first, your dead.  In my case, I was on the short end of the stick more times than not when playing the beta.  So the purpose of this map is to highlight possible alternative landing zones.&lt;/p&gt;
+
+&lt;h4 id=&quot;drop-zone-map&quot;&gt;Drop Zone Map&lt;/h4&gt;
+
+&lt;p&gt;&lt;a data-flickr-embed=&quot;true&quot; href=&quot;https://www.flickr.com/photos/126304189@N08/44356536394/in/dateposted-public/&quot; title=&quot;blackout-map&quot;&gt;&lt;img src=&quot;https://farm2.staticflickr.com/1933/44356536394_9e9825b150_c.jpg&quot; width=&quot;790&quot; height=&quot;800&quot; alt=&quot;blackout-map&quot; /&gt;&lt;/a&gt;&lt;script async=&quot;&quot; src=&quot;//embedr.flickr.com/assets/client-code.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;GREEN ZONES&lt;/th&gt;
+      &lt;th&gt; &lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;(A) Estates East&lt;/td&gt;
+      &lt;td&gt;Weapons can be found in the house and on the driveway, usually people land in the main estates but you might find a few others here as well.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;(B) Hydro West&lt;/td&gt;
+      &lt;td&gt;Plenty of weapons and gear in multiple rooms.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;(C) Hillside&lt;/td&gt;
+      &lt;td&gt;Each house typically has a weapon.  This was my winning location when playing close quarters duos.&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;(D) Nuketown Bunkers&lt;/td&gt;
+      &lt;td&gt;Even though I had heard about this, I never bothered to find it when playing the beta.  Wow… that was a mistake!  After the beta I watched some videos on this area and not only does it look really cool, but there are a TON of great weapons and gear in this spot.  I’m sure you can count on finding others landing here, but it’s worth a try as the payoff could be huge.  They key is knowing where the openings (hatches) are to the bunker. Below are the four ways to get into the bunker along with a detailed tour.  &lt;a href=&quot;https://www.screencast.com/t/p40IgohEMuT8&quot;&gt;Map - Bunker Hatch Locations&lt;/a&gt; &lt;a href=&quot;https://www.youtube.com/watch?v=ZY_E4QxiwAA&quot;&gt;YouTube - Gameplay Tour&lt;/a&gt;&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;(E) Rivertown South&lt;/td&gt;
+      &lt;td&gt;There are plenty of houses with loot south of Rivertown.&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;BLUE ZONES&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;These look like possible good drop locations.  Anybody drop here during the beta?  Other potential spots?&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;h5 id=&quot;landing-tips-and-tricks&quot;&gt;Landing Tips and Tricks&lt;/h5&gt;
+
+&lt;p&gt;I came across this video today which does a good job of showing you how to drop properly. No wonder I was getting to spots later than others as I was waiting until the helicopter was nearly directly above the spot I wanted to land before jumping.&lt;/p&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/vNbbe_xrtoc&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;h2 id=&quot;weapons&quot;&gt;Weapons&lt;/h2&gt;
+
+&lt;p&gt;Here are some good starting point resources.&lt;/p&gt;
+
+&lt;p&gt;Videos&lt;/p&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/Z7mDS-kJbno&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/UugGAYP4nGg&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Articles
+https://gameranx.com/features/id/161533/article/black-ops-4-blackout-here-are-the-best-weapons-to-use-in-any-situation-greatest-guns-guide/
+https://www.pcgamesn.com/call-of-duty-black-ops-4/blackout-weapons-best-guns
+https://www.ign.com/wikis/call-of-duty-black-ops-4/The_Best_Weapons_To_Use_In_Blackout
+https://www.dexerto.com/call-of-duty/what-are-the-best-guns-in-the-call-of-duty-blackout-beta-162923&lt;/p&gt;
+
+&lt;h2 id=&quot;perks--equipment&quot;&gt;Perks &amp;amp; Equipment&lt;/h2&gt;
+
+&lt;p&gt;Here are some good starting point resources.&lt;/p&gt;
+
+&lt;p&gt;Videos&lt;/p&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/HLmtbluiOjQ&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/L5PzF8e2pgs&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/iCwJ5_ImgvQ&quot; frameborder=&quot;0&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;p&gt;Articles
+https://www.ign.com/wikis/call-of-duty-black-ops-4/How_Blackout_Perks_Work
+https://progameguides.com/call-of-duty/cod-guides/call-of-duty-blackout-perks-list/&lt;/p&gt;
+
+&lt;h2 id=&quot;general-tips&quot;&gt;General Tips&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;
+    &lt;p&gt;On initial drop, if possible steer clear of any structures that have several other parachutes landing near them.  While you may be tempted to land there in hopes of getting quick kills, if you aren’t the first guy to find a gun you are SCREWED!&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;After you land, find a gun IMMEDIATELY!  I died at least 3-4 times when I couldn’t find a gun before the other guys in the building.  I spent too much time picking up all the other stuff along the way instead of strictly looking for a gun.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Get comfortable with the nerve racking nature of this game type.  As somebody who is used to respawns, only having one life really gets my blood pumping as the match progresses.  So we need to stay calm and keep relaxed.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Become proficient with the inventory navigation and how/when to use perks.  This will apply to everyone of course, but I feel this is definitely a key area to master.  Knowing when and where to use certain perks and equipment will be the difference between winning and losing in this game.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.amazon.com/gp/search/ref=as_li_qf_sp_sr_il_tl?ie=UTF8&amp;amp;tag=dadsgamingus-20&amp;amp;keywords=call of duty black ops 4&amp;amp;index=aps&amp;amp;camp=1789&amp;amp;creative=9325&amp;amp;linkCode=xm2&amp;amp;linkId=c832e42d66f3974954dcbca032e308e4&quot;&gt;Buy Call of Duty Black Ops 4 for PC, PS4, and Xbox One using our Amazon Affiliate Link&lt;/a&gt;&lt;/p&gt;</content><author><name>sgtpayback</name></author><category term="[&quot;games&quot;]" /><category term="activision" /><category term="beta" /><category term="black-ops-4" /><category term="call-of-duty" /><category term="take-aways" /><summary type="html">As a decades long MP veteran I don’t really need to talk shop regarding Dom, TDM, etc. However…. Blackout (battle royale) is a whole new experience for me and probably many of you also. So the purpose of this thread is to try and layout as much strategy and tips and tricks as we can for launch day. I anticipate that our strategy and approach to this game will change over time as we get better, but I hope this guide can at least get us pointed in the right direction on day one. Please add your own suggestions and comments and I will update the map and info as needed.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/2018-10-03a.png" /></entry><entry><title type="html">Call of Duty Black Ops 4 Beta Debrief</title><link href="http://localhost:4000/games/2018/10/03/Call-of-Duty-Black-Ops-4-Beta-Debriefing/" rel="alternate" type="text/html" title="Call of Duty Black Ops 4 Beta Debrief" /><published>2018-10-03T00:00:00-07:00</published><updated>2018-10-03T00:00:00-07:00</updated><id>http://localhost:4000/games/2018/10/03/Call-of-Duty-Black-Ops-4-Beta-Debriefing</id><content type="html" xml:base="http://localhost:4000/games/2018/10/03/Call-of-Duty-Black-Ops-4-Beta-Debriefing/">&lt;p&gt;The closed beta for Call of Duty Black Ops 4 has come to a close, just before the full release on October 12, 2018. We’re looking back on: Multiplayer and new Battle Royale Mode, called Black Out.&lt;/p&gt;
 
 &lt;h3 id=&quot;multiplayer&quot;&gt;Multiplayer&lt;/h3&gt;
 
@@ -159,17 +282,4 @@ With that being said - based on playing the beta for several hours over the week
     &lt;/iframe&gt;
 	&lt;iframe style=&quot;width:120px;height:240px;&quot; marginwidth=&quot;0&quot; marginheight=&quot;0&quot; scrolling=&quot;no&quot; frameborder=&quot;0&quot; src=&quot;//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&amp;amp;OneJS=1&amp;amp;Operation=GetAdHtml&amp;amp;MarketPlace=US&amp;amp;source=ac&amp;amp;ref=tf_til&amp;amp;ad_type=product_link&amp;amp;tracking_id=dadgam-20&amp;amp;marketplace=amazon&amp;amp;region=US&amp;amp;placement=B01GQV9JB2&amp;amp;asins=B01GQV9JB2&amp;amp;linkId=1439f23ae80e532a2c0383f665f7ad0e&amp;amp;show_border=false&amp;amp;link_opens_in_new_window=false&amp;amp;price_color=333333&amp;amp;title_color=0066c0&amp;amp;bg_color=ffffff&quot;&gt;
     &lt;/iframe&gt;
-&lt;/p&gt;</content><author><name>Renovatio 42</name></author><category term="[&quot;events&quot;]" /><category term="tom-clancy" /><category term="ghost-recon" /><category term="ps4" /><category term="xbox-one" /><summary type="html">Join us for our Dads Gaming Community Game Night on Ghost Recon Wildlands, Free-to-play Weekend Event! We’ll be playing both PVE and private matches in PVP on both PS4 and Xbox One! More info in our discord chat server. discord.dadsgaming.com</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/2018-04-12.png" /></entry><entry><title type="html">Announcing the relauching of our website!</title><link href="http://localhost:4000/technology/2018/04/06/announcing-the-relaunching-of-our-website/" rel="alternate" type="text/html" title="Announcing the relauching of our website!" /><published>2018-04-06T00:00:00-07:00</published><updated>2018-04-06T00:00:00-07:00</updated><id>http://localhost:4000/technology/2018/04/06/announcing-the-relaunching-of-our-website</id><content type="html" xml:base="http://localhost:4000/technology/2018/04/06/announcing-the-relaunching-of-our-website/">&lt;p&gt;I am pleased to announce the relaunching of our website with a brand new look! After two months of hard work and dedication, I am delighted to officially announce the launch on April 6, 2018. The new site launch is available and the URL is &lt;a href=&quot;http://www.dadsgaming.com&quot;&gt;www.dadsgaming.com&lt;/a&gt;&lt;/p&gt;
-
-&lt;p&gt;The goal with this newly designed website is to provide our visitors an easier way to learn about our Dads Gaming community and also allow visitors to browse our information and blogs simply from their computer or mobile device. The website now offers a more fluid and consistant design as well as better access to About Us, Team Page, Blog, Events, Support, Search, and Registration web pages. Categories, Tags, and Archives are now available in the blog section to quickly find related articles.&lt;/p&gt;
-
-&lt;p&gt;Among the these new features, the site contains integrated social media buttons for Facebook, Twitter, and Pinterest to foster sharing and links to all of our socials for improved communication with our current and perspective members.&lt;/p&gt;
-
-&lt;p&gt;Going forward, we will continue to communicate regularly through our blogs and provide new articles, helpful information, highlights of new projects, and notifications.&lt;/p&gt;
-
-&lt;p&gt;I hope you find the new website with a fresh look, easy to access information and I also wish our site become a daily source of information for those who visit.&lt;/p&gt;
-
-&lt;p&gt;I’m really proud of the new website and feel it will create the experience you’re looking for when you visit.&lt;/p&gt;
-
-&lt;p&gt;Thank you,&lt;/p&gt;
-&lt;p&gt;&lt;em&gt;Renovatio 42&lt;/em&gt;&lt;/p&gt;</content><author><name>Renovatio 42</name></author><category term="[&quot;technology&quot;]" /><category term="relaunch" /><category term="website" /><summary type="html">I am pleased to announce the relaunching of our website with a brand new look! After two months of hard work and dedication, I am delighted to officially announce the launch on April 6, 2018. The new site launch is available and the URL is www.dadsgaming.com</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/2018-04-06.jpg" /></entry></feed>
+&lt;/p&gt;</content><author><name>Renovatio 42</name></author><category term="[&quot;events&quot;]" /><category term="tom-clancy" /><category term="ghost-recon" /><category term="ps4" /><category term="xbox-one" /><summary type="html">Join us for our Dads Gaming Community Game Night on Ghost Recon Wildlands, Free-to-play Weekend Event! We’ll be playing both PVE and private matches in PVP on both PS4 and Xbox One! More info in our discord chat server. discord.dadsgaming.com</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/2018-04-12.png" /></entry></feed>
