@@ -21,20 +21,20 @@ Consider visiting some of the sponsored links on our pages. We don't get paid un
 <h3>Condemned Custom</h3>
 
 * [<strong><i>Get a 5% off discount when you use code 'dads'</i></strong> on your new, custom designed controller or project from Condemned Customs](http://www.condemnedcustoms.com){:target="_blank"}
- 
+
  <img src="/img/affiliate/brand_cc_controller.png">
- 
+
 <h3>JerkyXP</h3>
- 
-* [JerkyXP and use code 'dads' for some tasty meat!](http://lddy.no/32ty){:target="_blank"}	
- 
+
+* [JerkyXP and use code 'dads' for some tasty meat!](http://lddy.no/32ty){:target="_blank"}
+
  <img src="/img/affiliate/brand_jerkyxp.png">
 
 <h3>Leaptrade</h3>
- 
+
 * [Register on Leaptrade and use reference 'Dads Gaming' to be added to our custom group!](https://www.leaptrade.com/register/referrer:Renovatio%2042){:target="_blank"}
- 
- <img src="/img/affiliate/brand_Leaptrade.png">
+
+ <img src="/img/affiliate/brand_leaptrade.png">
 
 ## 3. Donate on Patreon (coming soon!)
 
@@ -55,4 +55,4 @@ Consider visiting some of the sponsored links on our pages. We don't get paid un
 
 ## 5. Advertise with us!
 
-* Serious inquires only. 
+* Serious inquires only.

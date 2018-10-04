@@ -48,6 +48,7 @@ All of the major locations have plenty of weapons.  However, dropping to those l
 | (D) Nuketown Bunkers  |  Even though I had heard about this, I never bothered to find it when playing the beta.  Wow… that was a mistake!  After the beta I watched some videos on this area and not only does it look really cool, but there are a TON of great weapons and gear in this spot.  I’m sure you can count on finding others landing here, but it’s worth a try as the payoff could be huge.  They key is knowing where the openings (hatches) are to the bunker. Below are the four ways to get into the bunker along with a detailed tour.  <a href="https://www.screencast.com/t/p40IgohEMuT8">Map - Bunker Hatch Locations</a> <a href="https://www.youtube.com/watch?v=ZY_E4QxiwAA">YouTube - Gameplay Tour</a> |
 |  (E) Rivertown South |  There are plenty of houses with loot south of Rivertown. |
 
+
 | BLUE ZONES |
 |---|
 |These look like possible good drop locations.  Anybody drop here during the beta?  Other potential spots?
@@ -83,8 +84,8 @@ Videos
 {% include youtube_embed.html id="iCwJ5_ImgvQ" %}
 
 Articles
-https://www.ign.com/wikis/call-of-duty-black-ops-4/How_Blackout_Perks_Work
-https://progameguides.com/call-of-duty/cod-guides/call-of-duty-blackout-perks-list/
+<a href="https://www.ign.com/wikis/call-of-duty-black-ops-4/How_Blackout_Perks_Work">How Blackout Perks Work</a>
+<a href="https://progameguides.com/call-of-duty/cod-guides/call-of-duty-blackout-perks-list/">Blackout Perks List</a>
 
 ## General Tips
 
