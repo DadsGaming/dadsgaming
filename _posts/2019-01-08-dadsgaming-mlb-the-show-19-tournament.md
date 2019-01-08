@@ -16,4 +16,4 @@ share: true
 
 Our second offline Dads Gaming MLB The Show 19 Tournament returns! Sign-ups are live now! Deadline is 4/15.
 
-Full details are posted in our Discord Chat Server. Access to discord is available after registration: http://dadsgaming.com/register/
+Full details are posted in our Discord Chat Server. Access to discord is available after registration: <http://dadsgaming.com/register/>
