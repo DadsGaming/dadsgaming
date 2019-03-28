@@ -11,7 +11,7 @@ We encourage Dads to get together and play together. Surround yourself with fell
 
 <div class="alert alert-info"><strong>Note:</strong> You'll be redirected to logon to your Google Account, this will help you update your information later on if you ever change your Twitter name or GamerTag. </div>
   
-<div class="alert alert-success">Invites and access to our discord chat server requires a completed registration.
+<div class="alert alert-success"><strong>Invites and access to our discord chat server requires a completed registration.</strong>
 </div>
 
 <div class="bs-example" data-example-id="contextual-panels">
