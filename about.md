@@ -16,7 +16,7 @@ Become a member: <a target="_blank" href="http://dadsgaming.com/register/">Regis
 
 <h1>The power of our community</h1>
 
-This journey began with a small number of us and over the course of 4 years grew to a thousand members today. Our community is committed to our mission, embodies the Dads Gaming Culture, and is incredibility supportive of one another, our ambitious projects, and brand. We've done amazing things and look forward to more in the future. 
+This journey began with a small number of us and over the course of 5 years grew to a thousand members today. Our community is committed to our mission, embodies the Dads Gaming Culture, and is incredibility supportive of one another, our ambitious projects, and brand. We've done amazing things and look forward to more in the future. 
 
 <h1>Dedicated to supporting fun</h1>
 
