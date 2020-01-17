@@ -11,8 +11,7 @@ renovatio_42:
   name: Renovatio 42
   display_name: Renovatio 42
   web: http://dadsgaming.com
-  #email: billy@rick.com
-  #bio: "What do you want, jewels? I am a very extravagant man."
+  #bio: ""
   avatar: renovatio_42.jpg
   #avatar: bio-photo-alt.jpg
   #email: you@email.com
@@ -20,7 +19,7 @@ renovatio_42:
   #youtube: renovatio_42
   #twitch: renovatio_42
   #google:
-    #plus: BillyRick
+    #plus: 
   description: "I am the founder of Dads Gaming community and website. "
 lesgetgaming:
   name: LesGetGaming
