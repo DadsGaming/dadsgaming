@@ -45,7 +45,7 @@ There is nothing like Rainbow Six Siege matches, a tense multiplayer focusing on
 <img class="img-responsive" src="{{ site.baseurl }}/img/post/2020-01-27-ghost-recon-breakpoint.png" width="800" height="445" alt="ghost-recon-breakpoint">
 
 <hr>
-<div class="bypostauthor"> <img alt="" src="{{ site.baseurl }}/img/member/MacSnig.jpg"  class="avatar " height="100" width="100">
+<div class="bypostauthor"> <img alt="" src="{{ site.baseurl }}/img/member/macsnig.jpg"  class="avatar " height="100" width="100">
   <div class="author-box-title"> Authored By <a href="{{ site.baseurl }}/author/MacSnig" rel="author">MacSnig</a> </div>
   <div class="author_social"> </div>
 </div>
