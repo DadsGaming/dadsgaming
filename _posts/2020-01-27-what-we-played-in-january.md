@@ -100,6 +100,8 @@ Gearbox is a seasoned developer any complaints I have about Borderlands 3 can be
 
 Borderlands 3 is still king of the Looter Shooters in my near-sighted eyes. Great guns, great voice actors with Borderlands gameplay. The game should experience an injection of excitement soon with the upcoming release of Takedown at Maliwan’s Blacksite DLC.
 
+{% include amazon_strip2.html %}
+
 ## Call of Duty: Modern Warfare (2019)
 
 <img class="img-responsive" src="{{ site.baseurl }}/img/post/2020-01-27-cod-mw.png" width="800" height="445" alt="call-of-duty-modern-warfare">
