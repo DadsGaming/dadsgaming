@@ -43,13 +43,13 @@
 </head>
 
 <body class="single">
-    
-<header id="menutop"> 
-  
+
+<header id="menutop">
+
   <!-- Navigation
     ==========================================-->
-  <nav id="top-menu" class="navbar navbar-default navbar-fixed-top"> 
-    
+  <nav id="top-menu" class="navbar navbar-default navbar-fixed-top">
+
     <!--Header top-->
     <section id="header-top-bar">
       <div class="container">
@@ -70,23 +70,23 @@
       </div>
     </section>
     <!--/Header top-->
-    
-    <div class="container"> 
+
+    <div class="container">
       <!-- Brand and toggle get grouped for better mobile display -->
       <div class="navbar-header">
         <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1"> <span class="sr-only">Toggle navigation</span> <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span> </button>
         <a class="navbar-brand" href="/">Dads Gaming</a> </div>
-      
+
       <!-- Collect the nav links, forms, and other content for toggling -->
-      <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1"> 
-        
+      <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+
         <!--search-cart-block -->
-        <div class="search-cart-block"> 
+        <div class="search-cart-block">
           <a href="/search/"><i class="fas fa-search"></i></a>
         </div>
         <!--/search-cart-block -->
-        
-        
+
+
         <ul class="nav navbar-nav navbar-right">
           <li><a href="{{ site.baseurl }}/" class="page-scroll active-on">Our Home</a></li>
           <li><a href="{{ site.baseurl }}/blog">Blog</a></li>
@@ -97,11 +97,11 @@
           <li><a href="{{ site.baseurl }}/register/">Register</a></li>
         </ul>
       </div>
-      <!-- /.navbar-collapse -->  
-      
+      <!-- /.navbar-collapse -->
+
     </div>
-    <!-- /.container-fluid --> 
-    
+    <!-- /.container-fluid -->
+
   </nav>
 </header>
 
@@ -118,28 +118,28 @@
 
 <!--blog body-->
 
-<div id="Blog-post"> 
-  
+<div id="Blog-post">
+
   <!-- banner Page
-    ==========================================--
-  
+    ==========================================
+
   <header class="entry-header" style="background-image: url(/img/s-1.jpg);">
     <div class="content  wow fadeInUp">
-      <div class="container "> 
-       
+      <div class="container ">
+
         <h1>Our blog
-        
+
         </h1>
        <span>Latest News</span>
         </div>
     </div>
-    
+
   </header>-->
   <div class="container">
-    <div class="row wow fadeInUp"> 
+    <div class="row wow fadeInUp">
       <!--blog posts container-->
       <div class="col-md-8 col-sm-12 single-post">
-        <article class="post"> 
+        <article class="post">
 	      {% if page.author %}
 	        {% assign author = site.data.authors[page.author] %}{% else %}{% assign author = site.owner %}
 	      {% endif %}
@@ -153,65 +153,65 @@
             <h5>{{ page.title }} </h5>
             </a></header>
           <!--/Header-->
-          
+
           {{ content }}
-               
+
         </article>
         <div class="clearfix"></div>
         <footer class="entry-footer entry-meta-bar">
           <!--comment-->
-        
+
           <div id="share" class="comments-area text-left">
   	      {% if page.share == true %}
-    
+
   	      <div id="comments" class="row mb-5">
-  	          <div class="col-md-8">         
-  	              {% include sharethis_reaction.html %}                
+  	          <div class="col-md-8">
+  	              {% include sharethis_reaction.html %}
   	          </div>
   	      </div>
-    
+
   	      {% endif %}
           </div>
           <!--/comment-->
           <!--comment-->
-        
+
           <div id="share" class="comments-area text-left">
   	      {% if page.share == true %}
-    
+
   	      <div id="comments" class="row mb-5">
-  	          <div class="col-md-8">              
-  	              {% include sharethis.html %}                
+  	          <div class="col-md-8">
+  	              {% include sharethis.html %}
   	          </div>
   	      </div>
-    
+
   	      {% endif %}
           </div>
           <!--/comment-->
-		  
-          <div class="entry-meta"> <i class="fa fa-tags"></i> <span class="tag-links  clearfix"> 
+
+          <div class="entry-meta"> <i class="fa fa-tags"></i> <span class="tag-links  clearfix">
           {% assign sortedTags = page.tags | sort %}
           {% for tag in sortedTags %}
            <a href="{{ site.baseurl }}/tag/{{ tag | slugify }}/">{{ tag }}</a>
           {% endfor %}
-        
+
 		</footer>
         <!--/footer tags-->
-		
-       
-        
+
+
+
         <div class="clearfix"></div>
-        
+
         <!--author box-->
         <div class="author-box"> <img alt="" src="{{ site.baseurl }}/img/team/{{ author.avatar }}"  class="avatar " height="100" width="100">
-          <div class="author-box-title"> Authored By <a href="#" rel="author">{{ page.author }}</a> </div>
+          <div class="author-box-title"> Authored By <a href="{{ site.baseurl }}/author/{{ page.author }}/" rel="author">{{ page.author }}</a> </div>
           <div class="author-description"> {{ author.description }} </div>
           <div class="author_social"> </div>
         </div>
         <!--/author box-->
-		
-        
+
+
         <div class="clearfix"></div>
-        
+
         <!--posts navigation-->
         <nav class="navigation posts-navigation"  role="navigation">
           <ul>
@@ -228,11 +228,11 @@
           </ul>
         </nav>
         <!--/posts navigation-->
-        
+
         <div class="clearfix"></div>
         <!--Also like-->
-        <div class="also-like-block"> 
-          
+        <div class="also-like-block">
+
           <!-- article-->
           <article class="col-md-4 col-sm-6 col-xs-12">
 			{% if page.previous.url %}
@@ -241,14 +241,14 @@
               </a> <a href="#">{{page.previous.category}}</a></header>
 			{% endif %}
           </article>
-          <!--/ article --> 
-          
+          <!--/ article -->
+
           <!--article-->
           <article class="col-md-4 col-sm-6 col-xs-12">
-            
+
           </article>
-          <!--/article --> 
-          
+          <!--/article -->
+
           <!-- article-->
           <article class="col-md-4 col-sm-6 col-xs-12">
 			{% if page.next.url %}
@@ -257,56 +257,56 @@
               </a> <a href="#">{{page.next.category}}</a> </header>
 			{% endif %}
           </article>
-          <!--/ article --> 
-          
+          <!--/ article -->
+
         </div>
         <!--/Also like-->
-        
+
         <div class="clearfix"></div>
-		
-        
-		
+
+
+
         <!--comment-->
-        
+
         <div id="comments" class="comments-area text-left">
           <h2 class="comments-title"> Comments </h2>
 	      {% if page.comments == true %}
-    
+
 	      <div id="comments" class="row mb-5">
-	          <div class="col-md-8">              
-	              {% include disqus.html %}                
+	          <div class="col-md-8">
+	              {% include disqus.html %}
 	          </div>
 	      </div>
-    
+
 	      {% endif %}
         </div>
-        <!--/comment--> 
-        
+        <!--/comment-->
+
       </div>
-      <!--blog posts container--> 
-      
+      <!--blog posts container-->
+
       <!--aside-->
-      <aside class="col-md-4 col-sm-12" > 
-        
+      <aside class="col-md-4 col-sm-12" >
+
         <!--Search-->
         <section class="widget widget_search  wow fadeInUp">
 
         </section>
-        <!--/Search--> 
-		
+        <!--/Search-->
+
         <!--Recent posts end-->
-        
+
         <section class="widget widget_social sidebar  wow fadeInUp">
           <h2 class="widget-title">Follow Us</h2>
 		  <ul>
             {% include social.html %}
 		  </ul>
         </section>
-		
+
         <!--ad -->
         {% include amazon_home_page.html %}
         <!--ad end-->
-		
+
         <!--Tags start-->
         <section id="tag_cloud-2" class="widget widget_tag_cloud  wow fadeInUp">
           <h2 class="widget-title">Tags</h2>
@@ -318,33 +318,33 @@
 		  </div>
         </section>
         <!--Tags end-->
-        
+
         {% include categorybox.html %}
-        
-        
+
+
         {% include archivebox.html %}
-        
-		
+
+
         {% include recentpostbox.html %}
-		
+
 		{% include amazon_home.html %}
-        
+
         <!--ad -->
         <section class="widget">
 			<iframe src="//rcm-na.amazon-adsystem.com/e/cm?o=1&p=12&l=ur1&category=twitchprime&banner=025E4WXKK5G4EXYGDD02&f=ifr&linkID=79d0b15113798f8c5cf7fca7577fe079&t=dadsgamingus-20&tracking_id=dadsgamingus-20" width="300" height="250" scrolling="no" border="0" marginwidth="0" style="border:none;" frameborder="0"></iframe>
 		</section>
-        <!--ad end--> 
-		
+        <!--ad end-->
+
         <section class="widget widget_social sidebar  wow fadeInUp">
           <h2 class="widget-title">Social</h2>
 		  <ul>
             {% include social.html %}
 		  </ul>
         </section>
-        
+
       </aside>
       <!--aside-->
-      
+
       <div class="clearfix"></div>
     </div>
   </div>

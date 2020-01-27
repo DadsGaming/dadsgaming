@@ -1,13 +1,22 @@
 # Authors
 
-tibiryus:
-  name: Tibiryus
+- basicide:
+  name: basicide
+  display_name: basicide
+  avatar: basicide.jpg
+  description: "I'm a software developer by trade and an electronics tinkerer by hobby. When I'm not spending time with my wife and 3 kids, I'm busy trading sleep for gaming time."
+- disarange80:
+  name: disarange80
+  display_name: disarange80
+  avatar: disarange80.jpg
+  description: "Married and a father of two, 3 year old boy and a 6 month old girl. He lives outside of  Cleveland,Ohio by the lake. Spends time with family, playing video games and work, pretty much in that order."
+- name: Tibiryus
   display_name: Tibiryus
   avatar: tibiryus.jpg
   web: http://www.soundcloud.com/theinteldrop
   twitter: https://twitter.com/Tibiryus
   description: "I am an amateur tactician and I love to make military games as real as possible so when I get the opportunity, the difficulty is set to high, the HUD is minimized and I play as though my life depends on it."
-renovatio_42:
+- renovatio_42:
   name: Renovatio 42
   display_name: Renovatio 42
   web: http://dadsgaming.com
@@ -22,26 +31,37 @@ renovatio_42:
   #google:
     #plus: BillyRick
   description: "I am the founder of Dads Gaming community and website. "
-lesgetgaming:
+- lesgetgaming:
   name: LesGetGaming
   display_name: LesGetGaming
   avatar: lesgetgaming.jpg
   twitter: https://twitter.com/lesgetgaming
   description: "Les takes great pride in being a husband, father of two (with one on the way), and proud member of DADS Gaming (since 2014). He serves as a community manager for DADS on the PS4 and can often be found playing in the evening on the central time zone US. His gamer tag is lghughes3 on PSN, twitter is @lesgetgaming, and reddit."
-mygeekdaddy:
+- MacSnig:
+  name: MacSnig
+  display_name: MacSnig
+  avatar: macsnig.jpg
+  description: "I'm a father of two and married to the most awesome wife in the world. I live in FL and really enjoy gaming with the guys at Dad's Gaming. Find me on Xbox Live and lets toss some frags together."
+- mygeekdaddy:
   name: mygeekdaddy
   display_name: mygeekdaddy
   avatar: mygeekdaddy.jpg
   web: http://mygeekdaddy.net/
   twitter: https://twitter.com/mygeekdaddy
   description: "Just a geek who loves talking about his family, friends, tech. Day job is Maximo guru. Dream job is pro-photographer. [DADS] Destiny clan."
-sgtpayback:
+- sacside:
+  name: sacside
+  display_name: Sacside
+  avatar: sgtpayback.jpg
+  twitter: https://twitter.com/Sacside
+  description:  "A humble father, who found a group of guys willing to pick up a controller and press start, when family allows. Pray, Eat, Game!"
+- sgtpayback:
   name: sgtpayback
   display_name: Sgt Payback
   avatar: sgtpayback.jpg
   twitter: https://twitter.com/sgtpayback
   description:  "Tech muppet by day and  long time COD junkie by night. I have been gaming since the days of Mattel Electronics Football, the Atari 2600, and Asteroids."
-stellarkoala:
+- stellarkoala:
   name: stellarkoala
   display_name: stellarkoala
   avatar: stellarkoala.jpg

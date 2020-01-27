@@ -43,11 +43,13 @@ jekyll-archives:
     - categories
     - tags
     - month
+    - authors
   layout: archive
   permalinks:
     category: '/category/:name/'
     tag: '/tag/:name/'
     month: '/archive/:year/:month/'
+    author: '/author/:name/'
 
 #permalink: /:categories/:year/:month/:day/:title/
 permalink: pretty

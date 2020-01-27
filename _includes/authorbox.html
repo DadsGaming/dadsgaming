@@ -1,9 +1,9 @@
 <!--author box-->
 {% if page.author %}
 <div class="author-box"> <img alt="" src="{{ site.baseurl }}/assets/images/authors/{{ author.avatar }}"  class="avatar " height="100" width="100">
-  <div class="author-box-title"> Authored By <a href="#" rel="author">{{ author.display_name }}</a> </div>
+  <div class="author-box-title"> Authored By <a href="/author/{{ author.display_name }}" rel="author">{{ author.display_name }}</a> </div>
   <div class="author-description">{{ author.description }}</div>
   <div class="author_social"> </div>
 </div>
 {% endif %}
-<!--/author box--> 
+<!--/author box-->
