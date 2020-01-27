@@ -58,6 +58,8 @@ The game is really quite beautiful and Ubisoft is continuously seeking feedback 
 
 Come join us for some friendly fun and casual Wolf and drone killing on any platform of your choice. We have Dad’s playing across PC, Xbox, and PS4.
 
+{% include amazon_strip.html %}
+
 ## Apex Legends
 
 <img class="img-responsive" src="{{ site.baseurl }}/img/post/2020-01-27-apex-legends.png" width="800" height="445" alt="apex-legends">
