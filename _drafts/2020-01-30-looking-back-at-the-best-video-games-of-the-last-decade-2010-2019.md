@@ -14,7 +14,9 @@ comments: true
 share: true
 ---
 
-It's been an incredible ride over the last decade in gaming. We will not be sharing the games with the *highest* rated titles or the *biggest* sales or even the *largest* players at a given time. The list instead will be made of internally submitted games and voted on by very own Dads Gaming community members!
+It's been an incredible ride over the last decade in gaming. We will not be sharing the games with the *highest* rated titles or the *biggest* sales or even the *largest* players at a given time. The list instead was put together by our very own Dads Gaming community members, who internally submitted games and voted!
+
+##Below you'll find our pick of the 100 best games released between 1 January, 2010 and 31 December, 2019. 
 
 1.	Destiny
 2.	Titanfall 2
