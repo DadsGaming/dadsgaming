@@ -12,6 +12,7 @@ tags:
  - escape-from-tarkov
  - the-division-2
  - monster-hunter
+ - rainbow-six-vegas-2
 image: 2020-02-29.png
 comments: true
 share: true

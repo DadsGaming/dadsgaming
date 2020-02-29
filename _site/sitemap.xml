@@ -606,7 +606,7 @@
 <loc>http://localhost:4000/category/games/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/tag/tournament/</loc>
+<loc>http://localhost:4000/tag/dice/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/archive/2014/03/</loc>
@@ -780,7 +780,7 @@
 <loc>http://localhost:4000/tag/escape-from-tarkov/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/tag/dice/</loc>
+<loc>http://localhost:4000/tag/tournament/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/tag/milestone/</loc>
@@ -790,6 +790,9 @@
 </url>
 <url>
 <loc>http://localhost:4000/tag/ghosts/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/tag/rainbow-six-vegas-2/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/tag/giveaway/</loc>
@@ -855,7 +858,7 @@
 <loc>http://localhost:4000/tag/dlc/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/apply/streaming/code-of-conduct-agreement/</loc>
+<loc>http://localhost:4000/author/rustytrigger/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/author/sgtpayback/</loc>
@@ -891,13 +894,13 @@
 <loc>http://localhost:4000/author/</loc>
 </url>
 <url>
+<loc>http://localhost:4000/apply/streaming/code-of-conduct-agreement/</loc>
+</url>
+<url>
 <loc>http://localhost:4000/apply/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/apply/streaming/</loc>
-</url>
-<url>
-<loc>http://localhost:4000/author/rustytrigger/</loc>
 </url>
 <url>
 <loc>http://localhost:4000/merchandise/</loc>
