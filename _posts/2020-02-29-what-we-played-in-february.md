@@ -15,6 +15,7 @@ tags:
 image: 2020-02-29.png
 comments: true
 share: true
+featured: true
 ---
 This month we jump into a realistic online first-person action: Escape from Tarkov, and Monster Hunter
 

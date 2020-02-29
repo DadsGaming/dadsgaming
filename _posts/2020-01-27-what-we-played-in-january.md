@@ -17,6 +17,7 @@ tags:
 image: 2020-01-27.png
 comments: true
 share: true
+featured: true
 ---
 Welcome to our first Dads Gaming "What we played", a new monthly segment where we share what our community has been playing. This month we got a special treat in Rainbow Six Siege, explored Aurora Island in Ghost Recon Breakpoint, dived into Season 3 of Apex Legends, spoiled by the guns in the King of Looter Shooters: Borderlands 3, and cross-played in Call of Duty Modern Warfare.
 
