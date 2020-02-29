@@ -24,7 +24,7 @@ Use it to make something cool, have fun, and share what you've learned with othe
 	2.3 Buttons
 	2.4 Alerts
 	2.5 Badges
-	2.6 Breadcrumbs	
+	2.6 Breadcrumbs
 	2.7 Accordions
 	2.8 Collapse
 	2.9 Dropdown
@@ -252,7 +252,7 @@ p.copyright {
 	transition: all 0.5s;
 	background:#51dde9;
 	color:#fff;
-	
+
 }
 #top-menu.navbar-default .navbar-nav li:hover > a{color:#fff; transition: all 0.5s;}
 
@@ -816,8 +816,8 @@ button + .dropdown-menu {
 
 
 
-	
-	
+
+
 
 /* All base elements go here */
 
@@ -879,7 +879,7 @@ textarea {
 textarea:focus, input[type="text"]:focus, input[type="password"]:focus, input[type="datetime"]:focus, input[type="datetime-local"]:focus, input[type="date"]:focus, input[type="month"]:focus, input[type="time"]:focus, input[type="week"]:focus, input[type="number"]:focus, input[type="email"]:focus, input[type="url"]:focus, input[type="search"]:focus, input[type="tel"]:focus, input[type="color"]:focus, .uneditable-input:focus {
 	border-color: rgba(126, 239, 104, 0);
 	/*box-shadow: 0 1px 1px rgba(0, 0, 0, 0.075) inset, 0 0 8px rgba(126, 239, 104, 0.6);*/
-  
+
 	-webkit-box-shadow: 0px 3px 24px 3px rgba(0,0,0,0.06);
 	-moz-box-shadow: 0px 3px 24px 3px rgba(0,0,0,0.06);
 	box-shadow: 0px 3px 24px 3px rgba(0,0,0,0.06);
@@ -2890,7 +2890,7 @@ blockquote p {
 	color: #73757d;
 	font-size: 16px;
 	margin: 10px 0;
-	
+
 }
 
 
@@ -3043,7 +3043,7 @@ blockquote p {
 	padding: 0px;
 	font-size: 14px;
 	/*border-radius: 50%;*/
-	
+
 }
 .custom-social li i:hover {
 	color: #ffc527;
@@ -3059,7 +3059,7 @@ blockquote p {
 	background-color: transparent;
 	display: inline-block;
 	font-size: 14px !important;
-	
+
 }
 .custom-social li:before{visibility:hidden; display:none !important;}
 
@@ -3067,7 +3067,7 @@ blockquote p {
 	display: inline-block;
 }
 .custom-social {
-	
+
 	display: block;
 	padding:0;
 }
@@ -4176,7 +4176,7 @@ width: calc(100% / 3)  ;
 }
 /*----------------
 5.4 our-services
------------------*/	
+-----------------*/
 
 #our-services {
 	padding: 80px 0;
@@ -4220,7 +4220,7 @@ width: calc(100% / 3)  ;
 }
 /*----------------
 5.5 testimonials
------------------*/	
+-----------------*/
 
 #testimonials-block {
 	color: #000;
@@ -4282,7 +4282,7 @@ width: calc(100% / 3)  ;
 }
 /*----------------
 5.6 Clients Section
------------------*/	
+-----------------*/
 
 
 #clients-block {
@@ -4319,7 +4319,7 @@ width: calc(100% / 3)  ;
 }
 /*----------------
 5.7 from-blog Section
------------------*/	
+-----------------*/
 
 .section-title p {
 	max-width: 700px;
@@ -4344,7 +4344,7 @@ article {
 }
 /*----------------
 5.8 article
------------------*/	
+-----------------*/
 
 
 article a img {
@@ -4414,7 +4414,7 @@ article p {
 }
 /*----------------
 5.9 home-contact-block
------------------*/	
+-----------------*/
 
 #free-trial-block {
 	padding: 70px 0 55px;
@@ -4751,9 +4751,9 @@ blockquote {
 
 }
  @media (max-width: 603px) {
-	 
- 
-	 
+
+
+
 .search-cart-block {
 	display: block;
 	float: none;

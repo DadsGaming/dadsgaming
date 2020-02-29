@@ -34,6 +34,8 @@ Consider visiting some of the sponsored links on our pages. We don't get paid un
 
 * [Register on Leaptrade and use reference 'Dads Gaming' to be added to our custom group!](https://www.leaptrade.com/register/referrer:Renovatio%2042){:target="_blank"}
 
+* [How to join our Dads Gaming Group on Leaptrade?](https://dadsgaming.com/games/2018/04/30/dadsgaming-partnered-with-leaptrade/){:target="_blank"}
+
  <img src="/img/affiliate/brand_leaptrade.png">
 
 ## 3. Donate on Patreon (coming soon!)

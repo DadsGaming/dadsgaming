@@ -201,13 +201,15 @@
 
         <div class="clearfix"></div>
 
-        <!--author box-->
-        <div class="author-box"> <img alt="" src="{{ site.baseurl }}/img/team/{{ author.avatar }}"  class="avatar " height="100" width="100">
-          <div class="author-box-title"> Authored By <a href="{{ site.baseurl }}/author/{{ page.author }}/" rel="author">{{ page.author }}</a> </div>
-          <div class="author-description"> {{ author.description }} </div>
-          <div class="author_social"> </div>
-        </div>
-        <!--/author box-->
+        {% if author %}
+          <!--author box-->
+          <div class="author-box"> <img alt="" src="{{ site.baseurl }}/img/member/{{ author.avatar }}"  class="avatar " height="100" width="100">
+            <div class="author-box-title"> Authored By <a href="{{ site.baseurl }}/author/{{ author.name }}/" rel="author">{{ author.display_name }}</a> </div>
+            <div class="author-description"> {{ author.description }} </div>
+            <div class="author_social"> </div>
+          </div>
+          <!--/author box-->
+        {% endif %}
 
 
         <div class="clearfix"></div>
