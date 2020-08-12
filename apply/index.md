@@ -9,7 +9,7 @@ background-image: s-4.jpg
 share: true
 ---
 
-We are looking for Dads who are passionate about our Dads Gaming community and can help in the creative areas of graphics, photography, streaming, writing, and videos. Use the application links below and you could be selected to be to take photos, create graphics, write articles for the Dads Gaming web site, live stream on our Mixer and Twitch Channel, or create video content on our YouTube Channel.
+We are looking for Dads who are passionate about our Dads Gaming community and can help in the creative areas of graphics, photography, streaming, writing, and videos. Use the application links below and you could be selected to be to take photos, create graphics, write articles for the Dads Gaming web site, live stream on our Dads Gaming Twitch Channel, or create video content on our YouTube Channel.
 
 Here's your chance to get involved and level-up in Dads Gaming!
 
