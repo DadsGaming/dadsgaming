@@ -25,6 +25,4 @@ The four-part Extinction saga concludes with Episode 4: Exodus. Explore the bigg
 
 Nemesis arrives first on Xbox LIVE on August 5th, with other platforms to follow.
 
-{% include youtube_embed.html id="C5gk1jTKDG4" %} 
-
-<a href="http://www.amazon.com/gp/product/B00K308KF4/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=B00K308KF4&linkCode=as2&tag=dadgam-20&linkId=XYT3ZLPHH34ASTOR">Pre-Order Call of Duty: Advanced Warfare - Xbox One</a><img src="http://ir-na.amazon-adsystem.com/e/ir?t=dadgam-20&l=as2&o=1&a=B00K308KF4" width="1" height="1" border="0" alt="" style="border:none !important; margin:0px !important;" />
+{% include youtube_embed.html id="C5gk1jTKDG4" %}

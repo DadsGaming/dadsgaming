@@ -55,8 +55,6 @@ Happy Hunting!
 
 Come join us for some friendly fun and casual Wolf and drone killing on any platform of your choice. We have Dad’s playing across PC, Xbox, and PS4.
 
-{% include amazon_strip.html %}
-
 ## Apex Legends
 
 <img class="img-responsive" src="{{ site.baseurl }}/img/post/2020-01-27-apex-legends.png" width="800" height="445" alt="apex-legends">
@@ -96,8 +94,6 @@ Gearbox is a seasoned developer any complaints I have about Borderlands 3 can be
 {% include youtube_embed.html id="MumvhK-ec-c" %}
 
 Borderlands 3 is still king of the Looter Shooters in my near-sighted eyes. Great guns, great voice actors with Borderlands gameplay. The game should experience an injection of excitement soon with the upcoming release of Takedown at Maliwan’s Blacksite DLC.
-
-{% include amazon_strip2.html %}
 
 ## Call of Duty: Modern Warfare (2019)
 

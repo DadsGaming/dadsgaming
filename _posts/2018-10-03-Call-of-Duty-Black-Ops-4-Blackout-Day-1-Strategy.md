@@ -96,5 +96,3 @@ Articles
 3. Get comfortable with the nerve racking nature of this game type.  As somebody who is used to respawns, only having one life really gets my blood pumping as the match progresses.  So we need to stay calm and keep relaxed.
 
 4. Become proficient with the inventory navigation and how/when to use perks.  This will apply to everyone of course, but I feel this is definitely a key area to master.  Knowing when and where to use certain perks and equipment will be the difference between winning and losing in this game.
-
-<a href="https://www.amazon.com/gp/search/ref=as_li_qf_sp_sr_il_tl?ie=UTF8&tag=dadsgamingus-20&keywords=call of duty black ops 4&index=aps&camp=1789&creative=9325&linkCode=xm2&linkId=c832e42d66f3974954dcbca032e308e4">Buy Call of Duty Black Ops 4 for PC, PS4, and Xbox One using our Amazon Affiliate Link</a>

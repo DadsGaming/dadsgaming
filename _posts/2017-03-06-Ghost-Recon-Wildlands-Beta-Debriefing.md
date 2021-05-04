@@ -42,11 +42,4 @@ If you read my first write up about the [closed beta](https://www.reddit.com/r/D
 
 I’ll see you in the Wildlands.
 
-{% include youtube_embed.html id="Jmzo4KvRmsM" %} 
-
-<p>
-	<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=dadgam-20&marketplace=amazon&region=US&placement=B01GK6YHMO&asins=B01GK6YHMO&linkId=b4bfc2438cd2856b0b0091487761846f&show_border=false&link_opens_in_new_window=false&price_color=333333&title_color=0066c0&bg_color=ffffff">
-    </iframe>
-	<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ac&ref=tf_til&ad_type=product_link&tracking_id=dadgam-20&marketplace=amazon&region=US&placement=B01GQV9JB2&asins=B01GQV9JB2&linkId=1439f23ae80e532a2c0383f665f7ad0e&show_border=false&link_opens_in_new_window=false&price_color=333333&title_color=0066c0&bg_color=ffffff">
-    </iframe>
-</p>
+{% include youtube_embed.html id="Jmzo4KvRmsM" %}

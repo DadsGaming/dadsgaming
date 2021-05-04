@@ -7,14 +7,7 @@ permalink: /support/
 ---
 <a name="affiliates"></a>Here's how you can help:
 
-## 1. Order anything <u>and everything</u> on Amazon using Dads Gaming affilated link:
-
-* [Bookmark and buy using Amazon Affliate Link for Dads Gaming](https://www.amazon.com/?tag=dadsgamingus-20&linkCode=ez){:target="_blank"}: <strong>[http://amazon.dadsgaming.com](http://amazon.dadsgaming.com){:target="_blank"}</strong>
-* [Buy Amazon Recommendations by Dads Gaming](https://www.amazon.com/shop/dadsgaming){:target="_blank"}: <strong>[https://www.amazon.com/shop/dadsgaming](https://www.amazon.com/shop/dadsgaming){:target="_blank"}</strong>
-
-<a data-flickr-embed="true"  href="http://www.amazon.com//ref=as_sl_pc_tf_lc?&tag=dadgam-20&camp=216797&creative=493937&linkCode=ur1&adid=0A38T517P97KRKP3YQYK&&ref-refURL=http%3A%2F%2Fdadsgaming.com%2Farticles%2Foperation-supply-drop-inbound-with-dads-gaming%2F" title="amazon_dads_gaming" target="_blank"><img src="https://farm2.staticflickr.com/1481/26191607616_eaece58d56_z.jpg" width="640" height="79" alt="amazon_dads_gaming"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
-## 2. <a name="affiliates"></a>Support our Sponsors
+## 1.<a name="affiliates"></a>Support our Sponsors
 
 Consider visiting some of the sponsored links on our pages. We don't get paid unless our visitors click on the links and make a purchase.
 
@@ -23,12 +16,6 @@ Consider visiting some of the sponsored links on our pages. We don't get paid un
 * [<strong><i>Get a 5% off discount when you use code 'dads'</i></strong> on your new, custom designed controller or project from Condemned Customs](http://www.condemnedcustoms.com){:target="_blank"}
 
  <img src="/img/affiliate/brand_cc_controller.png">
-
-<h3>JerkyXP</h3>
-
-* [JerkyXP and use code 'dads' for some tasty meat!](http://lddy.no/32ty){:target="_blank"}
-
- <img src="/img/affiliate/brand_jerkyxp.png">
 
 <h3>Leaptrade</h3>
 

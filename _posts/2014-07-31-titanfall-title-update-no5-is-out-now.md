@@ -45,10 +45,4 @@ Titanfall Title Update No. 5 is out now!
 * Moved Campaign game mode in with the other existing game modes. It will rotate through all maps over and over and you can join at any point.
 
 
-{% include youtube_embed.html id="b3zNj9h6yZw" %} 
-
-<script type="text/javascript" src="http://wms-na.amazon-adsystem.com/20070822/US/js/link-enhancer-common.js?tag=dadgam-20&linkId=DDHN7VZYN7WGTFGG">
-</script>
-<noscript>
-    <img src="http://wms-na.amazon-adsystem.com/20070822/US/img/noscript.gif?tag=dadgam-20&linkId=DDHN7VZYN7WGTFGG" alt="" />
-</noscript>
+{% include youtube_embed.html id="b3zNj9h6yZw" %}
