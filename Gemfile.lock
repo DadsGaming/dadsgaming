@@ -235,6 +235,7 @@ GEM
     minitest (5.15.0)
     multipart-post (2.1.1)
 <<<<<<< HEAD
+<<<<<<< HEAD
     nokogiri (1.13.1-arm64-darwin)
       racc (~> 1.4)
     nokogiri (1.13.1-x86_64-darwin)
@@ -243,13 +244,22 @@ GEM
       racc (~> 1.4)
     nokogiri (1.12.5-x86_64-linux)
 >>>>>>> 88fc43eebd9316d288cf35c109f02d5845e216f0
+=======
+    nokogiri (1.13.4-x86_64-darwin)
+      racc (~> 1.4)
+    nokogiri (1.13.4-x86_64-linux)
+>>>>>>> dccf98b966788085a7c4af50057f009890c7db79
       racc (~> 1.4)
     octokit (4.22.0)
       faraday (>= 0.9)
       sawyer (~> 0.8.0, >= 0.5.3)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
+<<<<<<< HEAD
     public_suffix (4.0.6)
+=======
+    public_suffix (3.1.1)
+>>>>>>> dccf98b966788085a7c4af50057f009890c7db79
     racc (1.6.0)
     rb-fsevent (0.11.0)
     rb-inotify (0.10.1)
