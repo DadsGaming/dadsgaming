@@ -19,7 +19,7 @@ This month we jump into a realistic online first-person action: Escape from Tark
 
 ## Escape from Tarkov
 
-<img class="img-responsive" src="{{ site.baseurl }}/img/post/2020-02-24-escape_from_tarkov.jpg" width="800" height="445" alt="escape_from_tarkov">
+<img class="img-responsive" src="{{ site.baseurl }}/img/post/2020-02-29-escape_from_tarkov.jpg" width="800" height="445" alt="escape_from_tarkov">
 
 <hr>
 <div class="bypostauthor"> <img alt="" src="{{ site.baseurl }}/img/member/Sacside.jpg"  class="avatar " height="100" width="100">
@@ -91,7 +91,7 @@ If you are carrying a torch for any of the previous versions of Borderlands, the
 
 Gearbox is a seasoned developer any complaints I have about Borderlands 3 can be chalked up to preference and opinion. I am not a fan of open-world games moving towards this new open segment or area model. Borderlands 3 using plants as their open areas (as does outer worlds). It creates unnecessary loads times and UI navigations issues. Even more importantly I love games that have the “if you see it you can go to it” sense of adventure connected to it.
 
-{% include youtube_embed.html id="MumvhK-ec-c" %}
+{% include youtube_embed.html id="qsmQ7lQRo1o" %}
 
 Borderlands 3 is still king of the Looter Shooters in my near-sighted eyes. Great guns, great voice actors with Borderlands gameplay. The game should experience an injection of excitement soon with the upcoming release of Takedown at Maliwan’s Blacksite DLC.
 
