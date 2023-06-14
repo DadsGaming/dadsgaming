@@ -9,7 +9,7 @@ tags:
  - baseball
  - ps4
  - sports
-image: post/2019-01-08.png
+image: 2019-01-08.png
 comments: true
 share: true
 ---
